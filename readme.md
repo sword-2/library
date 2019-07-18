@@ -1,13 +1,15 @@
 #bible-kjv
 
-The repository is not yet complete. It is planned to be a KJV bible in a file system format.
-A file system offers more random access to select specific books and chapters than one large file.
+It is not complete and not checked to avoid errors.
 
-The content will just be a copy from the Gutenberg (Reference 1) web page. The Gutenberg was really cool to offer a download. The downloaded which was unzipped was one giant file.
+**Plan**
+It is planned to be a KJV bible so that when the .zip format is downloaded, it will expand into a file system format for books and chapters, etc.
 
-Therefore dividing the giant file to separate books, chapters, and administrative parts. The git command line tool was good for upload and download of whole file systems, thus a plan to apply it.   
+A Gutenberg (Reference 1) download was acquired. The particular downloaded into one giant unzipped file.
 
-It is just a personal file processing and accidental errors may occur. Any checking will be added once done.
+The giant file is only being separated by books, chapters, and administrative parts.
+
+It is just personal file processing, not completed and probably accidental errors. When content is checked, the check will be described.
 
 Reference(s):
 -1. http://www.gutenberg.org/files/10/
