@@ -3,11 +3,13 @@
 It is not complete and not checked to avoid errors.
 
 **Plan**
-It is planned to be a KJV bible so that when the .zip format is downloaded, will expand into a file system format by books and chapters, etc.
+It is planned to be a KJV bible accessible by simple file-system. The .zip download is planned to expand into folders for each book, and inside that, files for each chapter.
 
-It started out from a Gutenberg download (Reference 1). The particular file unzipped into one giant file. That giant file is being separated by books, chapters, and administrative parts.
+It started out from a Gutenberg download (Reference 1). The particular download was good, but one giant file. The giant file would be harder to navigate.
 
-It is just personal file processing, not completed and likely has accidental errors.
+There are already lots of bible apps, but a file-system format makes for easy addition of tools like concordance, maybe coloring pages if a child downloaded, etc.
+
+**Caution: not yet checked for accidental errors.**
 
 Reference(s):
 -1. http://www.gutenberg.org/files/10/
