@@ -1,13 +1,26 @@
-<html><head>
+<!DOCTYPE html><html lang="en-US"><head>
 <title>Web browser navigation</title>
+</head><body>
+<div id="google_translate_element"></div>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+
+/* The translate button was being tried out to see if system risks in a popup message could be put into the language of international browsers. This way if something happened, they would not have hard feelings of suspicion that someone gave them a computer virus. */ 
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 <script>
 /* This is basically functions to put first so they are defined before they are called. */
 
 function acceptRisks() {
-cmt1='Do you agree to accept risk(s)? At the most it could include a browser lockup or recycling device power. Although the File API is supported by     your device one risk as of July 2019 was a notice from the W3C as copied below from: https://www.w3.org/TR/FileAPI/#dfn-filereader';
+msg1='Do you agree to accept risk(s)? Impact is not expected to exceed a browser lockup followed by cycling the power on your device or restart. Although the File API is supported by your device one risk as of July 2019 was a notice from the W3C as copied below from: https://www.w3.org/TR/FileAPI/#dfn-filereader';
 
-atRisk1='\n\nNote: The FileList interface should be considered "at risk" since the general trend on the Web Platform is to replace such interfaces with the Array platform object in ECMAScript [ECMA-262]. In particular, this means syntax of the sort filelist.item(0) is at risk; most other programmatic use of FileList is unlikely to be affected by the eventual migration to an Array type.';
-if (confirm(cmt1+atRisk1)) {
+
+W3CFileApiRisk1='\n\nNote: The FileList interface should be considered "at risk" since the general trend on the Web Platform is to replace such interfaces with the Array platform object in ECMAScript [ECMA-262]. In particular, this means syntax of the sort filelist.item(0) is at risk; most other programmatic use of FileList is unlikely to be affected by the eventual migration to an Array type.';
+if (confirm(msg1+W3CFileApiRisk1)) {
   return true;
 } else {
   return false;
@@ -49,7 +62,6 @@ if (stat) {
 
 
 
-</head><body>
 <h1 id="top">Web browser navigation</h1>
 <table border="1" id='top'>
 <caption>Table of Contents</caption>
