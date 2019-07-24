@@ -1,18 +1,53 @@
 <html><head>
 <title>Web browser navigation</title>
 <script>
+/* This is basically functions to put first so they are defined before they are called. */
+
+function acceptRisks() {
+cmt1='Do you agree to accept risk(s)? At the most it could include a browser lockup or recycling device power. Although the File API is supported by     your device one risk as of July 2019 was a notice from the W3C as copied below from: https://www.w3.org/TR/FileAPI/#dfn-filereader';
+
+atRisk1='\n\nNote: The FileList interface should be considered "at risk" since the general trend on the Web Platform is to replace such interfaces with the Array platform object in ECMAScript [ECMA-262]. In particular, this means syntax of the sort filelist.item(0) is at risk; most other programmatic use of FileList is unlikely to be affected by the eventual migration to an Array type.';
+if (confirm(cmt1+atRisk1)) {
+  return true;
+} else {
+  return false;
+}
+}// end function
+</script>
+<script>
 /* End software algorithm copyright ADOM Baptist church [Kumasi, Ghana] */
-/* Data downloaded from http://www.crosswire.org/bsisg/brefspec.txt */
 
+/* Purpose is to read the verse specification for each book and chapter to verify the contents for confidence in the content. */
 
-// Check for the various File API support.
 if (window.File && window.FileReader && window.FileList && window.Blob) {
-  // Great success! All the File APIs are supported.
-  alert('the File APIs are supported.');
+  // The File APIs are supported.
+//alert('hi');
+
+stat = acceptRisks();
+//stat=false;
+if (stat) {
+  alert('risks accepted');	
 } else {
-  alert('The File APIs are not fully supported in this browser.');
+  alert('risks NOT accepted');
+  //return false;
+}
+
+//  var file1 = new File([""], "01-Genesis/999-brefspec", {type: "text/plain"});
+//  var fr = new FileReader();
+  //var reader = new FileReader();
+//  fr.onload=function(){
+//    fr.readAsText(file1);
+//    temp1 = fr.result; // display file contents }
+
+  //fr.readAsText(file);
+//  alert(temp1);
+} else {
+  alert('The File APIs are not fully supported in your browser and/or computing configuration. The javascript uses it to read the bible verses. Please check on what happened to the API support.');
 }
 </script>
+
+
+
 
 </head><body>
 <h1 id="top">Web browser navigation</h1>
