@@ -1,37 +1,44 @@
 <!DOCTYPE html><html lang="en-US"><head>
 <title>Web browser navigation</title>
+<style>
+#RA {
+  width: 100%;
+  padding: 50px 0;
+  //text-align: center;
+  background-color: lightblue;
+  margin-top: 20px;
+}
+</style>
+<script>
+function RA_process() {
+  var x = document.getElementById("RA");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    alert('code to process not completed');
+    x.style.display = "none";
+//    if (confirm(msg1+fileAPI+fileAPI_details+nonStdErr)) {
+//      return true;
+//    } else {
+//      return false;
+//    } //end else
+  } //end else
+} //end function
+</script>
 </head><body>
 <div id="google_translate_element"></div>
 <script type="text/javascript">
 function googleTranslateElementInit() {
 
 /* The translate button was an experiment in case an international browser runs code and something goes wrong. 
-Suspicion of a computer virus might be avoided if a system fault is translated to communicate it was just a system anomaly. */ 
+Suspicion of a computer virus might be avoided if the browser can be notified it was just a system fault or other anomaly and not a malicious virus. */ 
+
   new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
 }
 </script>
 
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-<script>
-/* Functions before they are called by parent programs. */
-
-function acceptRisks() {
-msg1='Do you agree to accept computing risk(s)? Impact is not expected to exceed a browser lockup and/or cycling the power on your device to regain control. Some risks follow.';
-
-fileAPI='\n\nAlthough the File API is supported by your device, one risk was noted as copied from: https://www.w3.org/TR/FileAPI/#dfn-filereader';
-
-
-fileAPI_details='\nNote: The FileList interface should be considered "at risk" since the general trend on the Web Platform is to replace such interfaces with the Array platform object in ECMAScript [ECMA-262]. In particular, this means syntax of the sort filelist.item(0) is at risk; most other programmatic use of FileList is unlikely to be affected by the eventual migration to an Array type.';
-nonStdErr='\n\nSome browsers have non-standard error properties according to the link: https://www.w3schools.com/js/js_errors.asp. If an error occurs, depending on the browser and code logic, there is some uncertainty as to what might happen.';
-
-if (confirm(msg1+fileAPI+fileAPI_details+nonStdErr)) {
-  return true;
-} else {
-  return false;
-}
-}// end function
-</script>
 <script>
 /* End software algorithm copyright ADOM Baptist church [Kumasi, Ghana] */
 
@@ -90,5 +97,24 @@ alert('process1() ending');
 <tr><th>Section / link</th></tr>
 <tr><td><a href="./95-music/index.html">Music</a></td></tr>
 </table>
-<p class="sm">Accidental typos possible</p>
+<hr>
+<button onclick="RA_process()">Agree with risks and process ...</button>
+<br><br>
+<div id="RA">
+Do you agree to accept computing risk(s)? 
+Impact is not expected to exceed a browser lockup and/or cycling the power on your device to regain control. 
+Some possible risks follow:
+
+<ul>
+<li>
+Although the File API is supported by your device, one risk was noted as copied from <a href="https://www.w3.org/TR/FileAPI/#dfn-filereader">here</a>
+<br>
+Note: The FileList interface should be considered "at risk" since the general trend on the Web Platform is to replace such interfaces with the Array platform object in ECMAScript [ECMA-262]. In particular, this means syntax of the sort filelist.item(0) is at risk; most other programmatic use of FileList is unlikely to be affected by the eventual migration to an Array type.'
+</li>
+
+<li>
+Some browsers may have non-standard error properties according to this <a href="https://www.w3schools.com/js/js_errors.asp">link</a>. If the software boards have any code for the unique properties, and it is accidentally applied to complete processing, there is some uncertainty as to what might happen.
+</li>
+</ul>
+</div>
 </body></html>
