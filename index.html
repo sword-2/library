@@ -5,7 +5,8 @@
 <script type="text/javascript">
 function googleTranslateElementInit() {
 
-/* The translate button was being tried out to see if system risks in a popup message could be put into the language of any international browsers. If something were to happen and an international browser experienced a computer lockup, the warning could make them of software anomalies and avoid hard feelings that someone might have given them a computer virus. (Col 3:8) */ 
+/* The translate button was an experiment in case an international browser runs code and something goes wrong. 
+Suspicion of a computer virus might be avoided if a system fault is translated to communicate it was just a system anomaly. */ 
   new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
 }
 </script>
@@ -16,11 +17,15 @@ function googleTranslateElementInit() {
 /* Functions before they are called by parent programs. */
 
 function acceptRisks() {
-msg1='Do you agree to accept risk(s)? Impact is not expected to exceed a browser lockup followed by cycling the power on your device or restart. Although the File API is supported by your device one risk as of July 2019 was a notice from the W3C as copied below from: https://www.w3.org/TR/FileAPI/#dfn-filereader';
+msg1='Do you agree to accept computing risk(s)? Impact is not expected to exceed a browser lockup and/or cycling the power on your device to regain control. Some risks follow.';
+
+fileAPI='\n\nAlthough the File API is supported by your device, one risk was noted as copied from: https://www.w3.org/TR/FileAPI/#dfn-filereader';
 
 
-W3CFileApiRisk1='\n\nNote: The FileList interface should be considered "at risk" since the general trend on the Web Platform is to replace such interfaces with the Array platform object in ECMAScript [ECMA-262]. In particular, this means syntax of the sort filelist.item(0) is at risk; most other programmatic use of FileList is unlikely to be affected by the eventual migration to an Array type.';
-if (confirm(msg1+W3CFileApiRisk1)) {
+fileAPI_details='\nNote: The FileList interface should be considered "at risk" since the general trend on the Web Platform is to replace such interfaces with the Array platform object in ECMAScript [ECMA-262]. In particular, this means syntax of the sort filelist.item(0) is at risk; most other programmatic use of FileList is unlikely to be affected by the eventual migration to an Array type.';
+nonStdErr='\n\nSome browsers have non-standard error properties according to the link: https://www.w3schools.com/js/js_errors.asp. If an error occurs, depending on the browser and code logic, there is some uncertainty as to what might happen.';
+
+if (confirm(msg1+fileAPI+fileAPI_details+nonStdErr)) {
   return true;
 } else {
   return false;
@@ -36,27 +41,44 @@ if (window.File && window.FileReader && window.FileList && window.Blob) {
   // The File APIs are supported.
 //alert('hi');
 
-stat = acceptRisks();
-//stat=false;
+stat = acceptRisks(); //when known, disclose to browser
+
 if (stat) {
-  alert('risks accepted');	
+  //risks accepted, try to process.
+  process1();
 } else {
-  alert('risks NOT accepted');
-  //return false;
+  alert('risks NOT accepted, processing being skipped');
+  //javascript may not have an exit(), since there was never a main function to exit from. Anomaly occurred using return;
 }
 
-//  var file1 = new File([""], "01-Genesis/999-brefspec", {type: "text/plain"});
-//  var fr = new FileReader();
-  //var reader = new FileReader();
-//  fr.onload=function(){
-//    fr.readAsText(file1);
-//    temp1 = fr.result; // display file contents }
-
-  //fr.readAsText(file);
-//  alert(temp1);
 } else {
   alert('The File APIs are not fully supported in your browser and/or computing configuration. The javascript uses it to read the bible verses. Please check on what happened to the API support.');
-}
+} //end else
+
+
+function process1() {
+  alert('process1() starting...');
+  //msg1='---';
+  //W3CFileApiRisk1='\n\nNote:';
+
+  var file1 = new File([""], "01-Genesis/999-brefspec", {type: "text/plain"});
+  var fr = new FileReader();
+  //var reader = new FileReader();
+  fr.onload=function() {
+    alert('fr.onload called');
+    fr.readAsText(file1);
+    temp1 = fr.result; // display file contents 
+    alert('temp1='+temp1.toString());
+  }
+
+  //fr.readAsText(file);
+//if (confirm(msg1+W3CFileApiRisk1)) {
+//  return true;
+//} else {
+//  return false;
+//}
+alert('process1() ending');
+}// end function
 </script>
 
 
