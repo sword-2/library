@@ -10,13 +10,25 @@
 }
 </style>
 <script>
+RA_m1='Do you agree to accept computing risk(s)? Impact is not expected to exceed a browser lockup and/or cycling the power on your device to regain control. Some possible risks follow:';
+
+RA_m2='Although the File API is supported by your device, one risk was noted as copied from <a href="https://www.w3.org/TR/FileAPI/#dfn-filereader">here</a>';
+
+RA_m3='Note: The FileList interface should be considered "at risk" since the general trend on the Web Platform is to replace such interfaces with the Array platform object in ECMAScript [ECMA-262]. In particular, this means syntax of the sort filelist.item(0) is at risk; most other programmatic use of FileList is unlikely to be affected by the eventual migration to an Array type.';
+
+RA_m4='Some browsers may have non-standard error properties according to this <a href="https://www.w3schools.com/js/js_errors.asp">link</a>. If the software boards have any code for the unique properties, and it is accidentally applied to complete processing, there is some uncertainty as to what might happen.';
+
+
 function RA_process() {
   var x = document.getElementById("RA");
-  if (x.style.display === "none") {
-    x.style.display = "block";
+  if (x.innerHTML == "") {
+  //if (x.style.display === "none") {
+    //x.style.display = "block";
+    x.innerHTML=RA_m1+'<ul><li>'+RA_m2+RA_m3+'</li><li>'+RA_m4 +'</li></ul>';
   } else {
     alert('code to process not completed');
-    x.style.display = "none";
+    x.innerHTML='';
+    //x.style.display = "none";
 //    if (confirm(msg1+fileAPI+fileAPI_details+nonStdErr)) {
 //      return true;
 //    } else {
@@ -24,6 +36,9 @@ function RA_process() {
 //    } //end else
   } //end else
 } //end function
+
+
+
 </script>
 </head><body>
 <div id="google_translate_element"></div>
@@ -99,6 +114,7 @@ alert('process1() ending');
 </table>
 <hr>
 <button onclick="RA_process()">Agree with risks and process ...</button>
+
 <br><br>
 <div id="RA">
 Do you agree to accept computing risk(s)? 
