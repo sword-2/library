@@ -12,13 +12,13 @@
 <script>
 RA_m1='Risk agreement: Impact is not expected to exceed a browser lockup and/or cycling the power on your device (PC) to regain control. For any international browsers, if something happens, please do not assume a virus or malware as "anomalies" are more likely. Some anomaly possibililites follow:';
 
-RA_m2='Although the File API is supported by your device, one risk was copied from <a href="https://www.w3.org/TR/FileAPI/#dfn-filereader">here</a>';
+RA_m2='The File API was planned to run for validating the verses, comparing brefspec files with the actual scriptures. The browser compatibility table for the API at this <a href="https://developer.mozilla.org/en-US/docs/Web/API/File">link</a> indicates there may be instances where browsers do not run it. Even if supported, there was at least another small risk withing the API itself per the <a href="https://www.w3.org/TR/FileAPI/#dfn-filereader">link</a>';
 
 RA_m3=' Note: The FileList interface should be considered "at risk" since the general trend on the Web Platform is to replace such interfaces with the Array platform object in ECMAScript [ECMA-262]. In particular, this means syntax of the sort filelist.item(0) is at risk; most other programmatic use of FileList is unlikely to be affected by the eventual migration to an Array type.';
 
 RA_m4='Some browsers may have non-standard error properties according to the <a href="https://www.w3schools.com/js/js_errors.asp">link</a>. If code for unique properites is accidentally copied from a software board, it is uncertain what might happen.';
 
-RA_m5='A browser compatibility table at this <a href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch">link</a> reported uncertainty among the range of browsers regarding the fetch API. That API was planned to read musical notes.';
+RA_m5='The fetch API might be used to retrieve music notes. A browser compatibility table at this <a href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch">link</a> reported possible uncertainty for some device (PC) configurations.';
 
 function RA_process() {
   var x = document.getElementById("RA");
@@ -115,7 +115,7 @@ alert('process1() ending');
 </table>
 <hr>
 <p>The functionality is not yet completed-under construction.</p>
-<button onclick="RA_process()">I agree to accept risks on behalf of my device (PC), start processing ...</button>
+<button onclick="RA_process()">As owner of this device (PC), I accept the following risk agreement. Go ahead and start processing ...</button>
 
 <br><br>
 <div id="RA"></div><script>RA_process();</script>
