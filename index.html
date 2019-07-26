@@ -77,7 +77,7 @@ process1();
 <script type="text/javascript">
 function googleTranslateElementInit() {
 
-/* The translate button attempts to translate the risk agreement in theevent of an international browser. Might helps differentiate anomaly from virus. */ 
+/* The translate button hoped to translate the risk agreement in the event of an international browser. */ 
 
   new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
 }
@@ -85,6 +85,20 @@ function googleTranslateElementInit() {
 
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
+<script>
+/* An error was reported in 2 browsers for retrieving local file. Different internet reports conflicted about pulling files with fetch. If it does local files and does that accomplish Matthew 25:20-21? */
+function fetchApi(fName) {
+  alert('fetchApi start, received filename'+fName);
+fetch(fName) 
+.then(function(response) {
+  alert('fetch .then(response) ok');
+})
+.catch(function(error) {
+  alert('Looks like there was a problem: \n', error);
+});
+alert('fetchApi ending');
+} //end function
+</script>
 <h1 id="top">Incomplete web page(s) - under construction.</h1>
 <table border="1" id='top'>
 <caption>Table of Contents</caption>
