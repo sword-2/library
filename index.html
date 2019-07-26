@@ -1,12 +1,19 @@
 <!DOCTYPE html><html lang="en-US"><head>
-<title>Web browser navigation</title>
+<title>Incomplete page</title>
 <style>
-#RA {
+#RA_agrmt {
   width: 100%;
-  padding: 50px 0;
+  //padding: 50px 0;
   //text-align: center;
   background-color: lightblue;
-  margin-top: 20px;
+  //margin-top: 20px;
+}
+#RA_status {
+  width: 100%;
+  //padding: 50px 0;
+  //text-align: center;
+  background-color: green;
+  //margin-top: 20px;
 }
 </style>
 <script>
@@ -20,8 +27,31 @@ RA_m4='Some browsers may have non-standard error properties according to the <a 
 
 RA_m5='The fetch API might be used to retrieve music notes. A browser compatibility table at this <a href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch">link</a> reported possible uncertainty for some device (PC) configurations.';
 
+function checks() {
+//Browsers might not support some API's. Attempt to check the status of some
+var status1=''; //return a result
+
+//File API
+if (!(window.File && window.FileReader && window.FileList && window.Blob)) {
+  status1+='<br>File API not supported.';
+}
+
+if (!('fetch' in window)) {
+  status1+='<br>Fetch API not found';
+}
+var RA_stat = document.getElementById("RA_status");
+
+if (status1 != '') {
+RA_stat.innerHTML = "Not all APIs were found:<br>"+status1;
+}
+else {
+RA_stat.innerHTML = "All APIs checked were found:<br>"+status1;
+} //end else for checks
+} //end function
+
 function RA_process() {
-  var x = document.getElementById("RA");
+
+  var x = document.getElementById("RA_agrmt");
   if (x.innerHTML == "") {
   //if (x.style.display === "none") {
     //x.style.display = "block";
@@ -36,6 +66,7 @@ function RA_process() {
 //      return false;
 //    } //end else
   } //end else
+process1();
 } //end function
 
 
@@ -46,66 +77,13 @@ function RA_process() {
 <script type="text/javascript">
 function googleTranslateElementInit() {
 
-/* The translate button was an experiment in case an international browser runs code and something goes wrong. 
-Suspicion of a computer virus might be avoided if the browser can be notified it was just a system fault or other anomaly and not a malicious virus. */ 
+/* The translate button attempts to translate the risk agreement in theevent of an international browser. Might helps differentiate anomaly from virus. */ 
 
   new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
 }
 </script>
 
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
-<script>
-/* End software algorithm copyright ADOM Baptist church [Kumasi, Ghana] */
-
-/* Purpose is to read the verse specification for each book and chapter to verify the contents for confidence in the content. */
-
-if (window.File && window.FileReader && window.FileList && window.Blob) {
-  // The File APIs are supported.
-//alert('hi');
-
-stat = acceptRisks(); //when known, disclose to browser
-
-if (stat) {
-  //risks accepted, try to process.
-  process1();
-} else {
-  alert('risks NOT accepted, processing being skipped');
-  //javascript may not have an exit(), since there was never a main function to exit from. Anomaly occurred using return;
-}
-
-} else {
-  alert('The File APIs are not fully supported in your browser and/or computing configuration. The javascript uses it to read the bible verses. Please check on what happened to the API support.');
-} //end else
-
-
-function process1() {
-  alert('process1() starting...');
-  //msg1='---';
-  //W3CFileApiRisk1='\n\nNote:';
-
-  var file1 = new File([""], "01-Genesis/999-brefspec", {type: "text/plain"});
-  var fr = new FileReader();
-  //var reader = new FileReader();
-  fr.onload=function() {
-    alert('fr.onload called');
-    fr.readAsText(file1);
-    temp1 = fr.result; // display file contents 
-    alert('temp1='+temp1.toString());
-  }
-
-  //fr.readAsText(file);
-//if (confirm(msg1+W3CFileApiRisk1)) {
-//  return true;
-//} else {
-//  return false;
-//}
-alert('process1() ending');
-}// end function
-</script>
-
-
-
 
 <h1 id="top">Incomplete web page(s) - under construction.</h1>
 <table border="1" id='top'>
@@ -118,21 +96,7 @@ alert('process1() ending');
 <button onclick="RA_process()">As owner of this device (PC), I accept the following risk agreement. Go ahead and start processing ...</button>
 
 <br><br>
-<div id="RA"></div><script>RA_process();</script>
-
-<!--
-Risk agreement: The impact is not expected to exceed a browser lockup and/or cycling the power on your device to regain control. Some possible risks follow:
-
-<ul>
-<li>
-Although the File API is supported by your device, one risk was noted as copied from <a href="https://www.w3.org/TR/FileAPI/#dfn-filereader">here</a>
+<div id="RA_agrmt"></div><script>RA_process();</script>
 <br>
-Note: The FileList interface should be considered "at risk" since the general trend on the Web Platform is to replace such interfaces with the Array platform object in ECMAScript [ECMA-262]. In particular, this means syntax of the sort filelist.item(0) is at risk; most other programmatic use of FileList is unlikely to be affected by the eventual migration to an Array type.'
-</li>
-
-<li>
-Some browsers may have non-standard error properties according to this <a href="https://www.w3schools.com/js/js_errors.asp">link</a>. If the software boards have any code for the unique properties, and it is accidentally applied to complete processing, there is some uncertainty as to what might happen.
-</li>
-</ul>
--->
+<div id="RA_status"></div><script>checks();</script>
 </body></html>
