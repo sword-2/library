@@ -1,131 +1,55 @@
 <!DOCTYPE html><html lang="en-US"><head>
 <title>Incomplete page</title>
 <style>
-#RA_agrmt {
-  width: 100%;
-  //padding: 50px 0;
-  //text-align: center;
+#fileDisplayArea {
   background-color: lightblue;
-  //margin-top: 20px;
-}
-#RA_status {
-  width: 100%;
-  //padding: 50px 0;
-  //text-align: center;
-  background-color: green;
-  //margin-top: 20px;
+  border: 1px solid black;
 }
 </style>
 <script>
-RA_m1='Risk agreement: Impact is not expected to exceed a browser lockup and/or cycling the power on your device (PC) to regain control. For any international browsers, if something happens, please do not assume a virus or malware as "anomalies" are more likely. Some anomaly possibililites follow:';
-
-RA_m2='The File API was planned to run for validating the verses, comparing brefspec files with the actual scriptures. The browser compatibility table for the API at this <a href="https://developer.mozilla.org/en-US/docs/Web/API/File">link</a> indicates there may be instances where browsers do not run the API. Even if supported, there was at least another small risk within the API itself per the <a href="https://www.w3.org/TR/FileAPI/#dfn-filereader">link</a>';
-
-RA_m3=' Note: The FileList interface should be considered "at risk" since the general trend on the Web Platform is to replace such interfaces with the Array platform object in ECMAScript [ECMA-262]. In particular, this means syntax of the sort filelist.item(0) is at risk; most other programmatic use of FileList is unlikely to be affected by the eventual migration to an Array type.';
-
-RA_m4='Some browsers may have non-standard error properties according to the <a href="https://www.w3schools.com/js/js_errors.asp">link</a>. Code for unique properites will be avoided as much as possible, but if something is accidentally acquired from a software board, it is uncertain how it would process.';
-
-RA_m5='If the fetch API can read a file with music notes - there were different predictions as to what it would do - a browser compatibility table at this <a href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch">link</a> reported risk for some device (PC) configurations.';
-
-RA_m6='Software might not process a file by the operator\'s file extension and instead it might process by MIME type per this <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types">link.</a> Hopefully there will not be a conflict between MIME type and file extension. Also, picking a different file in terms of file extension or MIME type, other than what the code was ready for, may result in a fault.';
-
-RA_m7='The IE8 browser runs unique code according to this <a href="https://stackoverflow.com/questions/30914727/what-is-the-difference-between-addeventlistener-and-attachevent">link</a>. Those lines of code were not tested. If someone runs that browser, they will be the first to see what those lines of code do.';
-
-function checks_adom() {
-//Attempt to check which APIs are supported by browser.
-var status1='Checking which APIs are supported..........<br>'; //return a result
-
-//File and related APIs
-if (window.File && window.FileReader && window.FileList && window.Blob) {
-  status1+='found: File, FileReader, FileList, & Blob APIs.';
-} else {
-  status1+='NOT found: File, FileReader, FileList, & Blob APIs.';
-}
-status1+='<br>';
-if ('fetch' in window) {
-  status1+='found: Fetch API';
-} else {
-  status1+='NOT found: Fetch API';
-}
-var RA_stat = document.getElementById("RA_status");
-RA_stat.innerHTML = status1;
+function fileApi_adom1() {
+fileDisplayArea.innerHTML+='fileApi_adom1() start';
+  //help the popup start in a familiar directory
+  String filePath = new File("").getAbsolutePath();
+  //alert('fileApi_adom1 2');
+  filePath.concat(fileInput.files[0]);
+  //alert('fileApi_adom1 3');
+  var file = fileInput.files[0];
+  //alert('fileApi_adom1 4');
+  var textType = /text.*/; 
+  //alert('fileApi_adom1 5');
+  if (file.type.match(textType)) {
+    alert('file type matched');
+    var reader = new FileReader(); 
+    reader.onload = function(e) {
+      alert('reader.onload 1');
+      fileDisplayArea.innerText = reader.result; //the filename  
+      alert('reader.onload 2');
+      theContent=reader.readAsText(file);
+      //alert('reader.onload 3');
+      alert('theContent='+theContent);
+      alert('reader.onload 4');
+      } //end reader.onload
+    var newArr = JSON.parse(theContent);
+    alert(newArr);
+    fileDisplayArea.innerText=reader.readAsText(file);
+    } else { //end if begin else
+      alert('file type didn't match.');
+      fileDisplayArea.innerText = "File not supported!" 
+    } //end else
 } //end function
 
-function RA_process() {
-  var x = document.getElementById("RA_agrmt");
-  if (x.innerHTML == "") {
-  //if (x.style.display === "none") {
-    //x.style.display = "block";
-    x.innerHTML=RA_m1+'<ul><li>'+RA_m2+RA_m3+'</li><li>'+RA_m4 +'</li><li>' + RA_m5+'</li><li>'+RA_m6+'</li><li>'+RA_m7+'</li></ul>';
-  } else {
-    alert('code to process not complete and still under construction. This is only a placeholder.');
-    //x.innerHTML='';
-  } //end else
-  //process1();
-} //end function
-
-</script>
-<script>
-
-function fileApi_adom1(fName) {
-  alert('fileApi_adom1() function called.');
-fileInput = document.getElementById('fileInput');
-fileDisplayArea = document.getElementById('fileDisplayArea');
-  //msg1='---';
-
-  var file1 = new File([""], fName, {type: "text/plain"});
-  var fr = new FileReader();
-  fr.onload=function() {
-    alert('fr.onload called');
-    fr.readAsText(file1);
-    temp1 = fr.result; // display file contents 
-    alert('temp1='+temp1.toString());
-  }
-
-  //fr.readAsText(file);
-alert('fileApi() ending');
-}// end function
-
-
-
-
-//window.onload = function() {
-//  alert('window.onload started for fileAPI');
-//  var fileInput = document.getElementById('fileInput'); 
-//  var fileDisplayArea = document.getElementById('fileDisplayArea'); 
-//  fileInput.addEventListener('change', function(e) {
-//    alert('listener 1');
-//    //help the popup start in a familiar directory
-//    String filePath = new File("").getAbsolutePath();
-//    alert('listener 2');
-//    filePath.concat(fileInput.files[0]);
-//    alert('listener 3');
-
-//  var file = fileInput.files[0];
-//    alert('listener 4');
-//    var textType = /text.*/; 
-//    alert('listener 5');
-//    if (file.type.match(textType)) {
-//      alert('file type matched');
-//      var reader = new FileReader(); 
-//      reader.onload = function(e) {
-//      alert('reader.onload 1');
-//      //fileDisplayArea.innerText = reader.result; //the filename  
-//      alert('reader.onload 2');
-//      //theContent=reader.readAsText(file);
-//      alert('reader.onload 3');
-//      alert('theContent='+theContent);
-//      alert('reader.onload 4');
-//      }
-//      //var newArr = JSON.parse(theContent);
-//      //alert(newArr);
-//      //fileDisplayArea.innerText=reader.readAsText(file);
-//    } else {
-//      alert('file type didn't match.');
-//      fileDisplayArea.innerText = "File not supported!" 
-//    }
-//  }); //end event listener
-//} //end function
+//Old code:
+//  var file1 = new File([""], fName, {type: "text/plain"});
+//  var fr = new FileReader();
+//  fr.onload=function() {
+//    alert('fr.onload called');
+//    temp1 = fr.readAsText(file1);
+//    temp2 = fr.result; // display file contents 
+//    alert('temp1='+temp1.toString());
+//    alert('temp2='+temp2.toString());
+//  }
+//alert('fileApi_adom1() ending');
 </script>
 <script>
 /* An error was reported in 2 browsers for retrieving local file. Different internet reports conflicted about pulling files with fetch. If it does local files and does that accomplish Matthew 25:20-21? */
@@ -142,22 +66,57 @@ fetch(fName)
 alert('fetchApi ending');
 } //end function
 </script>
+<script>
+/* Waiting for the page to load hoped to avoid anomalies from processing something not yet available. */
+/*There are 2 parts. function AfterLoad_adom1() is listed first, and after the function, code for the first level listeners */
+
+function AfterLoad_adom1() {
+  alert('AfterLoad_adom1() starting.');
+
+//set listener for fileApi. ?change vs click
+fileInput.addEventListener("change", fileApi_adom1);
+fileInput.addEventListener("click", function(){ this.value=null; fileDisplayArea.innerHTML = "set value to null";});
+}// end function
+
+
+
+fileInput = document.getElementById('fileInput');
+fileDisplayArea = document.getElementById('fileDisplayArea');
+if(window.addEventListener){
+try {
+  window.addEventListener('load', AfterLoad_adom1);
+} //end try
+catch(err) {
+    errM='error in window.addEventListener(), message='+err.message;
+    window.alert(errM);
+    //errR.innerText=errM;
+} //end catch
+} //end if
+else{
+try {
+  //In case someone or an international browser tries to run internet explorer (IE) 8, there is unique code
+  window.attachEvent('onload', AfterLoad_adom1);
+} //end try
+catch(err) {
+    errM='error in window.attachEvent(), message='+err.message;
+    window.alert(errM);
+    //errR.innerText=errM;
+} //end catch
+}
+</script>
 </head><body>
 <div id="google_translate_element"></div>
 <h1 id="top">Incomplete web page(s) - under construction.</h1>
 <p>The functionality is not yet completed-under construction.</p>
-<button onclick="RA_process()">As owner of this device (PC), I accept the following risk agreement. Go ahead and start processing ...</button>
 
 <br><br>
-<div id="RA_agrmt"></div><script>RA_process();</script>
 <br>
 <div id="RA_status"></div><script>checks_adom();</script>
 
 <hr>
 
-<h2>Attempt to learn FileReader API.</h2>
-<div> Select a text file: 
-<input type="file" id="fileInput"></div> 
+<h2>Not complete: attempt to apply the FileReader API to count and verify verses.</h2>
+<div> Select a text file:
+<input type="file" id="fileInput"></div>
 <pre id="fileDisplayArea"><pre>
-</div>
 </body></html>
