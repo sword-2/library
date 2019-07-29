@@ -1,55 +1,40 @@
 <!DOCTYPE html><html lang="en-US"><head>
 <title>Incomplete page</title>
 <style>
+#RA_status {
+  border: 1px solid green;
+}
+
 #fileDisplayArea {
   background-color: lightblue;
   border: 1px solid black;
 }
 </style>
 <script>
-function fileApi_adom1() {
-fileDisplayArea.innerHTML+='fileApi_adom1() start';
-  //help the popup start in a familiar directory
-  String filePath = new File("").getAbsolutePath();
-  //alert('fileApi_adom1 2');
-  filePath.concat(fileInput.files[0]);
-  //alert('fileApi_adom1 3');
-  var file = fileInput.files[0];
-  //alert('fileApi_adom1 4');
-  var textType = /text.*/; 
-  //alert('fileApi_adom1 5');
-  if (file.type.match(textType)) {
-    alert('file type matched');
-    var reader = new FileReader(); 
-    reader.onload = function(e) {
-      alert('reader.onload 1');
-      fileDisplayArea.innerText = reader.result; //the filename  
-      alert('reader.onload 2');
-      theContent=reader.readAsText(file);
-      //alert('reader.onload 3');
-      alert('theContent='+theContent);
-      alert('reader.onload 4');
-      } //end reader.onload
-    var newArr = JSON.parse(theContent);
-    alert(newArr);
-    fileDisplayArea.innerText=reader.readAsText(file);
-    } else { //end if begin else
-      alert('file type didn't match.');
-      fileDisplayArea.innerText = "File not supported!" 
-    } //end else
-} //end function
+/* Some lines of code were commented out after a perceived risk that no file.type was being reported. This was based on simple debugging output. It was hoped to protect the operator from unexpected files, but the type reporting will have to be figured out first */
 
-//Old code:
-//  var file1 = new File([""], fName, {type: "text/plain"});
-//  var fr = new FileReader();
-//  fr.onload=function() {
-//    alert('fr.onload called');
-//    temp1 = fr.readAsText(file1);
-//    temp2 = fr.result; // display file contents 
-//    alert('temp1='+temp1.toString());
-//    alert('temp2='+temp2.toString());
-//  }
-//alert('fileApi_adom1() ending');
+function fileApi_adom1() {
+  var file = fileInput.files[0];
+  //RA_status.innerHTML+='<br><br>debugging fileApi_adom1()....';
+    //RA_status.innerHTML+='<br>file.name='+file.name;
+    //RA_status.innerHTML+='<br>file.type='+file.type;
+
+  //type check skipped after not finding file.type
+  //var patt = /text/i;
+  //if (file.type.match(patt)) {
+    var reader = new FileReader();
+    var data; //storage for content
+    reader.onload = function(e) {
+      data = e.target.result;
+      fileDisplayArea.innerHTML=data;
+    }; //end reader.onload
+    reader.readAsText(file);
+  //} else { //end if begin else
+    //RA_status.innerHTML+='<br>File type check not successful, expected some type of text. Searched with pattern:' +patt.toString()+', on file.type='+file.type;
+  //} //end else
+  RA_status.innerHTML+='<br>fileApi_adom1() ending';
+  return data;
+} //end function
 </script>
 <script>
 /* An error was reported in 2 browsers for retrieving local file. Different internet reports conflicted about pulling files with fetch. If it does local files and does that accomplish Matthew 25:20-21? */
@@ -67,21 +52,85 @@ alert('fetchApi ending');
 } //end function
 </script>
 <script>
-/* Waiting for the page to load hoped to avoid anomalies from processing something not yet available. */
-/*There are 2 parts. function AfterLoad_adom1() is listed first, and after the function, code for the first level listeners */
 
-function AfterLoad_adom1() {
-  alert('AfterLoad_adom1() starting.');
+function checks_adom() {
+//Attempt to check some of what is needed to run program
 
-//set listener for fileApi. ?change vs click
-fileInput.addEventListener("change", fileApi_adom1);
-fileInput.addEventListener("click", function(){ this.value=null; fileDisplayArea.innerHTML = "set value to null";});
-}// end function
-
-
-
+//variables to document elements
 fileInput = document.getElementById('fileInput');
 fileDisplayArea = document.getElementById('fileDisplayArea');
+RA_status = document.getElementById("RA_status");
+
+//function return values
+var cntinue=true; //chg false on error
+var status1='Checking which elements and APIs are supported..........'; //return a result
+
+
+status1+='<br><br>First checking elements ....';
+if (RA_status) {
+  status1+='<br>found: RA_status.';
+} else {
+  status1+='<br>NOT found: RA_status element. It is needed to status other elements, APIs, etc.';
+  cntinue=false;
+}
+if (fileInput) {
+  status1+='<br>found: fileInput.';
+} else {
+  status1+='<br>NOT found: fileInput.';
+  cntinue=false;
+}
+if (fileDisplayArea) {
+  status1+='<br>found: fileDisplayArea.';
+} else {
+  status1+='<br>NOT found: fileDisplayArea.';
+  cntinue=false;
+}
+
+status1+='<br><br>Checking APIs ....';
+//File and related APIs
+if (window.File && window.FileReader && window.FileList && window.Blob) {
+  status1+='<br>found: File, FileReader, FileList, & Blob APIs.';
+} else {
+  status1+='<br>NOT found: File, FileReader, FileList, & Blob APIs.';
+cntinue=false;
+}
+
+if ('fetch' in window) {
+  status1+='<br>found: Fetch API';
+} else {
+  status1+='<br>NOT found: Fetch API';
+  cntinue=false;
+}
+return { c: cntinue, status: status1, };
+
+} //end function
+</script>
+<script>
+/* Waiting for the page to load hoped to avoid anomalies from processing something not yet available. */
+/* There are 2 parts. function AfterLoad_adom1() is listed first, and after the function, code for the first level listeners */
+
+function AfterLoad_adom1() {
+try {
+someRes = checks_adom();
+if (someRes.c == false) {
+alert('some error found: '+someRes.status);
+} else { //OK to process
+  RA_status.innerHTML='Basic checks passed as follows:<br>'+someRes.status;
+  RA_status.innerHTML+='<br>AfterLoad_adom1(), setting listeners for fileAPi:';
+//set listener for fileApi. ?change vs click
+fileInput.addEventListener('change', fileApi_adom1);
+//fileInput.addEventListener('click', function(){ this.value=null; RA_status.innerHTML+='<br>set value to null';});
+
+RA_status.innerHTML+='<br>AfterLoad_adom1(), listener(s) added, end of processing.';
+} //end else
+} //end try
+catch(err) {
+    errM='error in window.addEventListener(), message='+err.message;
+    window.alert(errM);
+} //end catch
+}// end AfterLoad_adom1()
+
+
 if(window.addEventListener){
 try {
   window.addEventListener('load', AfterLoad_adom1);
@@ -102,21 +151,21 @@ catch(err) {
     window.alert(errM);
     //errR.innerText=errM;
 } //end catch
-}
+} //end else for addEventListener/attachEvent
 </script>
 </head><body>
-<div id="google_translate_element"></div>
 <h1 id="top">Incomplete web page(s) - under construction.</h1>
 <p>The functionality is not yet completed-under construction.</p>
 
+
 <br><br>
 <br>
-<div id="RA_status"></div><script>checks_adom();</script>
+<div id='RA_status'></div><script>checks_adom();</script>
 
 <hr>
 
 <h2>Not complete: attempt to apply the FileReader API to count and verify verses.</h2>
 <div> Select a text file:
-<input type="file" id="fileInput"></div>
-<pre id="fileDisplayArea"><pre>
+<input type='file' id='fileInput'></div>
+<pre id='fileDisplayArea'><pre>
 </body></html>
