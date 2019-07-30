@@ -12,9 +12,9 @@ Only about half the spec was divided up. It had more content for specific bible 
 
 **Caution: accidental errors.**  
 
-While coding, potential anomalies in how the software runs were perceived. 
-In the interest to consider others (Phil 2:3-4, etc), some code was prepared for an agreement regarding possible anomalies and risks, to prepare any operators, even international browsers, to be able to decline risk. 
-But the agreement was abandoned due to being late on the software scene. Some reports said software and languages had already deployed out to global locations, like an orphanage. Having already gotten out, it was not practical to meditate on the past and how there should have been some agreement.
+While coding, an original purpose was to supply software code the user could run to statistical validate the verses. But in the process, potential anomalies in a software language were perceived.
+Therefore the language was switched to a different one that is not easily user run-able.
+When perceiving anomalies, a user agreement was considered to be fair (Pr 2:9). However, this was abandoned upon hearing software and languages already deployed out to global locations, like an orphanage. To be practical, the agreement would have to precede deployment, but was too late.
 
 Reference(s):  
 -1. http://www.gutenberg.org/files/10/   

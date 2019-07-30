@@ -27,16 +27,33 @@ function select_chaps() {
 //compare among the selected files
 function check_verses() {
 //check if the file quantities are reasonable.
+var status1;
 if (!bfile) {
-  alert('not briefspec file found, quitting');
+  status1='unable to find file 999-briefspec, quitting';
+  RA_status.innerHTML+='<br>'+status1;
+  alert(status1);
   return;
 }
 
 if (!(cfiles.length >= 1)) {
-  alert('chapter files not found, quitting');
+  status1='unable to find chapter filesto check, quitting';
+  RA_status.innerHTML+='<br>'+status1;
+  alert(status1);
   return;
 }
-RA_status.innerHTML+='<br>check_verses() function ending';
+
+//Load brefspec data
+  var r_briefspec = new FileReader();
+  brefspec; //global variable for content
+  r_brefspec.onload = function(e) {
+    brefspec = e.target.result;
+    fileDisplayArea.innerHTML=brefspec;
+    }; //end reader.onload
+    r_brefspec.readAsText(file);
+
+
+RA_status.innerHTML+='<br>check_verses(), 999-brefspec=';
+RA_status.innerHTML+='<br>'+brefspec;
 
 } //end function
 
@@ -196,7 +213,6 @@ catch(err) {
 <h1 id="top">Incomplete web page(s) - under construction.</h1>
 <p>The functionality is not yet completed-under construction.</p>
 
-
 <br><br>
 <p>The following division was assessing selected risks:</p>
 <div id='RA_status'></div><script>checks_adom();</script>
@@ -205,12 +221,11 @@ catch(err) {
 <div id='checkVerses'>
 <h2>Not complete: attempt to apply the File, FileReader API, etc to check the verses.</h2>
 
-<div>Select one (1) brefspec file for a bible book, probably named 999-brefspec:
-<input type='file' id='brefspec'></div>
+<div>Select one (1) file 999-brefspec in a folder for a bible book:
+<input type='file' id='brefspec'/></div>
 
-<br>
-<div>Select the chapter(s) corresponding to the previous brefspec file.
-<input type='file' id='chaps' multiple/></div>
+<div>Select the chapter(s) corresponding to the file 999-brefspec.
+<input multiple type='file' id='chaps'/></div>
 
 <button onclick="check_verses()">Check verses using selected files.</button>
 </div>
