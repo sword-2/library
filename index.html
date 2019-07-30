@@ -5,13 +5,43 @@
   border: 1px solid green;
 }
 
+#checkVerses {
+  border: 1px dotted blue;
+}
 #fileDisplayArea {
   background-color: lightblue;
   border: 1px solid black;
 }
 </style>
 <script>
-/* Some lines of code were commented out after a perceived risk that no file.type was being reported. This was based on simple debugging output. It was hoped to protect the operator from unexpected files, but the type reporting will have to be figured out first */
+
+function select_brefspec() {
+  //global variable for later
+  bfile = brefspec.files[0];
+}
+function select_chaps() {
+  //global variable for later
+  cfiles = chaps.files;
+}
+
+//compare among the selected files
+function check_verses() {
+//check if the file quantities are reasonable.
+if (!bfile) {
+  alert('not briefspec file found, quitting');
+  return;
+}
+
+if (!(cfiles.length >= 1)) {
+  alert('chapter files not found, quitting');
+  return;
+}
+RA_status.innerHTML+='<br>check_verses() function ending';
+
+} //end function
+
+
+/* Some lines of code were commented out after a perceived risk that no file.type was being reported, at least how the code was formed */
 
 //a global variable for brefspec file
 
@@ -37,6 +67,7 @@ function fileApi_adom1() {
   RA_status.innerHTML+='<br>fileApi_adom1() ending';
   return brefspec;
 } //end function
+
 </script>
 <script>
 /* An error was reported in 2 browsers for retrieving local file. Different internet reports conflicted about pulling files with fetch. If it does local files and does that accomplish Matthew 25:20-21? */
@@ -59,7 +90,8 @@ function checks_adom() {
 //Attempt to check some of what is needed to run program
 
 //variables to document elements
-brefspec = document.getElementById('brefspec');
+brefspec=document.getElementById('brefspec');
+chaps=document.getElementById('chaps');
 fileDisplayArea = document.getElementById('fileDisplayArea');
 RA_status = document.getElementById("RA_status");
 
@@ -79,6 +111,12 @@ if (brefspec) {
   status1+='<br>found: brefspec.';
 } else {
   status1+='<br>NOT found: brefspec.';
+  cntinue=false;
+}
+if (chaps) {
+  status1+='<br>found: chaps.';
+} else {
+  status1+='<br>NOT found: chaps.';
   cntinue=false;
 }
 if (fileDisplayArea) {
@@ -119,10 +157,10 @@ alert('some error found: '+someRes.status);
 } else { //OK to process
   RA_status.innerHTML='Basic checks passed as follows:<br>'+someRes.status;
   RA_status.innerHTML+='<br>AfterLoad_adom1(), setting listeners for fileAPi:';
-//set listener for fileApi. ?change vs click
-brefspec.addEventListener('change', fileApi_adom1);
-
-RA_status.innerHTML+='<br>AfterLoad_adom1(), listener(s) added, end of processing.';
+//set listeners to pick verification files:
+brefspec.addEventListener('change', select_brefspec);
+chaps.addEventListener('change', select_chaps);
+RA_status.innerHTML+='<br><br>Status for miscellaneous processing.....';
 } //end else
 } //end try
 catch(err) {
@@ -160,13 +198,24 @@ catch(err) {
 
 
 <br><br>
-<br>
+<p>The following division was assessing selected risks:</p>
 <div id='RA_status'></div><script>checks_adom();</script>
 
 <hr>
+<div id='checkVerses'>
+<h2>Not complete: attempt to apply the File, FileReader API, etc to check the verses.</h2>
 
-<h2>Not complete: attempt to apply the FileReader API to count and verify verses.</h2>
-<div> Select a text file:
+<div>Select one (1) brefspec file for a bible book, probably named 999-brefspec:
 <input type='file' id='brefspec'></div>
+
+<br>
+<div>Select the chapter(s) corresponding to the previous brefspec file.
+<input type='file' id='chaps' multiple/></div>
+
+<button onclick="check_verses()">Check verses using selected files.</button>
+</div>
+
+<hr>
+<p>An area to display file content for debugging:</p>
 <pre id='fileDisplayArea'><pre>
 </body></html>
