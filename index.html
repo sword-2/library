@@ -13,8 +13,10 @@
 <script>
 /* Some lines of code were commented out after a perceived risk that no file.type was being reported. This was based on simple debugging output. It was hoped to protect the operator from unexpected files, but the type reporting will have to be figured out first */
 
+//a global variable for brefspec file
+
 function fileApi_adom1() {
-  var file = fileInput.files[0];
+  var file = brefspec.files[0];
   //RA_status.innerHTML+='<br><br>debugging fileApi_adom1()....';
     //RA_status.innerHTML+='<br>file.name='+file.name;
     //RA_status.innerHTML+='<br>file.type='+file.type;
@@ -23,17 +25,17 @@ function fileApi_adom1() {
   //var patt = /text/i;
   //if (file.type.match(patt)) {
     var reader = new FileReader();
-    var data; //storage for content
+    var brefspec; //global variable for content
     reader.onload = function(e) {
-      data = e.target.result;
-      fileDisplayArea.innerHTML=data;
+      brefspec = e.target.result;
+      fileDisplayArea.innerHTML=brefspec;
     }; //end reader.onload
     reader.readAsText(file);
   //} else { //end if begin else
     //RA_status.innerHTML+='<br>File type check not successful, expected some type of text. Searched with pattern:' +patt.toString()+', on file.type='+file.type;
   //} //end else
   RA_status.innerHTML+='<br>fileApi_adom1() ending';
-  return data;
+  return brefspec;
 } //end function
 </script>
 <script>
@@ -57,7 +59,7 @@ function checks_adom() {
 //Attempt to check some of what is needed to run program
 
 //variables to document elements
-fileInput = document.getElementById('fileInput');
+brefspec = document.getElementById('brefspec');
 fileDisplayArea = document.getElementById('fileDisplayArea');
 RA_status = document.getElementById("RA_status");
 
@@ -73,10 +75,10 @@ if (RA_status) {
   status1+='<br>NOT found: RA_status element. It is needed to status other elements, APIs, etc.';
   cntinue=false;
 }
-if (fileInput) {
-  status1+='<br>found: fileInput.';
+if (brefspec) {
+  status1+='<br>found: brefspec.';
 } else {
-  status1+='<br>NOT found: fileInput.';
+  status1+='<br>NOT found: brefspec.';
   cntinue=false;
 }
 if (fileDisplayArea) {
@@ -118,8 +120,7 @@ alert('some error found: '+someRes.status);
   RA_status.innerHTML='Basic checks passed as follows:<br>'+someRes.status;
   RA_status.innerHTML+='<br>AfterLoad_adom1(), setting listeners for fileAPi:';
 //set listener for fileApi. ?change vs click
-fileInput.addEventListener('change', fileApi_adom1);
-//fileInput.addEventListener('click', function(){ this.value=null; RA_status.innerHTML+='<br>set value to null';});
+brefspec.addEventListener('change', fileApi_adom1);
 
 RA_status.innerHTML+='<br>AfterLoad_adom1(), listener(s) added, end of processing.';
 } //end else
@@ -166,6 +167,6 @@ catch(err) {
 
 <h2>Not complete: attempt to apply the FileReader API to count and verify verses.</h2>
 <div> Select a text file:
-<input type='file' id='fileInput'></div>
+<input type='file' id='brefspec'></div>
 <pre id='fileDisplayArea'><pre>
 </body></html>
