@@ -1,0 +1,40 @@
+bfile_init() {
+  #initialize brefspec file
+    #does it exist?
+    #if so, set to fd 3
+    #read/skip initial lines
+
+#if test -f $bfile; then
+if test -f $1; then
+  echo 'current bfile found, about to get fd' #&>/dev/null
+  exec 3<${1}
+  #exec 3<${bfile} #fd 3 for bfile
+  echo "Opened $1 for read using file descriptor 3"
+else
+  echo 'error finding bfile, exiting'
+  exit 1
+fi
+#throw away comment lines (//) and/or blanks lines at the top of some file(s)
+
+while true; do
+  read -u 3 bLINE
+  if [[ ${bLINE:0:2} == "//" ]] || [[ $bLINE == '' ]]; then
+    read -u 3 bLINE
+  else
+    bfile_frmt
+    break
+  fi
+done
+}
+
+bfile_frmt() {
+  #The spec had colons book:chapter:verse, but bible content just chapter:verse
+  IFS=':'
+  read -r -a temp <<< "$bLINE"
+  #echo "temp[1]=${temp[1]}, temp[2]=${temp[2]}"
+  IFS=''
+  bLINE="${temp[1]}:${temp[2]}"
+  #echo 'echo(): bLINE='$bLINE
+  #printf -v bLINE "%s" "$bLINE"
+  #printf "printf(): bLINE=%s\n" "$bLINE"
+} #end function

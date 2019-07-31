@@ -1,0 +1,21 @@
+#!/data/data/com.termux/files/usr/bin/bash
+
+source ./bkChapters.adom
+
+main() {
+  rpt='999-stats.txt'
+  echo 'Starting verse stats .....\n'
+  
+  #Genesis
+  dir1='../01-Genesis'
+  bkChapters $dir1 $rpt 1 3 #50
+
+  #other books
+
+  #close any file descriptors
+  exec 3<&- #to bfile, briefspec
+  exec 4<&- #to a chapter file
+  echo '.....end verse statistics'
+} #end main()
+
+main "$@" #call main function

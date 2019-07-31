@@ -1,0 +1,29 @@
+#processing regarding chapter files
+cfile_frmt() {
+  #receive number, return formatted filename
+  #some of the filenames need leading zeroes, formatted different than the counter
+  #receive a counter and return formatted result
+  printf -v cFrmt "%02d" $((10#$1))
+} #end cfile_frmt()
+
+cfile_fd() {
+
+  #ccurrent=$cfirst #counter
+  #cformatted='' #leading zeroes
+  #current=$cfirst
+  #format the number of digits
+  #printf -v cFrmt "%02d" $((10#$current))
+  #current=$((current+1))
+  if test -f $1; then #file exists
+    #if test -f $1/$cFrmt; then
+    echo 'current file exists, get fd' #&>/dev/null
+    #file descriptor (fd)
+    exec 4<&- #close, if necessary
+    exec 4<$1 #open
+    #exec 4<$1/${cFrmt} #fd 4 for chap
+    echo "Opened $cFrmt for read using descriptor 4"
+  else
+    echo 'error finding first chapter file, exiting'
+    exit 1
+  fi
+} #end cfile_fd()
