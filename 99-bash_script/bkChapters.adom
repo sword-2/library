@@ -75,9 +75,9 @@ while true; do
 if [[ $read_b == true ]] || [[ $read_c == true ]]; then
   echo 'skipping line because of a boolean true, read_b='$read_b', read_c='$read_c
 else
-  echo "debug: comparing bLine=$bLINE to cLINE=$cLINE" >> $rfile
+  #echo "debug: comparing bLine=$bLINE to cLINE=$cLINE" >> $rfile
   if [[ $cLINE == *"$bLINE"* ]]; then
-    #echo "found $bLINE in $cLINE" >> $rfile
+    echo "found verse $bLINE" >> $rfile
     read_b=true
     read_c=true
   else #progress thru bible content
@@ -87,6 +87,3 @@ else
 fi #end check on read_b, read_c
 done
 } #end book_stats()
-
-
-

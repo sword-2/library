@@ -7,10 +7,10 @@ main() {
   echo 'Starting verse stats .....\n'
   
   #Genesis
-  dir1='../01-Genesis'
-  bkChapters $dir1 $rpt 1 3 #50
+  #dir1='../01-Genesis'
+  #bkChapters $dir1 $rpt 1 50
 
-  #other books
+  #other books tbd.
 
   #close any file descriptors
   exec 3<&- #to bfile, briefspec
