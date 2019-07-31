@@ -1,0 +1,92 @@
+source ./bfile.adom
+source ./cfile.adom
+
+bkChapters() {
+#Check bible book chapters 
+#receives four (4) parameters
+  #$1 directory for book (Genesis)
+  #$2 name of a file for a report
+  #$3 first chapter number (i.e. 1)
+  #$4 last chapter number (i.e. 50)
+
+##############################
+##INITIALIZATION
+#global variable w/o keyword local
+bfile="$1/999-brefspec"
+rfile="$1/$2" #report file
+g_deleteFile $rfile #if old file
+cfirst=$3 #first chapter
+ccurrent=$cfirst #counter
+cFrmt='' #may get leading zeroes
+clast=$4 #last chapter
+read_c=true #necessary to read
+read_b=true #necessary to read, brefspec
+
+bfile_init $bfile #set fd 3
+read_b=false #expect bfile_init to read
+cfile_frmt $ccurrent #assume range ok
+cfile_fd "$1/$cFrmt" #set fd 4
+
+##Algorithm
+while true; do
+  #update brefspec lines
+  if [ "$read_b" = true ]; then
+    #try to read
+    read -u 3 bLINE
+    if [ $? -ne 0 ]; then #not success
+      echo 'bfile read error or end of file, exiting'
+      exit 1
+    else #remove book number
+      bfile_frmt
+      read_b=false
+    fi
+  fi
+
+  #update chapter lines/files
+  if [ "$read_c" = true ]; then
+    read -u 4 cLINE
+    if [ $? -ne 0 ]; then #not success
+      echo 'read cLINE not successful. assume end of file: cfile, about to compare ccurrent='$ccurrent' with clast='$clast
+      if (($ccurrent < $clast)); then
+      #if ["$current" -lt "$clast"]; then
+	echo 'incrementing cFrmt'
+	ccurrent=$((ccurrent+1))
+
+        cfile_frmt $ccurrent #assume range ok
+        cfile_fd "$1/$cFrmt" #set fd 4
+	#exec 4<&- #close last fd
+        #printf -v cFrmt "%02d" $((10#$current))
+	#exec 4<$1/${cFrmt} #new fd
+	read -u 4 cLINE
+	if [ $? -ne 0 ]; then
+          echo 'err reading cLINE again, exiting'
+	  exit 1
+	else
+	  read_c=false
+	fi
+      else
+	echo 'end of all the cfiles, exiting'
+	exit 1
+      fi
+    fi
+    read_c=false
+  fi
+
+if [[ $read_b == true ]] || [[ $read_c == true ]]; then
+  echo 'skipping line because of a boolean true, read_b='$read_b', read_c='$read_c
+else
+  echo "debug: comparing bLine=$bLINE to cLINE=$cLINE" >> $rfile
+  if [[ $cLINE == *"$bLINE"* ]]; then
+    #echo "found $bLINE in $cLINE" >> $rfile
+    read_b=true
+    read_c=true
+  else #progress thru bible content
+    #echo 'no match for bLINE, cLINE' 
+    read_c=true
+  fi #end check on line search
+fi #end check on read_b, read_c
+done
+} #end book_stats()
+
+
+
