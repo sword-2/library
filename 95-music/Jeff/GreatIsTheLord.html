@@ -364,6 +364,30 @@ var formatter = new VF.Formatter().joinVoices([voice1]).format([voice1], 400);
 voice1.draw(context, stave);
 } //end function
 </script>
+<script>
+function fileApi_adom(fName) {
+  alert('fileApi() starting...');
+  //msg1='---';
+
+  var file1 = new File([""], fName, {type: "text/plain"});
+  var fr = new FileReader();
+  //var reader = new FileReader();
+  fr.onload=function() {
+    alert('fr.onload called');
+    fr.readAsText(file1);
+    temp1 = fr.result; // display file contents 
+    alert('temp1='+temp1.toString());
+  }
+
+  //fr.readAsText(file);
+//if (confirm(msg1+W3CFileApiRisk1)) {
+//  return true;
+//} else {
+//  return false;
+//}
+alert('fileApi() ending');
+}// end function
+</script>
 <script src='https://unpkg.com/vexflow/releases/vexflow-min.js'></script>
 
 <script>
@@ -384,6 +408,7 @@ context.setFont("Arial", 10, "").setBackgroundFillStyle("#eed");
 
   //test for fetch API had not been successful for local filesystem.
   //alert('before fetch Api');
+  fileApi_adom('../../95-music/Jeff/GreatIsTheLord.adom');
   //fetchApi('./GreatIsTheLord.adom');
   //alert('after fetch Api');
 
