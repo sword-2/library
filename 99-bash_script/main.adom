@@ -5,11 +5,10 @@ source ./bkChapters.adom
 main() {
   rpt='999-verseMatch.txt'
   
-  #Genesis
-  bkChapters '../01-Genesis' $rpt 1 50
-
-  #Exodus
+  
+  #bkChapters '../01-Genesis' $rpt 1 50
   #bkChapters '../02-Exodus' $rpt 1 40
+  bkChapters '../03-Leviticus' $rpt 1 27
 
   #close any file descriptors
   exec 3<&- #to bfile, briefspec
