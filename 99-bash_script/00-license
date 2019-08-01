@@ -1,2 +1,5 @@
 #Anything exceeding open source code is copyright ADOM Baptist Church Ghana [pastor Alex Boamah]. 
 #File name extensions ".adom" also remind of that.
+#
+#It just compares files at the moment.Some programs already compare in various ways. As much as possible, this tried to use bash built-in's.
+#The exact comparisons are to be determined - verse reference comparisons. Maybe it will check formats later.

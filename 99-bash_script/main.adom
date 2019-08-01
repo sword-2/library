@@ -3,14 +3,13 @@
 source ./bkChapters.adom
 
 main() {
-  rpt='999-stats.txt'
-  echo 'Starting verse stats .....\n'
+  rpt='999-verseMatch.txt'
   
   #Genesis
-  #dir1='../01-Genesis'
-  #bkChapters $dir1 $rpt 1 50
+  #bkChapters '../01-Genesis' $rpt 1 50
 
-  #other books tbd.
+  #Exodus
+  bkChapters '../02-Exodus' $rpt 1 40
 
   #close any file descriptors
   exec 3<&- #to bfile, briefspec

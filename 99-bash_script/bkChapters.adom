@@ -4,41 +4,44 @@ source ./cfile.adom
 bkChapters() {
 #Check bible book chapters 
 #receives four (4) parameters
-  #$1 directory for book (Genesis)
+  #$1 directory for book (i.e. Genesis)
   #$2 name of a file for a report
-  #$3 first chapter number (i.e. 1)
-  #$4 last chapter number (i.e. 50)
+  #$3 first expected chapter (i.e. 1)
+  #$4 last expected chapter (i.e. 50)
 
-##############################
-##INITIALIZATION
+#INITIALIZATION
 #global variable w/o keyword local
 bfile="$1/999-brefspec"
 rfile="$1/$2" #report file
-g_deleteFile $rfile #if old file
+g_deleteFile $rfile #if old report attempt
 cfirst=$3 #first chapter
 ccurrent=$cfirst #counter
-cFrmt='' #may get leading zeroes
+cFrmt='' #counter may get leading zeroes
 clast=$4 #last chapter
 read_c=true #necessary to read
 read_b=true #necessary to read, brefspec
 
 bfile_init $bfile #set fd 3
-read_b=false #expect bfile_init to read
-cfile_frmt $ccurrent #assume range ok
+read_b=false #expect bfile_init already read a line
+cfile_frmt $ccurrent #assume all books at least have chapter 1.
 cfile_fd "$1/$cFrmt" #set fd 4
 
-##Algorithm
+
+#echo "$dt" >> $rfile
+dt=`date '+%d/%m/%Y %H:%M:%S'` 
+echo 'These are the verses matched between 999-brefspec and the chapter files for Exodus. Date time run: '"$dt" >> $rfile
+
+#Algorithm
 while true; do
-  #update brefspec lines
   if [ "$read_b" = true ]; then
-    #try to read
+    #try to read from brefspec file
     read -u 3 bLINE
     if [ $? -ne 0 ]; then #not success
       echo 'bfile read error or end of file, exiting'
       exit 1
-    else #remove book number
-      bfile_frmt
-      read_b=false
+    else
+      bfile_frmt #format what was read
+      read_b=false #no need to read yet
     fi
   fi
 
@@ -76,12 +79,12 @@ if [[ $read_b == true ]] || [[ $read_c == true ]]; then
   echo 'skipping line because of a boolean true, read_b='$read_b', read_c='$read_c
 else
   #echo "debug: comparing bLine=$bLINE to cLINE=$cLINE" >> $rfile
-  if [[ $cLINE == *"$bLINE"* ]]; then
-    echo "found verse $bLINE" >> $rfile
+  if [[ $cLINE == "$bLINE"* ]]; then
+    echo "$bLINE" >> $rfile
     read_b=true
     read_c=true
   else #progress thru bible content
-    #echo 'no match for bLINE, cLINE' 
+    echo "no match for bLINE=$bLINE, cLINE=$cLINE" 
     read_c=true
   fi #end check on line search
 fi #end check on read_b, read_c
