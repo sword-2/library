@@ -1,0 +1,71 @@
+#!/data/data/com.termux/files/usr/bin/bash
+#The purpose is to merge lines which had separated into fragments.
+#The logic was simple to test first character for a number as in the reference (1:1). If not a number, content is concatenated. Also, blank lines are skipped.
+#It is not perfect as references might not always appear at the beginning of a line. 
+
+source ./cfile.adom #methods and variables pertaining to chapter file(s)
+lineCat=$'\0' #storage to concatenate lines perceived to have split or separated
+
+main() {
+  rpt='999-lineBreaks.txt'
+  dir='../01-test'
+  #remove previous if present
+  \rm "$dir/*-mod"
+  echo 'main: calling lineBreaks'
+  lineBreaks $dir $rpt 1 2 #50
+  #close any file descriptors
+  exec 4<&- #to a chapter file
+  echo '.....end of line break analsysi'
+} #end main()
+
+formatTbd() {
+if [[ $cLINE == [0-9]* ]]; then
+  #likely a reference chapter:verse
+  #output last remembered lines and start new remembering new content set
+  echo 'outputting verse:'$lineCat
+  echo "$lineCat" >> "$1/$cFrmt-mod"
+  lineCat=  #clear previous content
+  if ! [ -z $cLINE ]; then
+    lineCat=$cLINE #remember new content
+  fi
+else
+  #continue concatenating
+  #echo 'not ref (chap:verse), continue concatenating'
+  if ! [ -z $cLINE ]; then
+    lineCat="$lineCat $cLINE"
+  fi
+fi
+} #end formatTbd()
+
+lineBreaks() {
+#Check for line breaks in chapters
+
+#INITIALIZATION
+#global variable w/o keyword local
+rfile="$1/$2" #report file
+g_deleteFile $rfile #delete old report file if one exists
+
+cfile_init $3 $4 #sets cfirst, clast, ccurent, cFrmt
+cfile_fd "$1" #set fd 4
+
+while true; do
+echo 'calling cfile_read with :'$1
+cfile_read $1
+ec=$?
+if [ $ec -ne 0 ]; then
+  #exit code echo 'after cfile_read'
+  #end of file(s), quit
+  echo 'lineBreaks: cfile_read not successful'
+  break
+else #analyze content
+  echo 'lineBreaks: calling formatTbd'
+  formatTbd $1
+fi
+done
+#In case there was trailing content
+echo 'lineBreaks: end of while loop'
+echo "$lineCat" >> "$1/$cFrmt-mod"
+} #end lineBreaks()
+
+
+main "$@" #call main function

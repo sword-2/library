@@ -1,37 +1,46 @@
-source ./bfile.adom
-source ./cfile.adom
+#!/data/data/com.termux/files/usr/bin/bash
+#This script reads expected chapters:verses from bref spec and tries to locate them in the chapter files.
+
+source ./bfile.adom #methods for brefspec file
+source ./cfile.adom #methods for chapter files
+
+main() {
+  rpt='999-verseMatch.txt'
+  #bkChapters '../01-Genesis' $rpt 1 50
+  #bkChapters '../02-Exodus' $rpt 1 40
+  bkChapters '../03-Leviticus' $rpt 1 27
+  #close any file descriptors
+  exec 3<&- #to bfile, briefspec
+  exec 4<&- #to a chapter file
+  echo '.....end verse statistics'
+} #end main()
 
 bkChapters() {
 #Check bible book chapters 
 #receives four (4) parameters
-  #$1 directory for book (i.e. Genesis)
+  #$1 directory for book (i.e. ../01-Genesis, ../02-Exodus, etc)
   #$2 name of a file for a report
-  #$3 first expected chapter (i.e. 1)
-  #$4 last expected chapter (i.e. 50)
+  #$3 first expected chapter No. (i.e. 1)
+  #$4 last expected chapter No. (i.e. 50)
 
 #INITIALIZATION
 #global variable w/o keyword local
-bfile="$1/999-brefspec"
 rfile="$1/$2" #report file
-g_deleteFile $rfile #if old report attempt
-cfirst=$3 #first chapter
-ccurrent=$cfirst #counter
-cFrmt='' #counter may get leading zeroes
-clast=$4 #last chapter
-read_c=true #necessary to read
-read_b=true #necessary to read, brefspec
+g_deleteFile $rfile #delete old report file if one exists
 
-bfile_init $bfile #set fd 3
-read_b=false #expect bfile_init already read a line
-cfile_frmt $ccurrent #assume all books at least have chapter 1.
+bfile_init "$1/999-brefspec" #set fd 3
+read_b=false #not necessary to read a line now from brefspec assuming bfile_init already read a line
+
+cfile_init $3 $4 #sets ccurent, cFrmt
+cfile_frmt $ccurrent #assume at least chapter 1.
 cfile_fd "$1/$cFrmt" #set fd 4
+read_c=true #pending read from next chapter
 
-
-#echo "$dt" >> $rfile
+#Identify date/time report was run
 dt=`date '+%d/%m/%Y %H:%M:%S'` 
 echo 'These are the verses matched between 999-brefspec and the chapter files for Exodus. Date time run: '"$dt" >> $rfile
 
-#Algorithm
+#Main loop to cycle thru chapters
 while true; do
   if [ "$read_b" = true ]; then
     #try to read from brefspec file
@@ -51,15 +60,11 @@ while true; do
     if [ $? -ne 0 ]; then #not success
       echo 'read cLINE not successful. assume end of file: cfile, about to compare ccurrent='$ccurrent' with clast='$clast
       if (($ccurrent < $clast)); then
-      #if ["$current" -lt "$clast"]; then
 	echo 'incrementing cFrmt'
 	ccurrent=$((ccurrent+1))
 
         cfile_frmt $ccurrent #assume range ok
         cfile_fd "$1/$cFrmt" #set fd 4
-	#exec 4<&- #close last fd
-        #printf -v cFrmt "%02d" $((10#$current))
-	#exec 4<$1/${cFrmt} #new fd
 	read -u 4 cLINE
 	if [ $? -ne 0 ]; then
           echo 'err reading cLINE again, exiting'
@@ -90,3 +95,6 @@ else
 fi #end check on read_b, read_c
 done
 } #end book_stats()
+
+
+main "$@" #call main function

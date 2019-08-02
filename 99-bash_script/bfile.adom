@@ -1,40 +1,43 @@
+#Methods, variables for a briefspec file
+
+#global variables, initialize empty
+  bfile=$'\0' #path to brefspec file
+  bLINE=$'\0' #content read from line
+  bTEMP=$'\0' #temporary storage, for reformatting line
+
 bfile_init() {
   #initialize brefspec file
     #does it exist?
     #if so, set to fd 3
     #read/skip initial lines
+    #lines read goto variable bLINE
 
-#if test -f $bfile; then
-if test -f $1; then
-  echo 'current bfile found, about to get fd' #&>/dev/null
-  exec 3<${1}
-  #exec 3<${bfile} #fd 3 for bfile
-  echo "Opened $1 for read using file descriptor 3"
-else
-  echo 'error finding bfile, exiting'
-  exit 1
-fi
-#throw away comment lines (//) and/or blanks lines at the top of some file(s)
-
-while true; do
-  read -u 3 bLINE
-  if [[ ${bLINE:0:2} == "//" ]] || [[ $bLINE == '' ]]; then
-    read -u 3 bLINE
+  #expected path to brefspec file
+  bfile="$1"
+  if test -f $bfile; then
+   exec 3<${bfile}
   else
-    bfile_frmt
-    break
+    echo 'error finding bfile, exiting'
+    exit 1
   fi
-done
-}
+
+  #while loop skip administrative stuff sometimes at the top of files like comment lines (//) and/or blanks lines
+  while true; do
+    read -u 3 bLINE
+    if [[ ${bLINE:0:2} == "//" ]] || [[ $bLINE == '' ]]; then
+      read -u 3 bLINE #read next line
+    else
+      bfile_frmt #change format to match KJV
+      break
+    fi
+  done
+} #end function bfile_init()
 
 bfile_frmt() {
-  #The spec had colons book:chapter:verse, but bible content just chapter:verse
+  #reformat lines read from brefspec file from book:chapter:verse to chapter:verse
   IFS=':'
-  read -r -a temp <<< "$bLINE"
-  #echo "temp[1]=${temp[1]}, temp[2]=${temp[2]}"
+  read -r -a bTEMP <<< "$bLINE"
   IFS=''
-  bLINE="${temp[1]}:${temp[2]}"
-  #echo 'echo(): bLINE='$bLINE
-  #printf -v bLINE "%s" "$bLINE"
-  #printf "printf(): bLINE=%s\n" "$bLINE"
+  #modify variable to only chapter:verse
+  bLINE="${bTEMP[1]}:${bTEMP[2]}"
 } #end function
