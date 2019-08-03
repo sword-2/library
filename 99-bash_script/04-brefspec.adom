@@ -13,7 +13,8 @@ main() {
   #bkChapters '../01-Genesis' $rpt 1 50
   #bkChapters '../02-Exodus' $rpt 1 40
   #bkChapters '../03-Leviticus' $rpt 1 27
-  bkChapters '../04-Numbers' $rpt 1 36
+  #bkChapters '../04-Numbers' $rpt 1 36
+  bkChapters '../06-Joshua' $rpt 1 24    6
   #close any leftover file descriptors
   exec 3<&- #to bfile, briefspec
   exec 4<&- #to a chapter file
