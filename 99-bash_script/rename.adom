@@ -2,13 +2,17 @@
 #It is a loop for renaming a set of files. If a modified file (*-mod) is generated, this might delete the original file and rename the modified name back to the origina.
 #The chapter quanitity is sizeable enough that loop counter can be faster than manually entering numbers.
 
-dir='../01-test' #directory
+#dir='../01-Genesis'
+#dir='../02-Exodus' #directory
+#dir='../03-Leviticus'
+dir='../04-Numbers'
 
-for i in {01..50}; do
+for i in {01..36}; do
   #-v option assigns output to variable
   #arithmetic expansion as some digits interpreted as octal - 08/09 error.
   printf -v Frmt1 "%02d" $((10#$i)) #\n
   #echo $Frmt1
+  #mv $Frmt1 orig
 
   if [ -f "$dir/$Frmt1-mod" ]; then
     if [ -f "$dir/$Frmt1" ]; then

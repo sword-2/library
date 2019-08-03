@@ -1,15 +1,20 @@
 #!/data/data/com.termux/files/usr/bin/bash
 #This script reads expected chapters:verses from bref spec and tries to locate them in the chapter files.
 
-source ./bfile.adom #methods for brefspec file
-source ./cfile.adom #methods for chapter files
+source ./bfile.adom #methods & variables for brefspec file
+source ./cfile.adom #methods & variables for chapter files
 
 main() {
+  #name of file to output report(s)
   rpt='999-verseMatch.txt'
+
+  #The function bkChapters is defined below. Called once per book folder.
+
   #bkChapters '../01-Genesis' $rpt 1 50
   #bkChapters '../02-Exodus' $rpt 1 40
-  bkChapters '../03-Leviticus' $rpt 1 27
-  #close any file descriptors
+  #bkChapters '../03-Leviticus' $rpt 1 27
+  bkChapters '../04-Numbers' $rpt 1 36
+  #close any leftover file descriptors
   exec 3<&- #to bfile, briefspec
   exec 4<&- #to a chapter file
   echo '.....end verse statistics'
@@ -25,20 +30,20 @@ bkChapters() {
 
 #INITIALIZATION
 #global variable w/o keyword local
-rfile="$1/$2" #report file
-g_deleteFile $rfile #delete old report file if one exists
+rfile="$1/$2" #report file w/ path
+g_deleteFile $rfile #delete old report file if one exists. This function in .bashrc
 
-bfile_init "$1/999-brefspec" #set fd 3
-read_b=false #not necessary to read a line now from brefspec assuming bfile_init already read a line
+bfile_init "$1/999-brefspec" #initialize brefspec file descriptor (fd) to 3
+read_b=false #not necessary to read a line now from brefspec, assuming previoius bfile_init already read a line
 
-cfile_init $3 $4 #sets ccurent, cFrmt
-cfile_frmt $ccurrent #assume at least chapter 1.
-cfile_fd "$1/$cFrmt" #set fd 4
-read_c=true #pending read from next chapter
+cfile_init $3 $4 #sets variables ccurent, cFrmt
+cfile_frmt $ccurrent #Filename may have leading zeroes, format it from digit with the zeroes.
+cfile_fd "$1" #/$cFrmt" #set fd 4 for chapter file(s)
+read_c=true #pending read still needed from chapter file(s)
 
-#Identify date/time report was run
+#Put date/time at top of report file
 dt=`date '+%d/%m/%Y %H:%M:%S'` 
-echo 'These are the verses matched between 999-brefspec and the chapter files for Exodus. Date time run: '"$dt" >> $rfile
+echo 'These are the verses matched between 999-brefspec and the chapter files for '$1'. Date time run in the format [d/m/Y h/m/s]: '"$dt" >> $rfile
 
 #Main loop to cycle thru chapters
 while true; do
@@ -56,28 +61,19 @@ while true; do
 
   #update chapter lines/files
   if [ "$read_c" = true ]; then
-    read -u 4 cLINE
-    if [ $? -ne 0 ]; then #not success
-      echo 'read cLINE not successful. assume end of file: cfile, about to compare ccurrent='$ccurrent' with clast='$clast
-      if (($ccurrent < $clast)); then
-	echo 'incrementing cFrmt'
-	ccurrent=$((ccurrent+1))
-
-        cfile_frmt $ccurrent #assume range ok
-        cfile_fd "$1/$cFrmt" #set fd 4
-	read -u 4 cLINE
-	if [ $? -ne 0 ]; then
-          echo 'err reading cLINE again, exiting'
-	  exit 1
-	else
-	  read_c=false
-	fi
-      else
-	echo 'end of all the cfiles, exiting'
-	exit 1
-      fi
+    echo 'calling cfile_read with :'$1
+    cfile_read $1
+    ec=$? #exit (return code)
+    if [ $ec -ne 0 ]; then
+      #exit code echo 'after cfile_read'
+      #end of file(s), quit
+      echo 'bkChapters:cfile_read not successful, maybe end, exit 1'
+      #break
+      exit 1
+    else #set variable that content ready to be analyzed
+      #echo 'bkChapters: calling formatTbd'
+      read_c=false
     fi
-    read_c=false
   fi
 
 if [[ $read_b == true ]] || [[ $read_c == true ]]; then

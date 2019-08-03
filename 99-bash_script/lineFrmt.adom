@@ -1,5 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
-#The purpose is to merge lines which had separated into fragments.
+#The purpose is to merge a single lines many of which had separated into fragments on separate lines/
 #The logic was simple to test first character for a number as in the reference (1:1). If not a number, content is concatenated. Also, blank lines are skipped.
 #It is not perfect as references might not always appear at the beginning of a line. 
 
@@ -8,11 +8,16 @@ lineCat=$'\0' #storage to concatenate lines perceived to have split or separated
 
 main() {
   rpt='999-lineBreaks.txt'
-  dir='../01-test'
-  #remove previous if present
+  #dir='../01-Genesis' fs=1 ls=50
+  #dir='../02-Exodus' fs=1 ls=40
+  #dir='../03-Leviticus' fs=1 ls=27
+  dir='../04-Numbers'
+  fs=1
+  ls=36
+  #remove any previous if present
   \rm "$dir/*-mod"
   echo 'main: calling lineBreaks'
-  lineBreaks $dir $rpt 1 2 #50
+  lineBreaks $dir $rpt $fs $ls
   #close any file descriptors
   exec 4<&- #to a chapter file
   echo '.....end of line break analsysi'
@@ -62,7 +67,7 @@ else #analyze content
   formatTbd $1
 fi
 done
-#In case there was trailing content
+#In case there was remaining content left in a variable, output it.
 echo 'lineBreaks: end of while loop'
 echo "$lineCat" >> "$1/$cFrmt-mod"
 } #end lineBreaks()

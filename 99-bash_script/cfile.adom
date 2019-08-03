@@ -42,29 +42,29 @@ cfile_read() {
 
 
 #troubleshoot file descriptor
-if command >&4
-then
-  echo 'cfile_read: fd 4 is open >&4'
-else
-  echo 'cfile_read: 4 is not open' 
-fi #2>/dev/null
+#if command >&4
+#then
+#  echo 'cfile_read: fd 4 is open >&4'
+#else
+#  echo 'cfile_read: 4 is not open' 
+#fi #2>/dev/null
 
-echo 'cfile_read debugging 1'
+#echo 'cfile_read debugging 1'
 read -u 4 cLINE
 if [ $? -ne 0 ]; then #read not successful
-  echo 'cfile_read: read cLINE not successful. assume end of file: cfile, about to compare ccurrent='$ccurrent' with clast='$clast
+  #echo 'cfile_read: read cLINE not successful. assume end of file: cfile, about to compare ccurrent='$ccurrent' with clast='$clast
   #See if there is another file in the set to read from ....
   if (($ccurrent < $clast)); then
-    echo 'cfile_read: incrementing cFrmt'
+    #echo 'cfile_read: incrementing cFrmt'
     ccurrent=$((ccurrent+1))
     cfile_frmt $ccurrent
     cfile_fd "$1" #refresh fd 4
     read -u 4 cLINE
     if [ $? -ne 0 ]; then
-      echo 'cfile_read: err reading cLINE again, assume end of all files, exit 1'
+      #echo 'cfile_read: err reading cLINE again, assume end of all files, exit 1'
       return 1
     else
-      echo 'cfile_read: cfile_read read progressed to next file in set, exit 0'
+      #echo 'cfile_read: cfile_read read progressed to next file in set, exit 0'
       return 0 #ok, able to read something
     fi
   else
@@ -72,7 +72,7 @@ if [ $? -ne 0 ]; then #read not successful
     return 1
   fi
 else
-  echo 'cfile_read: succeeded, exit 0, cLINE='$cLINE
+  #echo 'cfile_read: succeeded, exit 0, cLINE='$cLINE
   return 0 #OK, able to read something
 fi
 
