@@ -14,8 +14,9 @@ main() {
   #dir='../04-Numbers' fs=1 ls=36
   #dir='../05-Deuteronomy' fs=1 ls=34
   #dir='../06-Joshua' fs=1 ls=24
-  dir='../07-Judges' fs=1 ls=21
-
+  #dir='../07-Judges' fs=1 ls=21
+  #dir='../08-Ruth' fs=1 ls=4
+  dir='../09-1Samuel' fs=1 ls=31
 
   #remove any previous if present
   \rm "$dir/*-mod"
