@@ -18,7 +18,10 @@ main() {
   #bkChapters '../07-Judges' $rpt 1 21
   #bkChapters '../08-Ruth' $rpt 1 4
   #bkChapters '../09-1Samuel' $rpt 1 31
- bkChapters '../10-2Samuel' $rpt 1 24
+ #bkChapters '../10-2Samuel' $rpt 1 24
+ #bkChapters '../11-1Kings' $rpt 1 22
+ #bkChapters '../12-2Kings' $rpt 1 25
+ bkChapters '../13-1Chronicles' $rpt 1 29
 
   #close any leftover file descriptors
   exec 3<&- #to bfile, briefspec

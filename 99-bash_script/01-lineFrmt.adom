@@ -17,7 +17,11 @@ main() {
   #dir='../07-Judges' fs=1 ls=21
   #dir='../08-Ruth' fs=1 ls=4
   #dir='../09-1Samuel' fs=1 ls=31
-  dir='../10-2Samuel' fs=1 ls=24
+  #dir='../10-2Samuel' fs=1 ls=24
+  #dir='../11-1Kings' fs=1 ls=22
+  #dir='../12-2Kings' fs=25 ls=25
+  dir='../13-1Chronicles' fs=1 ls=29
+
 
   #remove any previous if present
   \rm "$dir/*-mod"
