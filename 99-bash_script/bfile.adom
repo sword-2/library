@@ -5,6 +5,35 @@
   bLINE=$'\0' #content read from line
   bTEMP=$'\0' #temporary storage, for reformatting line
 
+bfile_frmt() {
+  #reformat lines read from brefspec file from book:chapter:verse to chapter:verse
+  IFS=':'
+  read -r -a bTEMP <<< "$bLINE"
+  IFS=''
+  #modify variable to only chapter:verse
+  bLINE="${bTEMP[1]}:${bTEMP[2]}"
+} #end function
+
+bfile_read() {
+#some reading variations like skippng comments, blank lines, & possibly handling files with multiple columns.
+  
+while true; do
+  read -u 3 bLINE
+  if [ $? -ne 0 ]; then #not success
+    echo 'bfile read error or end of file, exiting'
+    exit 1
+  else
+    echo 'bfile_read just got bLINE='$bLINE
+    if ! ([[ ${bLINE:0:1} == "/" ]] ||  [[ $bLINE == '' ]]); then
+      bfile_frmt #limited format change to match most of the files (no multicolumn)
+      read_b=false
+      break
+    #else supposed to repeat loop
+    fi
+  fi
+done
+} #end bfile_read()
+
 bfile_init() {
   #initialize brefspec file
     #does it exist?
@@ -20,24 +49,5 @@ bfile_init() {
     echo 'error finding bfile, exiting'
     exit 1
   fi
-
-  #while loop skip administrative stuff sometimes at the top of files like comment lines (//) and/or blanks lines
-  while true; do
-    read -u 3 bLINE
-    if [[ ${bLINE:0:2} == "//" ]] || [[ $bLINE == '' ]]; then
-      read -u 3 bLINE #read next line
-    else
-      bfile_frmt #change format to match KJV
-      break
-    fi
-  done
 } #end function bfile_init()
 
-bfile_frmt() {
-  #reformat lines read from brefspec file from book:chapter:verse to chapter:verse
-  IFS=':'
-  read -r -a bTEMP <<< "$bLINE"
-  IFS=''
-  #modify variable to only chapter:verse
-  bLINE="${bTEMP[1]}:${bTEMP[2]}"
-} #end function

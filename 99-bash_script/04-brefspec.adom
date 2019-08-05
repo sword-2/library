@@ -21,7 +21,12 @@ main() {
  #bkChapters '../10-2Samuel' $rpt 1 24
  #bkChapters '../11-1Kings' $rpt 1 22
  #bkChapters '../12-2Kings' $rpt 1 25
- bkChapters '../13-1Chronicles' $rpt 1 29
+ #bkChapters '../13-1Chronicles' $rpt 1 29
+ #bkChapters '../14-2Chronicles' $rpt 1 36
+ #bkChapters '../15-Ezra' $rpt 1 10
+ #bkChapters '../16-Nehemiah' $rpt 1 13
+  #bkChapters '../17-Esther' $rpt 1 10
+  bkChapters '../18-Job' $rpt 1 42
 
   #close any leftover file descriptors
   exec 3<&- #to bfile, briefspec
@@ -43,7 +48,7 @@ rfile="$1/$2" #report file w/ path
 g_deleteFile $rfile #delete old report file if one exists. This function in .bashrc
 
 bfile_init "$1/999-brefspec" #initialize brefspec file descriptor (fd) to 3
-read_b=false #not necessary to read a line now from brefspec, assuming previoius bfile_init already read a line
+bfile_read #sets read_b false, which means not necessary to read brefspec file again until the line just read is processed
 
 cfile_init $3 $4 #sets variables ccurent, cFrmt
 cfile_frmt $ccurrent #Filename may have leading zeroes, format it from digit with the zeroes.
@@ -58,14 +63,7 @@ echo 'These are the verses matched between 999-brefspec and the chapter files fo
 while true; do
   if [ "$read_b" = true ]; then
     #try to read from brefspec file
-    read -u 3 bLINE
-    if [ $? -ne 0 ]; then #not success
-      echo 'bfile read error or end of file, exiting'
-      exit 1
-    else
-      bfile_frmt #format what was read
-      read_b=false #no need to read yet
-    fi
+    bfile_read
   fi
 
   #update chapter lines/files
