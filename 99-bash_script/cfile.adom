@@ -19,7 +19,9 @@ cfile_frmt() {
   #receive number, return formatted filename
   #some of the filenames need leading zeroes, formatted different than the counter
   #receive a counter and return formatted result
+  #put %03d for pslams, %02d for othe4r books
   printf -v cFrmt "%02d" $((10#$1))
+  #printf -v cFrmt "%03d" $((10#$1))
 } #end cfile_frmt()
 
 cfile_fd() {

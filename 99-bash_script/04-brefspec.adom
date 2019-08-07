@@ -26,8 +26,8 @@ main() {
  #bkChapters '../15-Ezra' $rpt 1 10
  #bkChapters '../16-Nehemiah' $rpt 1 13
   #bkChapters '../17-Esther' $rpt 1 10
-  bkChapters '../18-Job' $rpt 1 42
-
+  #bkChapters '../18-Job' $rpt 1 42
+  bkChapters '../19-Psalms' $rpt 1 150
   #close any leftover file descriptors
   exec 3<&- #to bfile, briefspec
   exec 4<&- #to a chapter file
@@ -68,7 +68,7 @@ while true; do
 
   #update chapter lines/files
   if [ "$read_c" = true ]; then
-    echo 'calling cfile_read with :'$1
+    #echo 'calling cfile_read with :'$1
     cfile_read $1
     ec=$? #exit (return code)
     if [ $ec -ne 0 ]; then
@@ -88,6 +88,7 @@ if [[ $read_b == true ]] || [[ $read_c == true ]]; then
 else
   #echo "debug: comparing bLine=$bLINE to cLINE=$cLINE" >> $rfile
   if [[ $cLINE == "$bLINE"* ]]; then
+    echo 'matched bLINE='$bLINE
     echo "$bLINE" >> $rfile
     read_b=true
     read_c=true

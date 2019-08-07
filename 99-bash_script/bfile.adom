@@ -23,7 +23,7 @@ while true; do
     echo 'bfile read error or end of file, exiting'
     exit 1
   else
-    echo 'bfile_read just got bLINE='$bLINE
+    #echo 'bfile_read just got bLINE='$bLINE
     if ! ([[ ${bLINE:0:1} == "/" ]] ||  [[ $bLINE == '' ]]); then
       bfile_frmt #limited format change to match most of the files (no multicolumn)
       read_b=false

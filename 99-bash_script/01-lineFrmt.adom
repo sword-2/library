@@ -25,7 +25,10 @@ main() {
   #dir='../15-Ezra' fs=1 ls=10
   #dir='../16-Nehemiah' fs=1 ls=13
   #dir='../17-Esther' fs=1 ls=10
-  dir='../18-Job' fs=1 ls=42
+  #dir='../18-Job' fs=1 ls=42
+  #dir='../19-Psalms' fs=1 ls=150
+  dir='../20-Proverbs' fs=1 ls=31
+
   #remove any previous if present
   \rm "$dir/*-mod"
   echo 'main: calling lineBreaks'
