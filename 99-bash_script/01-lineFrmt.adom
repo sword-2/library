@@ -48,7 +48,15 @@ main() {
 #dir='../38-Zechariah' fs=1 ls=14
 #dir='../39-Malachi' fs=1 ls=4
 #dir='../40-Matthew' fs=1 ls=28
-dir='../41-Mark' fs=1 ls=16
+#dir='../41-Mark' fs=1 ls=16
+#dir='../42-Luke' fs=1 ls=24
+  #dir='../43-John' fs=1 ls=21
+  #dir='../44-Acts' fs=1 ls=28
+  #dir='../45-Romans' fs=1 ls=16
+#dir='../46-1Corinthians' fs=1 ls=16
+dir='../47-2Corinthians' fs=1 ls=13
+
+
 
   #remove any previous if present
   \rm "$dir/*-mod"
