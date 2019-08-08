@@ -31,7 +31,23 @@ main() {
   #dir='../21-Ecclesiastes' fs=1 ls=12
   #dir='../22-SongOfSolomon' fs=1 ls=8
   #dir='../23-Isaiah' fs=1 ls=66
-  dir='../24-Jeremiah' fs=1 ls=52
+  #dir='../24-Jeremiah' fs=1 ls=52
+  #dir='../25-Lamentations' fs=1 ls=5
+  #dir='../26-Ezekiel' fs=1 ls=48
+  #dir='../27-Daniel' fs=1 ls=12
+  #dir='../28-Hosea' fs=1 ls=14
+  #dir='../29-Joel' fs=1 ls=3
+  #dir='../30-Amos' fs=1 ls=9
+  #dir='../31-Obadiah' fs=1 ls=1
+  #dir='../32-Jonah' fs=1 ls=4
+#dir='../33-Micah' fs=1 ls=7
+#dir='../34-Nahum' fs=1 ls=3
+#dir='../35-Habakkuk' fs=1 ls=3
+#dir='../36-Zephaniah' fs=1 ls=3
+#dir='../37-Haggai' fs=1 ls=2
+#dir='../38-Zechariah' fs=1 ls=14
+dir='../39-Malachi' fs=1 ls=4
+
   #remove any previous if present
   \rm "$dir/*-mod"
   echo 'main: calling lineBreaks'

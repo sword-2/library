@@ -32,7 +32,24 @@ main() {
   #bkChapters '../21-Ecclesiastes' $rpt 1 12
   #bkChapters '../22-SongOfSolomon' $rpt 1 8
   #bkChapters '../23-Isaiah' $rpt 1 66
-  bkChapters '../24-Jeremiah' $rpt 1 52
+  #bkChapters '../24-Jeremiah' $rpt 1 52
+  #bkChapters '../25-Lamentations' $rpt 1 5
+  #bkChapters '../26-Ezekiel' $rpt 1 48
+  #bkChapters '../27-Daniel' $rpt 1 12
+  #bkChapters '../28-Hosea' $rpt 1 14
+#bkChapters '../29-Joel' $rpt 1 3
+#bkChapters '../30-Amos' $rpt 1 9
+#bkChapters '../31-Obadiah' $rpt 1 1
+#bkChapters '../32-Jonah' $rpt 1 4
+#bkChapters '../33-Micah' $rpt 1 7
+#bkChapters '../34-Nahum' $rpt 1 3
+#bkChapters '../35-Habakkuk' $rpt 1 3
+#bkChapters '../36-Zephaniah' $rpt 1 3
+#bkChapters '../37-Haggai' $rpt 1 2
+#bkChapters '../38-Zechariah' $rpt 1 14
+bkChapters '../39-Malachi' $rpt 1 4
+
+
   #close any leftover file descriptors
   exec 3<&- #to bfile, briefspec
   exec 4<&- #to a chapter file
