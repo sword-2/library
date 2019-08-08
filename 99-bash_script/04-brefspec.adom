@@ -47,7 +47,9 @@ main() {
 #bkChapters '../36-Zephaniah' $rpt 1 3
 #bkChapters '../37-Haggai' $rpt 1 2
 #bkChapters '../38-Zechariah' $rpt 1 14
-bkChapters '../39-Malachi' $rpt 1 4
+#bkChapters '../39-Malachi' $rpt 1 4
+#bkChapters '../40-Matthew' $rpt 1 28
+bkChapters '../41-Mark' $rpt 1 16
 
 
   #close any leftover file descriptors

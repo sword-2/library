@@ -46,7 +46,9 @@ main() {
 #dir='../36-Zephaniah' fs=1 ls=3
 #dir='../37-Haggai' fs=1 ls=2
 #dir='../38-Zechariah' fs=1 ls=14
-dir='../39-Malachi' fs=1 ls=4
+#dir='../39-Malachi' fs=1 ls=4
+#dir='../40-Matthew' fs=1 ls=28
+dir='../41-Mark' fs=1 ls=16
 
   #remove any previous if present
   \rm "$dir/*-mod"
