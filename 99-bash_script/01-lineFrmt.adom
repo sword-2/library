@@ -54,9 +54,26 @@ main() {
   #dir='../44-Acts' fs=1 ls=28
   #dir='../45-Romans' fs=1 ls=16
 #dir='../46-1Corinthians' fs=1 ls=16
-dir='../47-2Corinthians' fs=1 ls=13
-
-
+#dir='../47-2Corinthians' fs=1 ls=13
+#dir='../48-Galatians' fs=1 ls=6
+#dir='../49-Ephesians' fs=1 ls=6
+#dir='../50-Philippians' fs=1 ls=4
+#dir='../51-Colossians' fs=1 ls=4
+#dir='../52-1Thessalonians' fs=1 ls=5
+#dir='../53-2Thessalonians' fs=1 ls=3
+#dir='../54-1Timothy' fs=1 ls=6
+#dir='../55-2Timothy' fs=1 ls=4
+#dir='../56-Titus' fs=1 ls=3
+#dir='../57-Philemon' fs=1 ls=1
+#dir='../58-Hebrews' fs=1 ls=13
+#dir='../59-James' fs=1 ls=5
+#dir='../60-1Peter' fs=1 ls=5
+#dir='../61-2Peter' fs=1 ls=3
+#dir='../62-1John' fs=1 ls=5
+#dir='../63-2John' fs=1 ls=1
+#dir='../64-3John' fs=1 ls=1
+#dir='../65-Jude' fs=1 ls=1
+dir='../66-Revelation' fs=1 ls=22
 
   #remove any previous if present
   \rm "$dir/*-mod"
