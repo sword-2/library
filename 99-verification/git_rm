@@ -1,0 +1,15 @@
+#!/data/data/com.termux/files/usr/bin/bash
+
+source ./spec.adom #variables describing bible
+
+Len=${#books[@]} #length books array
+
+for (( i=0; i<${Len}; i++ )); do 
+  echo ${books[$i]}
+  git rm --cached "../${books[$i]}/999-brefspec"
+  git rm --cached "../${books[$i]}/999-verseMatch.txt"
+done
+
+#array element accessed with ${ArrayName[subscript]}
+
+#git rm --cached 06-Joshua/999-brefspec
