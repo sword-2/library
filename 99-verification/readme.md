@@ -1,21 +1,12 @@
 # Software comments
 
-Because it was faster, software was used to attempt repair of the scripture files. The software is changing.
+## 01-lineFrmt.adom and 02-rename.adom   
+The purpose was to merge a single lines many of which had separated into fragments on separate lines.   
+02-rename.adom moved groups of files which was faster than typing commands one file at a time. The first script outputed new files with a suffic '-mod'. Then the second deleted the original and moved the "-mod" files to replace the originals. 
 
-The numbers for the program prefix are the approximate order.
+## verse Statistics
+This was the first partial check of content. The program generates a report if an expected verse reference was missed. So there are files describing the expected chapters and verse range for each book. The program simply compares the expected to actual and references.   
+This was only a partial check, but did not check the verse content.
 
-01-lineFrmt.adom   
-This script combined lines which had separated by simple logic to see if the first line was a number for references. It does not work perfect as the referenes were not always located at the start of the line.   
-
-02-rename.adom
-The previous script outputs new files with a suffic '-mod' for review. If the -mod files look OK, this script deletes the original filenames and moves the -mod files to the name of the original.
-
-
-03-references  
-
-
-
-
-
-# Copyright:
-The .adom filename extensions were for ADOM baptist church
+## Copyright:
+The .adom filename extensions were for ADOM baptist church. The script was actually bash (Bourne again shell)

@@ -1,0 +1,69 @@
+#!/data/data/com.termux/files/usr/bin/bash
+#This script reads expected chapters:verses from bref spec and tries to locate them in the chapter files.
+
+source ./00b-specs.adom
+source ../cfile.adom #methods & variables for chapter files (cfiles)
+
+main() {
+  #name of something to write a status
+  rpt='../verseStats_rpt'
+  g_deleteFile $rpt #if old file is present, delete it.
+
+  #Put date/time at top of the status
+  dt=`date '+%d/%m/%Y %H:%M:%S'` 
+  echo 'No output here is good. If output, it lists any verse references not found when comparing the expected references to the bible content files. Date time run in the format [d/m/Y h/m/s]: '"$dt" >> $rpt
+
+    Len=${#books[@]} #length of array with list of the 66 books
+
+  #for each book - some statistics
+  for (( i=0; i<${Len}; i++ )); do
+    echo "checking book: ${books[$i]}"
+    echo "${books[$i]} anomalies:" >> $rpt
+    Book_stats "../../${books[$i]}" "${books[$i]}-spec" $rpt
+  done
+
+  #close any leftover file descriptors
+  exec 3<&- #to bfile, briefspec
+  exec 4<&- #to a chapter file
+  echo '.....end verse statistics'
+} #end main()
+
+Book_stats() { #stats for one book, supporting loop on books
+
+bfile_init "$2"
+
+while true; do #each chapter
+  bfile_read #line describes 1 chapter
+  if [ $? -ne 0 ]; then #not success
+    #echo 'spec file ended or some type of error occurred' >> $3
+    break
+
+  else #loop through a chapter file (cfile) using variables....
+    
+    #The format is different for Psalms because 150 chapters causes 3 digits for leading zeroes instead of 2 like other books
+    if [ $2 == '19-Psalms-spec' ]; then
+      printf -v cFrmt "%03d" $((10#$chap))
+    else
+      printf -v cFrmt "%02d" $((10#$chap))
+    fi
+    cfile_fd "$1/$cFrmt"
+    for (( j=$firstV; j<=$lastV; j++ )); do
+      read -u 4 cLINE
+      if [ $? -ne 0 ]; then 
+        echo "error reading from chapter file: $1/$cFrmt" >> $3
+      else #read succeeded
+      
+        lineD="$chap:$j"
+        if ! [[ $cLINE == "$lineD"* ]]; then
+          #echo "line matched: $lineD" >> $3
+        #else #progress thru bible content
+          echo "line not matched: $lineD" >> $3
+        fi #line matched
+      fi #return code read chap file
+    done #for firstV to lastV
+  fi #return code - read from spec file
+done #while true keep reading spec file
+} #end process_Book()
+
+main "$@" #call main function
+

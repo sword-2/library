@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 #The purpose is to merge a single lines many of which had separated into fragments on separate lines/
-#The logic was simple to test first character for a number as in the reference (1:1). If not a number, content is concatenated. Also, blank lines are skipped.
-#It is not perfect as references might not always appear at the beginning of a line. 
+#The logic was simple to test first character for a number as in the verse reference (1:1). If not a number, the lines were combined back together. Also, blank lines are skipped.
+#This saved a lot of editing, but was not perfect as references did not always appear at the beginning of a line where the check was done.
 
 source ./cfile.adom #methods and variables pertaining to chapter file(s)
 lineCat=$'\0' #storage to concatenate lines perceived to have split or separated

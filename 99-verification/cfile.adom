@@ -2,21 +2,17 @@
 
 #global variables, initialize empty
 
-  #cfirst=$'\0' #first chapter No.
-  #clast=$'\0' #last chapter No.
-  #ccurent=$'\0' #current chap No.
   cFrmt=$'\0' #Format ccurrent w/ leading zeroes, as needed.
   cLINE=$'\0' #content read from line
 
 cfile_fd() {
   #/$cFrmt" #set fd 4 for chapter file(s)
-  echo 'cfile_fd, testing -f for '$1
+  #echo 'cfile_fd, testing -f for '$1
   if [ -f "$1" ]; then #file exists
-    #echo 'current file exists, get fd' #&>/dev/null
     #file descriptor (fd)
     exec 4<&- #close prev, if necessary
     exec 4<"$1" #open
-    echo 'Opened ='$1', for read using descriptor 4'
+    #echo 'Opened ='$1', for read using descriptor 4'
   else
     echo 'file descriptor error, failed to set for: '$1
     return 1
@@ -24,47 +20,10 @@ cfile_fd() {
 } #end cfile_fd()
 
 
-cfile_read() {
+#cfile_read() {
 #Reading chapter files is a little confusing because it reads thru a set of files, not one file. End of file can occur, but is not necessarily the end of the set of files, thus some more checks to distinguish the various end of file(s).
 
+#read -u 4 cLINE
+#if [ $? -ne 0 ]; then #read not succe
 
-#troubleshoot file descriptor
-#if command >&4
-#then
-#  echo 'cfile_read: fd 4 is open >&4'
-#else
-#  echo 'cfile_read: 4 is not open' 
-#fi #2>/dev/null
-
-#echo 'cfile_read debugging 1'
-read -u 4 cLINE
-if [ $? -ne 0 ]; then #read not successful
-  #echo 'cfile_read: read cLINE not successful. assume end of file: cfile, about to compare ccurrent='$ccurrent' with clast='$clast
-  #See if there is another file in the set to read from ....
-#  if (($ccurrent < $clast)); then
-    #echo 'cfile_read: incrementing cFrmt'
-#    ccurrent=$((ccurrent+1))
-
-    #cfile_frmt $ccurrent
-    #put %03d for pslams, %02d for othe4r books
-#    printf -v cFrmt "%02d" $((10#$1))
-    #printf -v cFrmt "%03d" $((10#$1))
-#    cfile_fd "$1" #refresh fd 4
-#    read -u 4 cLINE
-#    if [ $? -ne 0 ]; then
-      #echo 'cfile_read: err reading cLINE again, assume end of all files, exit 1'
-#      return 1
-#    else
-      #echo 'cfile_read: cfile_read read progressed to next file in set, exit 0'
-#      return 0 #ok, able to read something
-#    fi
-#  else
-#    echo 'cfile_read: past last file clast, exit 1 for (end of files)'
-#    return 1
-#  fi
-#else
-  #echo 'cfile_read: succeeded, exit 0, cLINE='$cLINE
-#  return 0 #OK, able to read something
-#fi
-
-} #end cfile_read()
+#} #end cfile_read()
