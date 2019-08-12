@@ -1,0 +1,3259 @@
+These are the verses matched between 999-brefspec and the chapter files for . Date time run in the format [d/m/Y h/m/s]: 11/08/2019 17:37:46
+01-Genesis being checked, if errors they were:
+02-Exodus being checked, if errors they were:
+03-Leviticus being checked, if errors they were:
+error reading from chapter file: ../03-Leviticus/01
+line not matched: 2:1
+line not matched: 2:2
+line not matched: 2:3
+line not matched: 2:4
+line not matched: 2:5
+line not matched: 2:6
+line not matched: 2:7
+line not matched: 2:8
+line not matched: 2:9
+line not matched: 2:10
+line not matched: 2:11
+line not matched: 2:12
+line not matched: 2:13
+line not matched: 2:14
+line not matched: 2:15
+line not matched: 2:16
+line not matched: 3:1
+line not matched: 3:2
+line not matched: 3:3
+line not matched: 3:4
+line not matched: 3:5
+line not matched: 3:6
+line not matched: 3:7
+line not matched: 3:8
+line not matched: 3:9
+line not matched: 3:10
+line not matched: 3:11
+line not matched: 3:12
+line not matched: 3:13
+line not matched: 3:14
+line not matched: 3:15
+line not matched: 3:16
+line not matched: 3:17
+line not matched: 4:1
+line not matched: 4:2
+line not matched: 4:3
+line not matched: 4:4
+line not matched: 4:5
+line not matched: 4:6
+line not matched: 4:7
+line not matched: 4:8
+line not matched: 4:9
+line not matched: 4:10
+line not matched: 4:11
+line not matched: 4:12
+line not matched: 4:13
+line not matched: 4:14
+line not matched: 4:15
+line not matched: 4:16
+line not matched: 4:17
+line not matched: 4:18
+line not matched: 4:19
+line not matched: 4:20
+line not matched: 4:21
+line not matched: 4:22
+line not matched: 4:23
+line not matched: 4:24
+line not matched: 4:25
+line not matched: 4:26
+line not matched: 4:27
+line not matched: 4:28
+line not matched: 4:29
+line not matched: 4:30
+line not matched: 4:31
+line not matched: 4:32
+line not matched: 4:33
+line not matched: 4:34
+line not matched: 4:35
+line not matched: 5:1
+line not matched: 5:2
+line not matched: 5:3
+line not matched: 5:4
+line not matched: 5:5
+line not matched: 5:6
+line not matched: 5:7
+line not matched: 5:8
+line not matched: 5:9
+line not matched: 5:10
+line not matched: 5:11
+line not matched: 5:12
+line not matched: 5:13
+line not matched: 5:14
+line not matched: 5:15
+line not matched: 5:16
+line not matched: 5:17
+line not matched: 5:18
+line not matched: 5:19
+line not matched: 6:1
+line not matched: 6:2
+line not matched: 6:3
+line not matched: 6:4
+line not matched: 6:5
+line not matched: 6:6
+line not matched: 6:7
+line not matched: 6:8
+line not matched: 6:9
+line not matched: 6:10
+line not matched: 6:11
+line not matched: 6:12
+line not matched: 6:13
+line not matched: 6:14
+line not matched: 6:15
+line not matched: 6:16
+line not matched: 6:17
+line not matched: 6:18
+line not matched: 6:19
+line not matched: 6:20
+line not matched: 6:21
+line not matched: 6:22
+line not matched: 6:23
+line not matched: 6:24
+line not matched: 6:25
+line not matched: 6:26
+line not matched: 6:27
+line not matched: 6:28
+line not matched: 6:29
+line not matched: 6:30
+line not matched: 7:1
+line not matched: 7:2
+line not matched: 7:3
+line not matched: 7:4
+line not matched: 7:5
+line not matched: 7:6
+line not matched: 7:7
+line not matched: 7:8
+line not matched: 7:9
+line not matched: 7:10
+line not matched: 7:11
+line not matched: 7:12
+line not matched: 7:13
+line not matched: 7:14
+line not matched: 7:15
+line not matched: 7:16
+line not matched: 7:17
+line not matched: 7:18
+line not matched: 7:19
+line not matched: 7:20
+line not matched: 7:21
+line not matched: 7:22
+line not matched: 7:23
+line not matched: 7:24
+line not matched: 7:25
+line not matched: 7:26
+line not matched: 7:27
+line not matched: 7:28
+line not matched: 7:29
+line not matched: 7:30
+line not matched: 7:31
+line not matched: 7:32
+line not matched: 7:33
+line not matched: 7:34
+line not matched: 7:35
+line not matched: 7:36
+line not matched: 7:37
+line not matched: 7:38
+line not matched: 8:1
+line not matched: 8:2
+line not matched: 8:3
+line not matched: 8:4
+line not matched: 8:5
+line not matched: 8:6
+line not matched: 8:7
+line not matched: 8:8
+line not matched: 8:9
+line not matched: 8:10
+line not matched: 8:11
+line not matched: 8:12
+line not matched: 8:13
+line not matched: 8:14
+line not matched: 8:15
+line not matched: 8:16
+line not matched: 8:17
+line not matched: 8:18
+line not matched: 8:19
+line not matched: 8:20
+line not matched: 8:21
+line not matched: 8:22
+line not matched: 8:23
+line not matched: 8:24
+line not matched: 8:25
+line not matched: 8:26
+line not matched: 8:27
+line not matched: 8:28
+line not matched: 8:29
+line not matched: 8:30
+line not matched: 8:31
+line not matched: 8:32
+line not matched: 8:33
+line not matched: 8:34
+line not matched: 8:35
+line not matched: 8:36
+line not matched: 9:1
+line not matched: 9:2
+line not matched: 9:3
+line not matched: 9:4
+line not matched: 9:5
+line not matched: 9:6
+line not matched: 9:7
+line not matched: 9:8
+line not matched: 9:9
+line not matched: 9:10
+line not matched: 9:11
+line not matched: 9:12
+line not matched: 9:13
+line not matched: 9:14
+line not matched: 9:15
+line not matched: 9:16
+line not matched: 9:17
+line not matched: 9:18
+line not matched: 9:19
+line not matched: 9:20
+line not matched: 9:21
+line not matched: 9:22
+line not matched: 9:23
+line not matched: 9:24
+line not matched: 10:1
+line not matched: 10:2
+line not matched: 10:3
+line not matched: 10:4
+line not matched: 10:5
+line not matched: 10:6
+line not matched: 10:7
+line not matched: 10:8
+line not matched: 10:9
+line not matched: 10:10
+line not matched: 10:11
+line not matched: 10:12
+line not matched: 10:13
+line not matched: 10:14
+line not matched: 10:15
+line not matched: 10:16
+line not matched: 10:17
+line not matched: 10:18
+line not matched: 10:19
+line not matched: 10:20
+line not matched: 11:1
+line not matched: 11:2
+line not matched: 11:3
+line not matched: 11:4
+line not matched: 11:5
+line not matched: 11:6
+line not matched: 11:7
+line not matched: 11:8
+line not matched: 11:9
+line not matched: 11:10
+line not matched: 11:11
+line not matched: 11:12
+line not matched: 11:13
+line not matched: 11:14
+line not matched: 11:15
+line not matched: 11:16
+line not matched: 11:17
+line not matched: 11:18
+line not matched: 11:19
+line not matched: 11:20
+line not matched: 11:21
+line not matched: 11:22
+line not matched: 11:23
+line not matched: 11:24
+line not matched: 11:25
+line not matched: 11:26
+line not matched: 11:27
+line not matched: 11:28
+line not matched: 11:29
+line not matched: 11:30
+line not matched: 11:31
+line not matched: 11:32
+line not matched: 11:33
+line not matched: 11:34
+line not matched: 11:35
+line not matched: 11:36
+line not matched: 11:37
+line not matched: 11:38
+line not matched: 11:39
+line not matched: 11:40
+line not matched: 11:41
+line not matched: 11:42
+line not matched: 11:43
+line not matched: 11:44
+line not matched: 11:45
+line not matched: 11:46
+line not matched: 11:47
+line not matched: 12:1
+line not matched: 12:2
+line not matched: 12:3
+line not matched: 12:4
+line not matched: 12:5
+line not matched: 12:6
+line not matched: 12:7
+line not matched: 12:8
+line not matched: 13:1
+line not matched: 13:2
+line not matched: 13:3
+line not matched: 13:4
+line not matched: 13:5
+line not matched: 13:6
+line not matched: 13:7
+line not matched: 13:8
+line not matched: 13:9
+line not matched: 13:10
+line not matched: 13:11
+line not matched: 13:12
+line not matched: 13:13
+line not matched: 13:14
+line not matched: 13:15
+line not matched: 13:16
+line not matched: 13:17
+line not matched: 13:18
+line not matched: 13:19
+line not matched: 13:20
+line not matched: 13:21
+line not matched: 13:22
+line not matched: 13:23
+line not matched: 13:24
+line not matched: 13:25
+line not matched: 13:26
+line not matched: 13:27
+line not matched: 13:28
+line not matched: 13:29
+line not matched: 13:30
+line not matched: 13:31
+line not matched: 13:32
+line not matched: 13:33
+line not matched: 13:34
+line not matched: 13:35
+line not matched: 13:36
+line not matched: 13:37
+line not matched: 13:38
+line not matched: 13:39
+line not matched: 13:40
+line not matched: 13:41
+line not matched: 13:42
+line not matched: 13:43
+line not matched: 13:44
+line not matched: 13:45
+line not matched: 13:46
+line not matched: 13:47
+line not matched: 13:48
+line not matched: 13:49
+line not matched: 13:50
+line not matched: 13:51
+line not matched: 13:52
+line not matched: 13:53
+line not matched: 13:54
+line not matched: 13:55
+line not matched: 13:56
+line not matched: 13:57
+line not matched: 13:58
+line not matched: 13:59
+line not matched: 14:1
+line not matched: 14:2
+line not matched: 14:3
+line not matched: 14:4
+line not matched: 14:5
+line not matched: 14:6
+line not matched: 14:7
+line not matched: 14:8
+line not matched: 14:9
+line not matched: 14:10
+line not matched: 14:11
+line not matched: 14:12
+line not matched: 14:13
+line not matched: 14:14
+line not matched: 14:15
+line not matched: 14:16
+line not matched: 14:17
+line not matched: 14:18
+line not matched: 14:19
+line not matched: 14:20
+line not matched: 14:21
+line not matched: 14:22
+line not matched: 14:23
+line not matched: 14:24
+line not matched: 14:25
+line not matched: 14:26
+line not matched: 14:27
+line not matched: 14:28
+line not matched: 14:29
+line not matched: 14:30
+line not matched: 14:31
+line not matched: 14:32
+line not matched: 14:33
+line not matched: 14:34
+line not matched: 14:35
+line not matched: 14:36
+line not matched: 14:37
+line not matched: 14:38
+line not matched: 14:39
+line not matched: 14:40
+line not matched: 14:41
+line not matched: 14:42
+line not matched: 14:43
+line not matched: 14:44
+line not matched: 14:45
+line not matched: 14:46
+line not matched: 14:47
+line not matched: 14:48
+line not matched: 14:49
+line not matched: 14:50
+line not matched: 14:51
+line not matched: 14:52
+line not matched: 14:53
+line not matched: 14:54
+line not matched: 14:55
+line not matched: 14:56
+line not matched: 14:57
+line not matched: 15:1
+line not matched: 15:2
+line not matched: 15:3
+line not matched: 15:4
+line not matched: 15:5
+line not matched: 15:6
+line not matched: 15:7
+line not matched: 15:8
+line not matched: 15:9
+line not matched: 15:10
+line not matched: 15:11
+line not matched: 15:12
+line not matched: 15:13
+line not matched: 15:14
+line not matched: 15:15
+line not matched: 15:16
+line not matched: 15:17
+line not matched: 15:18
+line not matched: 15:19
+line not matched: 15:20
+line not matched: 15:21
+line not matched: 15:22
+line not matched: 15:23
+line not matched: 15:24
+line not matched: 15:25
+line not matched: 15:26
+line not matched: 15:27
+line not matched: 15:28
+line not matched: 15:29
+line not matched: 15:30
+line not matched: 15:31
+line not matched: 15:32
+line not matched: 15:33
+line not matched: 16:1
+line not matched: 16:2
+line not matched: 16:3
+line not matched: 16:4
+line not matched: 16:5
+line not matched: 16:6
+line not matched: 16:7
+line not matched: 16:8
+line not matched: 16:9
+line not matched: 16:10
+line not matched: 16:11
+line not matched: 16:12
+line not matched: 16:13
+line not matched: 16:14
+line not matched: 16:15
+line not matched: 16:16
+line not matched: 16:17
+line not matched: 16:18
+line not matched: 16:19
+line not matched: 16:20
+line not matched: 16:21
+line not matched: 16:22
+line not matched: 16:23
+line not matched: 16:24
+line not matched: 16:25
+line not matched: 16:26
+line not matched: 16:27
+line not matched: 16:28
+line not matched: 16:29
+line not matched: 16:30
+line not matched: 16:31
+line not matched: 16:32
+line not matched: 16:33
+line not matched: 16:34
+line not matched: 17:1
+line not matched: 17:2
+line not matched: 17:3
+line not matched: 17:4
+line not matched: 17:5
+line not matched: 17:6
+line not matched: 17:7
+line not matched: 17:8
+line not matched: 17:9
+line not matched: 17:10
+line not matched: 17:11
+line not matched: 17:12
+line not matched: 17:13
+line not matched: 17:14
+line not matched: 17:15
+line not matched: 17:16
+line not matched: 18:1
+line not matched: 18:2
+line not matched: 18:3
+line not matched: 18:4
+line not matched: 18:5
+line not matched: 18:6
+line not matched: 18:7
+line not matched: 18:8
+line not matched: 18:9
+line not matched: 18:10
+line not matched: 18:11
+line not matched: 18:12
+line not matched: 18:13
+line not matched: 18:14
+line not matched: 18:15
+line not matched: 18:16
+line not matched: 18:17
+line not matched: 18:18
+line not matched: 18:19
+line not matched: 18:20
+line not matched: 18:21
+line not matched: 18:22
+line not matched: 18:23
+line not matched: 18:24
+line not matched: 18:25
+line not matched: 18:26
+line not matched: 18:27
+line not matched: 18:28
+line not matched: 18:29
+line not matched: 18:30
+line not matched: 19:1
+line not matched: 19:2
+line not matched: 19:3
+line not matched: 19:4
+line not matched: 19:5
+line not matched: 19:6
+line not matched: 19:7
+line not matched: 19:8
+line not matched: 19:9
+line not matched: 19:10
+line not matched: 19:11
+line not matched: 19:12
+line not matched: 19:13
+line not matched: 19:14
+line not matched: 19:15
+line not matched: 19:16
+line not matched: 19:17
+line not matched: 19:18
+line not matched: 19:19
+line not matched: 19:20
+line not matched: 19:21
+line not matched: 19:22
+line not matched: 19:23
+line not matched: 19:24
+line not matched: 19:25
+line not matched: 19:26
+line not matched: 19:27
+line not matched: 19:28
+line not matched: 19:29
+line not matched: 19:30
+line not matched: 19:31
+line not matched: 19:32
+line not matched: 19:33
+line not matched: 19:34
+line not matched: 19:35
+line not matched: 19:36
+line not matched: 19:37
+line not matched: 20:1
+line not matched: 20:2
+line not matched: 20:3
+line not matched: 20:4
+line not matched: 20:5
+line not matched: 20:6
+line not matched: 20:7
+line not matched: 20:8
+line not matched: 20:9
+line not matched: 20:10
+line not matched: 20:11
+line not matched: 20:12
+line not matched: 20:13
+line not matched: 20:14
+line not matched: 20:15
+line not matched: 20:16
+line not matched: 20:17
+line not matched: 20:18
+line not matched: 20:19
+line not matched: 20:20
+line not matched: 20:21
+line not matched: 20:22
+line not matched: 20:23
+line not matched: 20:24
+line not matched: 20:25
+line not matched: 20:26
+line not matched: 20:27
+line not matched: 21:1
+line not matched: 21:2
+line not matched: 21:3
+line not matched: 21:4
+line not matched: 21:5
+line not matched: 21:6
+line not matched: 21:7
+line not matched: 21:8
+line not matched: 21:9
+line not matched: 21:10
+line not matched: 21:11
+line not matched: 21:12
+line not matched: 21:13
+line not matched: 21:14
+line not matched: 21:15
+line not matched: 21:16
+line not matched: 21:17
+line not matched: 21:18
+line not matched: 21:19
+line not matched: 21:20
+line not matched: 21:21
+line not matched: 21:22
+line not matched: 21:23
+line not matched: 21:24
+line not matched: 22:1
+line not matched: 22:2
+line not matched: 22:3
+line not matched: 22:4
+line not matched: 22:5
+line not matched: 22:6
+line not matched: 22:7
+line not matched: 22:8
+line not matched: 22:9
+line not matched: 22:10
+line not matched: 22:11
+line not matched: 22:12
+line not matched: 22:13
+line not matched: 22:14
+line not matched: 22:15
+line not matched: 22:16
+line not matched: 22:17
+line not matched: 22:18
+line not matched: 22:19
+line not matched: 22:20
+line not matched: 22:21
+line not matched: 22:22
+line not matched: 22:23
+line not matched: 22:24
+line not matched: 22:25
+line not matched: 22:26
+line not matched: 22:27
+line not matched: 22:28
+line not matched: 22:29
+line not matched: 22:30
+line not matched: 22:31
+line not matched: 22:32
+line not matched: 22:33
+line not matched: 23:1
+line not matched: 23:2
+line not matched: 23:3
+line not matched: 23:4
+line not matched: 23:5
+line not matched: 23:6
+line not matched: 23:7
+line not matched: 23:8
+line not matched: 23:9
+line not matched: 23:10
+line not matched: 23:11
+line not matched: 23:12
+line not matched: 23:13
+line not matched: 23:14
+line not matched: 23:15
+line not matched: 23:16
+line not matched: 23:17
+line not matched: 23:18
+line not matched: 23:19
+line not matched: 23:20
+line not matched: 23:21
+line not matched: 23:22
+line not matched: 23:23
+line not matched: 23:24
+line not matched: 23:25
+line not matched: 23:26
+line not matched: 23:27
+line not matched: 23:28
+line not matched: 23:29
+line not matched: 23:30
+line not matched: 23:31
+line not matched: 23:32
+line not matched: 23:33
+line not matched: 23:34
+line not matched: 23:35
+line not matched: 23:36
+line not matched: 23:37
+line not matched: 23:38
+line not matched: 23:39
+line not matched: 23:40
+line not matched: 23:41
+line not matched: 23:42
+line not matched: 23:43
+line not matched: 23:44
+line not matched: 24:1
+line not matched: 24:2
+line not matched: 24:3
+line not matched: 24:4
+line not matched: 24:5
+line not matched: 24:6
+line not matched: 24:7
+line not matched: 24:8
+line not matched: 24:9
+line not matched: 24:10
+line not matched: 24:11
+line not matched: 24:12
+line not matched: 24:13
+line not matched: 24:14
+line not matched: 24:15
+line not matched: 24:16
+line not matched: 24:17
+line not matched: 24:18
+line not matched: 24:19
+line not matched: 24:20
+line not matched: 24:21
+line not matched: 24:22
+line not matched: 24:23
+line not matched: 25:1
+line not matched: 25:2
+line not matched: 25:3
+line not matched: 25:4
+line not matched: 25:5
+line not matched: 25:6
+line not matched: 25:7
+line not matched: 25:8
+line not matched: 25:9
+line not matched: 25:10
+line not matched: 25:11
+line not matched: 25:12
+line not matched: 25:13
+line not matched: 25:14
+line not matched: 25:15
+line not matched: 25:16
+line not matched: 25:17
+line not matched: 25:18
+line not matched: 25:19
+line not matched: 25:20
+line not matched: 25:21
+line not matched: 25:22
+line not matched: 25:23
+line not matched: 25:24
+line not matched: 25:25
+line not matched: 25:26
+line not matched: 25:27
+line not matched: 25:28
+line not matched: 25:29
+line not matched: 25:30
+line not matched: 25:31
+line not matched: 25:32
+line not matched: 25:33
+line not matched: 25:34
+line not matched: 25:35
+line not matched: 25:36
+line not matched: 25:37
+line not matched: 25:38
+line not matched: 25:39
+line not matched: 25:40
+line not matched: 25:41
+line not matched: 25:42
+line not matched: 25:43
+line not matched: 25:44
+line not matched: 25:45
+line not matched: 25:46
+line not matched: 25:47
+line not matched: 25:48
+line not matched: 25:49
+line not matched: 25:50
+line not matched: 25:51
+line not matched: 25:52
+line not matched: 25:53
+line not matched: 25:54
+line not matched: 25:55
+line not matched: 26:1
+line not matched: 26:2
+line not matched: 26:3
+line not matched: 26:4
+line not matched: 26:5
+line not matched: 26:6
+line not matched: 26:7
+line not matched: 26:8
+line not matched: 26:9
+line not matched: 26:10
+line not matched: 26:11
+line not matched: 26:12
+line not matched: 26:13
+line not matched: 26:14
+line not matched: 26:15
+line not matched: 26:16
+line not matched: 26:17
+line not matched: 26:18
+line not matched: 26:19
+line not matched: 26:20
+line not matched: 26:21
+line not matched: 26:22
+line not matched: 26:23
+line not matched: 26:24
+line not matched: 26:25
+line not matched: 26:26
+line not matched: 26:27
+line not matched: 26:28
+line not matched: 26:29
+line not matched: 26:30
+line not matched: 26:31
+line not matched: 26:32
+line not matched: 26:33
+line not matched: 26:34
+line not matched: 26:35
+line not matched: 26:36
+line not matched: 26:37
+line not matched: 26:38
+line not matched: 26:39
+line not matched: 26:40
+line not matched: 26:41
+line not matched: 26:42
+line not matched: 26:43
+line not matched: 26:44
+line not matched: 26:45
+line not matched: 26:46
+line not matched: 27:1
+line not matched: 27:2
+line not matched: 27:3
+line not matched: 27:4
+line not matched: 27:5
+line not matched: 27:6
+line not matched: 27:7
+line not matched: 27:8
+line not matched: 27:9
+line not matched: 27:10
+line not matched: 27:11
+line not matched: 27:12
+line not matched: 27:13
+line not matched: 27:14
+line not matched: 27:15
+line not matched: 27:16
+line not matched: 27:17
+line not matched: 27:18
+line not matched: 27:19
+line not matched: 27:20
+line not matched: 27:21
+line not matched: 27:22
+line not matched: 27:23
+line not matched: 27:24
+line not matched: 27:25
+line not matched: 27:26
+line not matched: 27:27
+line not matched: 27:28
+line not matched: 27:29
+line not matched: 27:30
+line not matched: 27:31
+line not matched: 27:32
+line not matched: 27:33
+line not matched: 27:34
+04-Numbers being checked, if errors they were:
+05-Deuteronomy being checked, if errors they were:
+line not matched: 1:31
+line not matched: 1:32
+line not matched: 1:33
+line not matched: 1:34
+line not matched: 1:35
+line not matched: 1:36
+line not matched: 1:37
+line not matched: 1:38
+line not matched: 1:39
+line not matched: 1:40
+line not matched: 1:41
+line not matched: 1:42
+line not matched: 1:43
+line not matched: 1:44
+error reading from chapter file: ../05-Deuteronomy/01
+error reading from chapter file: ../05-Deuteronomy/01
+06-Joshua being checked, if errors they were:
+07-Judges being checked, if errors they were:
+08-Ruth being checked, if errors they were:
+09-1Samuel being checked, if errors they were:
+10-2Samuel being checked, if errors they were:
+11-1Kings being checked, if errors they were:
+error reading from chapter file: ../11-1Kings/01
+line not matched: 2:1
+line not matched: 2:2
+line not matched: 2:3
+line not matched: 2:4
+line not matched: 2:5
+line not matched: 2:6
+line not matched: 2:7
+line not matched: 2:8
+line not matched: 2:9
+line not matched: 2:10
+line not matched: 2:11
+line not matched: 2:12
+line not matched: 2:13
+line not matched: 2:14
+line not matched: 2:15
+line not matched: 2:16
+line not matched: 2:17
+line not matched: 2:18
+line not matched: 2:19
+line not matched: 2:20
+line not matched: 2:21
+line not matched: 2:22
+line not matched: 2:23
+line not matched: 2:24
+line not matched: 2:25
+line not matched: 2:26
+line not matched: 2:27
+line not matched: 2:28
+line not matched: 2:29
+line not matched: 2:30
+line not matched: 2:31
+line not matched: 2:32
+line not matched: 2:33
+line not matched: 2:34
+line not matched: 2:35
+line not matched: 2:36
+line not matched: 2:37
+line not matched: 2:38
+line not matched: 2:39
+line not matched: 2:40
+line not matched: 2:41
+line not matched: 2:42
+line not matched: 2:43
+line not matched: 2:44
+line not matched: 2:45
+line not matched: 2:46
+line not matched: 3:1
+line not matched: 3:2
+line not matched: 3:3
+line not matched: 3:4
+line not matched: 3:5
+line not matched: 3:6
+line not matched: 3:7
+line not matched: 3:8
+line not matched: 3:9
+line not matched: 3:10
+line not matched: 3:11
+line not matched: 3:12
+line not matched: 3:13
+line not matched: 3:14
+line not matched: 3:15
+line not matched: 3:16
+line not matched: 3:17
+line not matched: 3:18
+line not matched: 3:19
+line not matched: 3:20
+line not matched: 3:21
+line not matched: 3:22
+line not matched: 3:23
+line not matched: 3:24
+line not matched: 3:25
+line not matched: 3:26
+line not matched: 3:27
+line not matched: 3:28
+line not matched: 4:1
+line not matched: 4:2
+line not matched: 4:3
+line not matched: 4:4
+line not matched: 4:5
+line not matched: 4:6
+line not matched: 4:7
+line not matched: 4:8
+line not matched: 4:9
+line not matched: 4:10
+line not matched: 4:11
+line not matched: 4:12
+line not matched: 4:13
+line not matched: 4:14
+line not matched: 4:15
+line not matched: 4:16
+line not matched: 4:17
+line not matched: 4:18
+line not matched: 4:19
+line not matched: 4:20
+line not matched: 4:21
+line not matched: 4:22
+line not matched: 4:23
+line not matched: 4:24
+line not matched: 4:25
+line not matched: 4:26
+line not matched: 4:27
+line not matched: 4:28
+line not matched: 4:29
+line not matched: 4:30
+line not matched: 4:31
+line not matched: 4:32
+line not matched: 4:33
+line not matched: 4:34
+line not matched: 5:1
+line not matched: 5:2
+line not matched: 5:3
+line not matched: 5:4
+line not matched: 5:5
+line not matched: 5:6
+line not matched: 5:7
+line not matched: 5:8
+line not matched: 5:9
+line not matched: 5:10
+line not matched: 5:11
+line not matched: 5:12
+line not matched: 5:13
+line not matched: 5:14
+line not matched: 5:15
+line not matched: 5:16
+line not matched: 5:17
+line not matched: 5:18
+line not matched: 6:1
+line not matched: 6:2
+line not matched: 6:3
+line not matched: 6:4
+line not matched: 6:5
+line not matched: 6:6
+line not matched: 6:7
+line not matched: 6:8
+line not matched: 6:9
+line not matched: 6:10
+line not matched: 6:11
+line not matched: 6:12
+line not matched: 6:13
+line not matched: 6:14
+line not matched: 6:15
+line not matched: 6:16
+line not matched: 6:17
+line not matched: 6:18
+line not matched: 6:19
+line not matched: 6:20
+line not matched: 6:21
+line not matched: 6:22
+line not matched: 6:23
+line not matched: 6:24
+line not matched: 6:25
+line not matched: 6:26
+line not matched: 6:27
+line not matched: 6:28
+line not matched: 6:29
+line not matched: 6:30
+line not matched: 6:31
+line not matched: 6:32
+line not matched: 6:33
+line not matched: 6:34
+line not matched: 6:35
+line not matched: 6:36
+line not matched: 6:37
+line not matched: 6:38
+line not matched: 7:1
+line not matched: 7:2
+line not matched: 7:3
+line not matched: 7:4
+line not matched: 7:5
+line not matched: 7:6
+line not matched: 7:7
+line not matched: 7:8
+line not matched: 7:9
+line not matched: 7:10
+line not matched: 7:11
+line not matched: 7:12
+line not matched: 7:13
+line not matched: 7:14
+line not matched: 7:15
+line not matched: 7:16
+line not matched: 7:17
+line not matched: 7:18
+line not matched: 7:19
+line not matched: 7:20
+line not matched: 7:21
+line not matched: 7:22
+line not matched: 7:23
+line not matched: 7:24
+line not matched: 7:25
+line not matched: 7:26
+line not matched: 7:27
+line not matched: 7:28
+line not matched: 7:29
+line not matched: 7:30
+line not matched: 7:31
+line not matched: 7:32
+line not matched: 7:33
+line not matched: 7:34
+line not matched: 7:35
+line not matched: 7:36
+line not matched: 7:37
+line not matched: 7:38
+line not matched: 7:39
+line not matched: 7:40
+line not matched: 7:41
+line not matched: 7:42
+line not matched: 7:43
+line not matched: 7:44
+line not matched: 7:45
+line not matched: 7:46
+line not matched: 7:47
+line not matched: 7:48
+line not matched: 7:49
+line not matched: 7:50
+line not matched: 7:51
+line not matched: 8:1
+line not matched: 8:2
+line not matched: 8:3
+line not matched: 8:4
+line not matched: 8:5
+line not matched: 8:6
+line not matched: 8:7
+line not matched: 8:8
+line not matched: 8:9
+line not matched: 8:10
+line not matched: 8:11
+line not matched: 8:12
+line not matched: 8:13
+line not matched: 8:14
+line not matched: 8:15
+line not matched: 8:16
+line not matched: 8:17
+line not matched: 8:18
+line not matched: 8:19
+line not matched: 8:20
+line not matched: 8:21
+line not matched: 8:22
+line not matched: 8:23
+line not matched: 8:24
+line not matched: 8:25
+line not matched: 8:26
+line not matched: 8:27
+line not matched: 8:28
+line not matched: 8:29
+line not matched: 8:30
+line not matched: 8:31
+line not matched: 8:32
+line not matched: 8:33
+line not matched: 8:34
+line not matched: 8:35
+line not matched: 8:36
+line not matched: 8:37
+line not matched: 8:38
+line not matched: 8:39
+line not matched: 8:40
+line not matched: 8:41
+line not matched: 8:42
+line not matched: 8:43
+line not matched: 8:44
+line not matched: 8:45
+line not matched: 8:46
+line not matched: 8:47
+line not matched: 8:48
+line not matched: 8:49
+line not matched: 8:50
+line not matched: 8:51
+line not matched: 8:52
+line not matched: 8:53
+line not matched: 8:54
+line not matched: 8:55
+line not matched: 8:56
+line not matched: 8:57
+line not matched: 8:58
+line not matched: 8:59
+line not matched: 8:60
+line not matched: 8:61
+line not matched: 8:62
+line not matched: 8:63
+line not matched: 8:64
+line not matched: 8:65
+line not matched: 8:66
+line not matched: 9:1
+line not matched: 9:2
+line not matched: 9:3
+line not matched: 9:4
+line not matched: 9:5
+line not matched: 9:6
+line not matched: 9:7
+line not matched: 9:8
+line not matched: 9:9
+line not matched: 9:10
+line not matched: 9:11
+line not matched: 9:12
+line not matched: 9:13
+line not matched: 9:14
+line not matched: 9:15
+line not matched: 9:16
+line not matched: 9:17
+line not matched: 9:18
+line not matched: 9:19
+line not matched: 9:20
+line not matched: 9:21
+line not matched: 9:22
+line not matched: 9:23
+line not matched: 9:24
+line not matched: 9:25
+line not matched: 9:26
+line not matched: 9:27
+line not matched: 9:28
+line not matched: 10:1
+line not matched: 10:2
+line not matched: 10:3
+line not matched: 10:4
+line not matched: 10:5
+line not matched: 10:6
+line not matched: 10:7
+line not matched: 10:8
+line not matched: 10:9
+line not matched: 10:10
+line not matched: 10:11
+line not matched: 10:12
+line not matched: 10:13
+line not matched: 10:14
+line not matched: 10:15
+line not matched: 10:16
+line not matched: 10:17
+line not matched: 10:18
+line not matched: 10:19
+line not matched: 10:20
+line not matched: 10:21
+line not matched: 10:22
+line not matched: 10:23
+line not matched: 10:24
+line not matched: 10:25
+line not matched: 10:26
+line not matched: 10:27
+line not matched: 10:28
+line not matched: 10:29
+line not matched: 11:1
+line not matched: 11:2
+line not matched: 11:3
+line not matched: 11:4
+line not matched: 11:5
+line not matched: 11:6
+line not matched: 11:7
+line not matched: 11:8
+line not matched: 11:9
+line not matched: 11:10
+line not matched: 11:11
+line not matched: 11:12
+line not matched: 11:13
+line not matched: 11:14
+line not matched: 11:15
+line not matched: 11:16
+line not matched: 11:17
+line not matched: 11:18
+line not matched: 11:19
+line not matched: 11:20
+line not matched: 11:21
+line not matched: 11:22
+line not matched: 11:23
+line not matched: 11:24
+line not matched: 11:25
+line not matched: 11:26
+line not matched: 11:27
+line not matched: 11:28
+line not matched: 11:29
+line not matched: 11:30
+line not matched: 11:31
+line not matched: 11:32
+line not matched: 11:33
+line not matched: 11:34
+line not matched: 11:35
+line not matched: 11:36
+line not matched: 11:37
+line not matched: 11:38
+line not matched: 11:39
+line not matched: 11:40
+line not matched: 11:41
+line not matched: 11:42
+line not matched: 11:43
+line not matched: 12:1
+line not matched: 12:2
+line not matched: 12:3
+line not matched: 12:4
+line not matched: 12:5
+line not matched: 12:6
+line not matched: 12:7
+line not matched: 12:8
+line not matched: 12:9
+line not matched: 12:10
+line not matched: 12:11
+line not matched: 12:12
+line not matched: 12:13
+line not matched: 12:14
+line not matched: 12:15
+line not matched: 12:16
+line not matched: 12:17
+line not matched: 12:18
+line not matched: 12:19
+line not matched: 12:20
+line not matched: 12:21
+line not matched: 12:22
+line not matched: 12:23
+line not matched: 12:24
+line not matched: 12:25
+line not matched: 12:26
+line not matched: 12:27
+line not matched: 12:28
+line not matched: 12:29
+line not matched: 12:30
+line not matched: 12:31
+line not matched: 12:32
+line not matched: 12:33
+line not matched: 13:1
+line not matched: 13:2
+line not matched: 13:3
+line not matched: 13:4
+line not matched: 13:5
+line not matched: 13:6
+line not matched: 13:7
+line not matched: 13:8
+line not matched: 13:9
+line not matched: 13:10
+line not matched: 13:11
+line not matched: 13:12
+line not matched: 13:13
+line not matched: 13:14
+line not matched: 13:15
+line not matched: 13:16
+line not matched: 13:17
+line not matched: 13:18
+line not matched: 13:19
+line not matched: 13:20
+line not matched: 13:21
+line not matched: 13:22
+line not matched: 13:23
+line not matched: 13:24
+line not matched: 13:25
+line not matched: 13:26
+line not matched: 13:27
+line not matched: 13:28
+line not matched: 13:29
+line not matched: 13:30
+line not matched: 13:31
+line not matched: 13:32
+line not matched: 13:33
+line not matched: 13:34
+line not matched: 14:1
+line not matched: 14:2
+line not matched: 14:3
+line not matched: 14:4
+line not matched: 14:5
+line not matched: 14:6
+line not matched: 14:7
+line not matched: 14:8
+line not matched: 14:9
+line not matched: 14:10
+line not matched: 14:11
+line not matched: 14:12
+line not matched: 14:13
+line not matched: 14:14
+line not matched: 14:15
+line not matched: 14:16
+line not matched: 14:17
+line not matched: 14:18
+line not matched: 14:19
+line not matched: 14:20
+line not matched: 14:21
+line not matched: 14:22
+line not matched: 14:23
+line not matched: 14:24
+line not matched: 14:25
+line not matched: 14:26
+line not matched: 14:27
+line not matched: 14:28
+line not matched: 14:29
+line not matched: 14:30
+line not matched: 14:31
+line not matched: 15:1
+line not matched: 15:2
+line not matched: 15:3
+line not matched: 15:4
+line not matched: 15:5
+line not matched: 15:6
+line not matched: 15:7
+line not matched: 15:8
+line not matched: 15:9
+line not matched: 15:10
+line not matched: 15:11
+line not matched: 15:12
+line not matched: 15:13
+line not matched: 15:14
+line not matched: 15:15
+line not matched: 15:16
+line not matched: 15:17
+line not matched: 15:18
+line not matched: 15:19
+line not matched: 15:20
+line not matched: 15:21
+line not matched: 15:22
+line not matched: 15:23
+line not matched: 15:24
+line not matched: 15:25
+line not matched: 15:26
+line not matched: 15:27
+line not matched: 15:28
+line not matched: 15:29
+line not matched: 15:30
+line not matched: 15:31
+line not matched: 15:32
+line not matched: 15:33
+line not matched: 15:34
+line not matched: 16:1
+line not matched: 16:2
+line not matched: 16:3
+line not matched: 16:4
+line not matched: 16:5
+line not matched: 16:6
+line not matched: 16:7
+line not matched: 16:8
+line not matched: 16:9
+line not matched: 16:10
+line not matched: 16:11
+line not matched: 16:12
+line not matched: 16:13
+line not matched: 16:14
+line not matched: 16:15
+line not matched: 16:16
+line not matched: 16:17
+line not matched: 16:18
+line not matched: 16:19
+line not matched: 16:20
+line not matched: 16:21
+line not matched: 16:22
+line not matched: 16:23
+line not matched: 16:24
+line not matched: 16:25
+line not matched: 16:26
+line not matched: 16:27
+line not matched: 16:28
+line not matched: 16:29
+line not matched: 16:30
+line not matched: 16:31
+line not matched: 16:32
+line not matched: 16:33
+line not matched: 16:34
+line not matched: 17:1
+line not matched: 17:2
+line not matched: 17:3
+line not matched: 17:4
+line not matched: 17:5
+line not matched: 17:6
+line not matched: 17:7
+line not matched: 17:8
+line not matched: 17:9
+line not matched: 17:10
+line not matched: 17:11
+line not matched: 17:12
+line not matched: 17:13
+line not matched: 17:14
+line not matched: 17:15
+line not matched: 17:16
+line not matched: 17:17
+line not matched: 17:18
+line not matched: 17:19
+line not matched: 17:20
+line not matched: 17:21
+line not matched: 17:22
+line not matched: 17:23
+line not matched: 17:24
+line not matched: 18:1
+line not matched: 18:2
+line not matched: 18:3
+line not matched: 18:4
+line not matched: 18:5
+line not matched: 18:6
+line not matched: 18:7
+line not matched: 18:8
+line not matched: 18:9
+line not matched: 18:10
+line not matched: 18:11
+line not matched: 18:12
+line not matched: 18:13
+line not matched: 18:14
+line not matched: 18:15
+line not matched: 18:16
+line not matched: 18:17
+line not matched: 18:18
+line not matched: 18:19
+line not matched: 18:20
+line not matched: 18:21
+line not matched: 18:22
+line not matched: 18:23
+line not matched: 18:24
+line not matched: 18:25
+line not matched: 18:26
+line not matched: 18:27
+line not matched: 18:28
+line not matched: 18:29
+line not matched: 18:30
+line not matched: 18:31
+line not matched: 18:32
+line not matched: 18:33
+line not matched: 18:34
+line not matched: 18:35
+line not matched: 18:36
+line not matched: 18:37
+line not matched: 18:38
+line not matched: 18:39
+line not matched: 18:40
+line not matched: 18:41
+line not matched: 18:42
+line not matched: 18:43
+line not matched: 18:44
+line not matched: 18:45
+line not matched: 18:46
+line not matched: 19:1
+line not matched: 19:2
+line not matched: 19:3
+line not matched: 19:4
+line not matched: 19:5
+line not matched: 19:6
+line not matched: 19:7
+line not matched: 19:8
+line not matched: 19:9
+line not matched: 19:10
+line not matched: 19:11
+line not matched: 19:12
+line not matched: 19:13
+line not matched: 19:14
+line not matched: 19:15
+line not matched: 19:16
+line not matched: 19:17
+line not matched: 19:18
+line not matched: 19:19
+line not matched: 19:20
+line not matched: 19:21
+line not matched: 20:1
+line not matched: 20:2
+line not matched: 20:3
+line not matched: 20:4
+line not matched: 20:5
+line not matched: 20:6
+line not matched: 20:7
+line not matched: 20:8
+line not matched: 20:9
+line not matched: 20:10
+line not matched: 20:11
+line not matched: 20:12
+line not matched: 20:13
+line not matched: 20:14
+line not matched: 20:15
+line not matched: 20:16
+line not matched: 20:17
+line not matched: 20:18
+line not matched: 20:19
+line not matched: 20:20
+line not matched: 20:21
+line not matched: 20:22
+line not matched: 20:23
+line not matched: 20:24
+line not matched: 20:25
+line not matched: 20:26
+line not matched: 20:27
+line not matched: 20:28
+line not matched: 20:29
+line not matched: 20:30
+line not matched: 20:31
+line not matched: 20:32
+line not matched: 20:33
+line not matched: 20:34
+line not matched: 20:35
+line not matched: 20:36
+line not matched: 20:37
+line not matched: 20:38
+line not matched: 20:39
+line not matched: 20:40
+line not matched: 20:41
+line not matched: 20:42
+line not matched: 20:43
+line not matched: 21:1
+line not matched: 21:2
+line not matched: 21:3
+line not matched: 21:4
+line not matched: 21:5
+line not matched: 21:6
+line not matched: 21:7
+line not matched: 21:8
+line not matched: 21:9
+line not matched: 21:10
+line not matched: 21:11
+line not matched: 21:12
+line not matched: 21:13
+line not matched: 21:14
+line not matched: 21:15
+line not matched: 21:16
+line not matched: 21:17
+line not matched: 21:18
+line not matched: 21:19
+line not matched: 21:20
+line not matched: 21:21
+line not matched: 21:22
+line not matched: 21:23
+line not matched: 21:24
+line not matched: 21:25
+line not matched: 21:26
+line not matched: 21:27
+line not matched: 21:28
+line not matched: 21:29
+line not matched: 22:1
+line not matched: 22:2
+line not matched: 22:3
+line not matched: 22:4
+line not matched: 22:5
+line not matched: 22:6
+line not matched: 22:7
+line not matched: 22:8
+line not matched: 22:9
+line not matched: 22:10
+line not matched: 22:11
+line not matched: 22:12
+line not matched: 22:13
+line not matched: 22:14
+line not matched: 22:15
+line not matched: 22:16
+line not matched: 22:17
+line not matched: 22:18
+line not matched: 22:19
+line not matched: 22:20
+line not matched: 22:21
+line not matched: 22:22
+line not matched: 22:23
+line not matched: 22:24
+line not matched: 22:25
+line not matched: 22:26
+line not matched: 22:27
+line not matched: 22:28
+line not matched: 22:29
+line not matched: 22:30
+line not matched: 22:31
+line not matched: 22:32
+line not matched: 22:33
+line not matched: 22:34
+line not matched: 22:35
+line not matched: 22:36
+line not matched: 22:37
+line not matched: 22:38
+line not matched: 22:39
+line not matched: 22:40
+line not matched: 22:41
+line not matched: 22:42
+line not matched: 22:43
+line not matched: 22:44
+line not matched: 22:45
+line not matched: 22:46
+line not matched: 22:47
+line not matched: 22:48
+line not matched: 22:49
+line not matched: 22:50
+line not matched: 22:51
+line not matched: 22:52
+line not matched: 22:53
+12-2Kings being checked, if errors they were:
+13-1Chronicles being checked, if errors they were:
+14-2Chronicles being checked, if errors they were:
+15-Ezra being checked, if errors they were:
+16-Nehemiah being checked, if errors they were:
+17-Esther being checked, if errors they were:
+18-Job being checked, if errors they were:
+19-Psalms being checked, if errors they were:
+error reading from chapter file: ../19-Psalms/01
+error reading from chapter file: ../19-Psalms/01
+error reading from chapter file: ../19-Psalms/01
+error reading from chapter file: ../19-Psalms/01
+error reading from chapter file: ../19-Psalms/01
+error reading from chapter file: ../19-Psalms/01
+error reading from chapter file: ../19-Psalms/02
+error reading from chapter file: ../19-Psalms/02
+error reading from chapter file: ../19-Psalms/02
+error reading from chapter file: ../19-Psalms/02
+error reading from chapter file: ../19-Psalms/02
+error reading from chapter file: ../19-Psalms/02
+error reading from chapter file: ../19-Psalms/02
+error reading from chapter file: ../19-Psalms/02
+error reading from chapter file: ../19-Psalms/02
+error reading from chapter file: ../19-Psalms/02
+error reading from chapter file: ../19-Psalms/02
+error reading from chapter file: ../19-Psalms/02
+error reading from chapter file: ../19-Psalms/03
+error reading from chapter file: ../19-Psalms/03
+error reading from chapter file: ../19-Psalms/03
+error reading from chapter file: ../19-Psalms/03
+error reading from chapter file: ../19-Psalms/03
+error reading from chapter file: ../19-Psalms/03
+error reading from chapter file: ../19-Psalms/03
+error reading from chapter file: ../19-Psalms/03
+error reading from chapter file: ../19-Psalms/04
+error reading from chapter file: ../19-Psalms/04
+error reading from chapter file: ../19-Psalms/04
+error reading from chapter file: ../19-Psalms/04
+error reading from chapter file: ../19-Psalms/04
+error reading from chapter file: ../19-Psalms/04
+error reading from chapter file: ../19-Psalms/04
+error reading from chapter file: ../19-Psalms/04
+error reading from chapter file: ../19-Psalms/05
+error reading from chapter file: ../19-Psalms/05
+error reading from chapter file: ../19-Psalms/05
+error reading from chapter file: ../19-Psalms/05
+error reading from chapter file: ../19-Psalms/05
+error reading from chapter file: ../19-Psalms/05
+error reading from chapter file: ../19-Psalms/05
+error reading from chapter file: ../19-Psalms/05
+error reading from chapter file: ../19-Psalms/05
+error reading from chapter file: ../19-Psalms/05
+error reading from chapter file: ../19-Psalms/05
+error reading from chapter file: ../19-Psalms/05
+error reading from chapter file: ../19-Psalms/06
+error reading from chapter file: ../19-Psalms/06
+error reading from chapter file: ../19-Psalms/06
+error reading from chapter file: ../19-Psalms/06
+error reading from chapter file: ../19-Psalms/06
+error reading from chapter file: ../19-Psalms/06
+error reading from chapter file: ../19-Psalms/06
+error reading from chapter file: ../19-Psalms/06
+error reading from chapter file: ../19-Psalms/06
+error reading from chapter file: ../19-Psalms/06
+error reading from chapter file: ../19-Psalms/07
+error reading from chapter file: ../19-Psalms/07
+error reading from chapter file: ../19-Psalms/07
+error reading from chapter file: ../19-Psalms/07
+error reading from chapter file: ../19-Psalms/07
+error reading from chapter file: ../19-Psalms/07
+error reading from chapter file: ../19-Psalms/07
+error reading from chapter file: ../19-Psalms/07
+error reading from chapter file: ../19-Psalms/07
+error reading from chapter file: ../19-Psalms/07
+error reading from chapter file: ../19-Psalms/07
+error reading from chapter file: ../19-Psalms/07
+error reading from chapter file: ../19-Psalms/07
+error reading from chapter file: ../19-Psalms/07
+error reading from chapter file: ../19-Psalms/07
+error reading from chapter file: ../19-Psalms/07
+error reading from chapter file: ../19-Psalms/07
+error reading from chapter file: ../19-Psalms/08
+error reading from chapter file: ../19-Psalms/08
+error reading from chapter file: ../19-Psalms/08
+error reading from chapter file: ../19-Psalms/08
+error reading from chapter file: ../19-Psalms/08
+error reading from chapter file: ../19-Psalms/08
+error reading from chapter file: ../19-Psalms/08
+error reading from chapter file: ../19-Psalms/08
+error reading from chapter file: ../19-Psalms/08
+error reading from chapter file: ../19-Psalms/09
+error reading from chapter file: ../19-Psalms/09
+error reading from chapter file: ../19-Psalms/09
+error reading from chapter file: ../19-Psalms/09
+error reading from chapter file: ../19-Psalms/09
+error reading from chapter file: ../19-Psalms/09
+error reading from chapter file: ../19-Psalms/09
+error reading from chapter file: ../19-Psalms/09
+error reading from chapter file: ../19-Psalms/09
+error reading from chapter file: ../19-Psalms/09
+error reading from chapter file: ../19-Psalms/09
+error reading from chapter file: ../19-Psalms/09
+error reading from chapter file: ../19-Psalms/09
+error reading from chapter file: ../19-Psalms/09
+error reading from chapter file: ../19-Psalms/09
+error reading from chapter file: ../19-Psalms/09
+error reading from chapter file: ../19-Psalms/09
+error reading from chapter file: ../19-Psalms/09
+error reading from chapter file: ../19-Psalms/09
+error reading from chapter file: ../19-Psalms/09
+error reading from chapter file: ../19-Psalms/10
+error reading from chapter file: ../19-Psalms/10
+error reading from chapter file: ../19-Psalms/10
+error reading from chapter file: ../19-Psalms/10
+error reading from chapter file: ../19-Psalms/10
+error reading from chapter file: ../19-Psalms/10
+error reading from chapter file: ../19-Psalms/10
+error reading from chapter file: ../19-Psalms/10
+error reading from chapter file: ../19-Psalms/10
+error reading from chapter file: ../19-Psalms/10
+error reading from chapter file: ../19-Psalms/10
+error reading from chapter file: ../19-Psalms/10
+error reading from chapter file: ../19-Psalms/10
+error reading from chapter file: ../19-Psalms/10
+error reading from chapter file: ../19-Psalms/10
+error reading from chapter file: ../19-Psalms/10
+error reading from chapter file: ../19-Psalms/10
+error reading from chapter file: ../19-Psalms/10
+error reading from chapter file: ../19-Psalms/11
+error reading from chapter file: ../19-Psalms/11
+error reading from chapter file: ../19-Psalms/11
+error reading from chapter file: ../19-Psalms/11
+error reading from chapter file: ../19-Psalms/11
+error reading from chapter file: ../19-Psalms/11
+error reading from chapter file: ../19-Psalms/11
+error reading from chapter file: ../19-Psalms/12
+error reading from chapter file: ../19-Psalms/12
+error reading from chapter file: ../19-Psalms/12
+error reading from chapter file: ../19-Psalms/12
+error reading from chapter file: ../19-Psalms/12
+error reading from chapter file: ../19-Psalms/12
+error reading from chapter file: ../19-Psalms/12
+error reading from chapter file: ../19-Psalms/12
+error reading from chapter file: ../19-Psalms/13
+error reading from chapter file: ../19-Psalms/13
+error reading from chapter file: ../19-Psalms/13
+error reading from chapter file: ../19-Psalms/13
+error reading from chapter file: ../19-Psalms/13
+error reading from chapter file: ../19-Psalms/13
+error reading from chapter file: ../19-Psalms/14
+error reading from chapter file: ../19-Psalms/14
+error reading from chapter file: ../19-Psalms/14
+error reading from chapter file: ../19-Psalms/14
+error reading from chapter file: ../19-Psalms/14
+error reading from chapter file: ../19-Psalms/14
+error reading from chapter file: ../19-Psalms/14
+error reading from chapter file: ../19-Psalms/15
+error reading from chapter file: ../19-Psalms/15
+error reading from chapter file: ../19-Psalms/15
+error reading from chapter file: ../19-Psalms/15
+error reading from chapter file: ../19-Psalms/15
+error reading from chapter file: ../19-Psalms/16
+error reading from chapter file: ../19-Psalms/16
+error reading from chapter file: ../19-Psalms/16
+error reading from chapter file: ../19-Psalms/16
+error reading from chapter file: ../19-Psalms/16
+error reading from chapter file: ../19-Psalms/16
+error reading from chapter file: ../19-Psalms/16
+error reading from chapter file: ../19-Psalms/16
+error reading from chapter file: ../19-Psalms/16
+error reading from chapter file: ../19-Psalms/16
+error reading from chapter file: ../19-Psalms/16
+error reading from chapter file: ../19-Psalms/17
+error reading from chapter file: ../19-Psalms/17
+error reading from chapter file: ../19-Psalms/17
+error reading from chapter file: ../19-Psalms/17
+error reading from chapter file: ../19-Psalms/17
+error reading from chapter file: ../19-Psalms/17
+error reading from chapter file: ../19-Psalms/17
+error reading from chapter file: ../19-Psalms/17
+error reading from chapter file: ../19-Psalms/17
+error reading from chapter file: ../19-Psalms/17
+error reading from chapter file: ../19-Psalms/17
+error reading from chapter file: ../19-Psalms/17
+error reading from chapter file: ../19-Psalms/17
+error reading from chapter file: ../19-Psalms/17
+error reading from chapter file: ../19-Psalms/17
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/18
+error reading from chapter file: ../19-Psalms/19
+error reading from chapter file: ../19-Psalms/19
+error reading from chapter file: ../19-Psalms/19
+error reading from chapter file: ../19-Psalms/19
+error reading from chapter file: ../19-Psalms/19
+error reading from chapter file: ../19-Psalms/19
+error reading from chapter file: ../19-Psalms/19
+error reading from chapter file: ../19-Psalms/19
+error reading from chapter file: ../19-Psalms/19
+error reading from chapter file: ../19-Psalms/19
+error reading from chapter file: ../19-Psalms/19
+error reading from chapter file: ../19-Psalms/19
+error reading from chapter file: ../19-Psalms/19
+error reading from chapter file: ../19-Psalms/19
+error reading from chapter file: ../19-Psalms/20
+error reading from chapter file: ../19-Psalms/20
+error reading from chapter file: ../19-Psalms/20
+error reading from chapter file: ../19-Psalms/20
+error reading from chapter file: ../19-Psalms/20
+error reading from chapter file: ../19-Psalms/20
+error reading from chapter file: ../19-Psalms/20
+error reading from chapter file: ../19-Psalms/20
+error reading from chapter file: ../19-Psalms/20
+error reading from chapter file: ../19-Psalms/21
+error reading from chapter file: ../19-Psalms/21
+error reading from chapter file: ../19-Psalms/21
+error reading from chapter file: ../19-Psalms/21
+error reading from chapter file: ../19-Psalms/21
+error reading from chapter file: ../19-Psalms/21
+error reading from chapter file: ../19-Psalms/21
+error reading from chapter file: ../19-Psalms/21
+error reading from chapter file: ../19-Psalms/21
+error reading from chapter file: ../19-Psalms/21
+error reading from chapter file: ../19-Psalms/21
+error reading from chapter file: ../19-Psalms/21
+error reading from chapter file: ../19-Psalms/21
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/22
+error reading from chapter file: ../19-Psalms/23
+error reading from chapter file: ../19-Psalms/23
+error reading from chapter file: ../19-Psalms/23
+error reading from chapter file: ../19-Psalms/23
+error reading from chapter file: ../19-Psalms/23
+error reading from chapter file: ../19-Psalms/23
+error reading from chapter file: ../19-Psalms/24
+error reading from chapter file: ../19-Psalms/24
+error reading from chapter file: ../19-Psalms/24
+error reading from chapter file: ../19-Psalms/24
+error reading from chapter file: ../19-Psalms/24
+error reading from chapter file: ../19-Psalms/24
+error reading from chapter file: ../19-Psalms/24
+error reading from chapter file: ../19-Psalms/24
+error reading from chapter file: ../19-Psalms/24
+error reading from chapter file: ../19-Psalms/24
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/25
+error reading from chapter file: ../19-Psalms/26
+error reading from chapter file: ../19-Psalms/26
+error reading from chapter file: ../19-Psalms/26
+error reading from chapter file: ../19-Psalms/26
+error reading from chapter file: ../19-Psalms/26
+error reading from chapter file: ../19-Psalms/26
+error reading from chapter file: ../19-Psalms/26
+error reading from chapter file: ../19-Psalms/26
+error reading from chapter file: ../19-Psalms/26
+error reading from chapter file: ../19-Psalms/26
+error reading from chapter file: ../19-Psalms/26
+error reading from chapter file: ../19-Psalms/26
+error reading from chapter file: ../19-Psalms/27
+error reading from chapter file: ../19-Psalms/27
+error reading from chapter file: ../19-Psalms/27
+error reading from chapter file: ../19-Psalms/27
+error reading from chapter file: ../19-Psalms/27
+error reading from chapter file: ../19-Psalms/27
+error reading from chapter file: ../19-Psalms/27
+error reading from chapter file: ../19-Psalms/27
+error reading from chapter file: ../19-Psalms/27
+error reading from chapter file: ../19-Psalms/27
+error reading from chapter file: ../19-Psalms/27
+error reading from chapter file: ../19-Psalms/27
+error reading from chapter file: ../19-Psalms/27
+error reading from chapter file: ../19-Psalms/27
+error reading from chapter file: ../19-Psalms/28
+error reading from chapter file: ../19-Psalms/28
+error reading from chapter file: ../19-Psalms/28
+error reading from chapter file: ../19-Psalms/28
+error reading from chapter file: ../19-Psalms/28
+error reading from chapter file: ../19-Psalms/28
+error reading from chapter file: ../19-Psalms/28
+error reading from chapter file: ../19-Psalms/28
+error reading from chapter file: ../19-Psalms/28
+error reading from chapter file: ../19-Psalms/29
+error reading from chapter file: ../19-Psalms/29
+error reading from chapter file: ../19-Psalms/29
+error reading from chapter file: ../19-Psalms/29
+error reading from chapter file: ../19-Psalms/29
+error reading from chapter file: ../19-Psalms/29
+error reading from chapter file: ../19-Psalms/29
+error reading from chapter file: ../19-Psalms/29
+error reading from chapter file: ../19-Psalms/29
+error reading from chapter file: ../19-Psalms/29
+error reading from chapter file: ../19-Psalms/29
+error reading from chapter file: ../19-Psalms/30
+error reading from chapter file: ../19-Psalms/30
+error reading from chapter file: ../19-Psalms/30
+error reading from chapter file: ../19-Psalms/30
+error reading from chapter file: ../19-Psalms/30
+error reading from chapter file: ../19-Psalms/30
+error reading from chapter file: ../19-Psalms/30
+error reading from chapter file: ../19-Psalms/30
+error reading from chapter file: ../19-Psalms/30
+error reading from chapter file: ../19-Psalms/30
+error reading from chapter file: ../19-Psalms/30
+error reading from chapter file: ../19-Psalms/30
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/31
+error reading from chapter file: ../19-Psalms/32
+error reading from chapter file: ../19-Psalms/32
+error reading from chapter file: ../19-Psalms/32
+error reading from chapter file: ../19-Psalms/32
+error reading from chapter file: ../19-Psalms/32
+error reading from chapter file: ../19-Psalms/32
+error reading from chapter file: ../19-Psalms/32
+error reading from chapter file: ../19-Psalms/32
+error reading from chapter file: ../19-Psalms/32
+error reading from chapter file: ../19-Psalms/32
+error reading from chapter file: ../19-Psalms/32
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/33
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/34
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/35
+error reading from chapter file: ../19-Psalms/36
+error reading from chapter file: ../19-Psalms/36
+error reading from chapter file: ../19-Psalms/36
+error reading from chapter file: ../19-Psalms/36
+error reading from chapter file: ../19-Psalms/36
+error reading from chapter file: ../19-Psalms/36
+error reading from chapter file: ../19-Psalms/36
+error reading from chapter file: ../19-Psalms/36
+error reading from chapter file: ../19-Psalms/36
+error reading from chapter file: ../19-Psalms/36
+error reading from chapter file: ../19-Psalms/36
+error reading from chapter file: ../19-Psalms/36
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/37
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/38
+error reading from chapter file: ../19-Psalms/39
+error reading from chapter file: ../19-Psalms/39
+error reading from chapter file: ../19-Psalms/39
+error reading from chapter file: ../19-Psalms/39
+error reading from chapter file: ../19-Psalms/39
+error reading from chapter file: ../19-Psalms/39
+error reading from chapter file: ../19-Psalms/39
+error reading from chapter file: ../19-Psalms/39
+error reading from chapter file: ../19-Psalms/39
+error reading from chapter file: ../19-Psalms/39
+error reading from chapter file: ../19-Psalms/39
+error reading from chapter file: ../19-Psalms/39
+error reading from chapter file: ../19-Psalms/39
+error reading from chapter file: ../19-Psalms/40
+error reading from chapter file: ../19-Psalms/40
+error reading from chapter file: ../19-Psalms/40
+error reading from chapter file: ../19-Psalms/40
+error reading from chapter file: ../19-Psalms/40
+error reading from chapter file: ../19-Psalms/40
+error reading from chapter file: ../19-Psalms/40
+error reading from chapter file: ../19-Psalms/40
+error reading from chapter file: ../19-Psalms/40
+error reading from chapter file: ../19-Psalms/40
+error reading from chapter file: ../19-Psalms/40
+error reading from chapter file: ../19-Psalms/40
+error reading from chapter file: ../19-Psalms/40
+error reading from chapter file: ../19-Psalms/40
+error reading from chapter file: ../19-Psalms/40
+error reading from chapter file: ../19-Psalms/40
+error reading from chapter file: ../19-Psalms/40
+error reading from chapter file: ../19-Psalms/41
+error reading from chapter file: ../19-Psalms/41
+error reading from chapter file: ../19-Psalms/41
+error reading from chapter file: ../19-Psalms/41
+error reading from chapter file: ../19-Psalms/41
+error reading from chapter file: ../19-Psalms/41
+error reading from chapter file: ../19-Psalms/41
+error reading from chapter file: ../19-Psalms/41
+error reading from chapter file: ../19-Psalms/41
+error reading from chapter file: ../19-Psalms/41
+error reading from chapter file: ../19-Psalms/41
+error reading from chapter file: ../19-Psalms/41
+error reading from chapter file: ../19-Psalms/41
+error reading from chapter file: ../19-Psalms/42
+error reading from chapter file: ../19-Psalms/42
+error reading from chapter file: ../19-Psalms/42
+error reading from chapter file: ../19-Psalms/42
+error reading from chapter file: ../19-Psalms/42
+error reading from chapter file: ../19-Psalms/42
+error reading from chapter file: ../19-Psalms/42
+error reading from chapter file: ../19-Psalms/42
+error reading from chapter file: ../19-Psalms/42
+error reading from chapter file: ../19-Psalms/42
+error reading from chapter file: ../19-Psalms/42
+error reading from chapter file: ../19-Psalms/43
+error reading from chapter file: ../19-Psalms/43
+error reading from chapter file: ../19-Psalms/43
+error reading from chapter file: ../19-Psalms/43
+error reading from chapter file: ../19-Psalms/43
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/44
+error reading from chapter file: ../19-Psalms/45
+error reading from chapter file: ../19-Psalms/45
+error reading from chapter file: ../19-Psalms/45
+error reading from chapter file: ../19-Psalms/45
+error reading from chapter file: ../19-Psalms/45
+error reading from chapter file: ../19-Psalms/45
+error reading from chapter file: ../19-Psalms/45
+error reading from chapter file: ../19-Psalms/45
+error reading from chapter file: ../19-Psalms/45
+error reading from chapter file: ../19-Psalms/45
+error reading from chapter file: ../19-Psalms/45
+error reading from chapter file: ../19-Psalms/45
+error reading from chapter file: ../19-Psalms/45
+error reading from chapter file: ../19-Psalms/45
+error reading from chapter file: ../19-Psalms/45
+error reading from chapter file: ../19-Psalms/45
+error reading from chapter file: ../19-Psalms/45
+error reading from chapter file: ../19-Psalms/46
+error reading from chapter file: ../19-Psalms/46
+error reading from chapter file: ../19-Psalms/46
+error reading from chapter file: ../19-Psalms/46
+error reading from chapter file: ../19-Psalms/46
+error reading from chapter file: ../19-Psalms/46
+error reading from chapter file: ../19-Psalms/46
+error reading from chapter file: ../19-Psalms/46
+error reading from chapter file: ../19-Psalms/46
+error reading from chapter file: ../19-Psalms/46
+error reading from chapter file: ../19-Psalms/46
+error reading from chapter file: ../19-Psalms/47
+error reading from chapter file: ../19-Psalms/47
+error reading from chapter file: ../19-Psalms/47
+error reading from chapter file: ../19-Psalms/47
+error reading from chapter file: ../19-Psalms/47
+error reading from chapter file: ../19-Psalms/47
+error reading from chapter file: ../19-Psalms/47
+error reading from chapter file: ../19-Psalms/47
+error reading from chapter file: ../19-Psalms/47
+error reading from chapter file: ../19-Psalms/48
+error reading from chapter file: ../19-Psalms/48
+error reading from chapter file: ../19-Psalms/48
+error reading from chapter file: ../19-Psalms/48
+error reading from chapter file: ../19-Psalms/48
+error reading from chapter file: ../19-Psalms/48
+error reading from chapter file: ../19-Psalms/48
+error reading from chapter file: ../19-Psalms/48
+error reading from chapter file: ../19-Psalms/48
+error reading from chapter file: ../19-Psalms/48
+error reading from chapter file: ../19-Psalms/48
+error reading from chapter file: ../19-Psalms/48
+error reading from chapter file: ../19-Psalms/48
+error reading from chapter file: ../19-Psalms/48
+error reading from chapter file: ../19-Psalms/49
+error reading from chapter file: ../19-Psalms/49
+error reading from chapter file: ../19-Psalms/49
+error reading from chapter file: ../19-Psalms/49
+error reading from chapter file: ../19-Psalms/49
+error reading from chapter file: ../19-Psalms/49
+error reading from chapter file: ../19-Psalms/49
+error reading from chapter file: ../19-Psalms/49
+error reading from chapter file: ../19-Psalms/49
+error reading from chapter file: ../19-Psalms/49
+error reading from chapter file: ../19-Psalms/49
+error reading from chapter file: ../19-Psalms/49
+error reading from chapter file: ../19-Psalms/49
+error reading from chapter file: ../19-Psalms/49
+error reading from chapter file: ../19-Psalms/49
+error reading from chapter file: ../19-Psalms/49
+error reading from chapter file: ../19-Psalms/49
+error reading from chapter file: ../19-Psalms/49
+error reading from chapter file: ../19-Psalms/49
+error reading from chapter file: ../19-Psalms/49
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/50
+error reading from chapter file: ../19-Psalms/51
+error reading from chapter file: ../19-Psalms/51
+error reading from chapter file: ../19-Psalms/51
+error reading from chapter file: ../19-Psalms/51
+error reading from chapter file: ../19-Psalms/51
+error reading from chapter file: ../19-Psalms/51
+error reading from chapter file: ../19-Psalms/51
+error reading from chapter file: ../19-Psalms/51
+error reading from chapter file: ../19-Psalms/51
+error reading from chapter file: ../19-Psalms/51
+error reading from chapter file: ../19-Psalms/51
+error reading from chapter file: ../19-Psalms/51
+error reading from chapter file: ../19-Psalms/51
+error reading from chapter file: ../19-Psalms/51
+error reading from chapter file: ../19-Psalms/51
+error reading from chapter file: ../19-Psalms/51
+error reading from chapter file: ../19-Psalms/51
+error reading from chapter file: ../19-Psalms/51
+error reading from chapter file: ../19-Psalms/51
+error reading from chapter file: ../19-Psalms/52
+error reading from chapter file: ../19-Psalms/52
+error reading from chapter file: ../19-Psalms/52
+error reading from chapter file: ../19-Psalms/52
+error reading from chapter file: ../19-Psalms/52
+error reading from chapter file: ../19-Psalms/52
+error reading from chapter file: ../19-Psalms/52
+error reading from chapter file: ../19-Psalms/52
+error reading from chapter file: ../19-Psalms/52
+error reading from chapter file: ../19-Psalms/53
+error reading from chapter file: ../19-Psalms/53
+error reading from chapter file: ../19-Psalms/53
+error reading from chapter file: ../19-Psalms/53
+error reading from chapter file: ../19-Psalms/53
+error reading from chapter file: ../19-Psalms/53
+error reading from chapter file: ../19-Psalms/54
+error reading from chapter file: ../19-Psalms/54
+error reading from chapter file: ../19-Psalms/54
+error reading from chapter file: ../19-Psalms/54
+error reading from chapter file: ../19-Psalms/54
+error reading from chapter file: ../19-Psalms/54
+error reading from chapter file: ../19-Psalms/54
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/55
+error reading from chapter file: ../19-Psalms/56
+error reading from chapter file: ../19-Psalms/56
+error reading from chapter file: ../19-Psalms/56
+error reading from chapter file: ../19-Psalms/56
+error reading from chapter file: ../19-Psalms/56
+error reading from chapter file: ../19-Psalms/56
+error reading from chapter file: ../19-Psalms/56
+error reading from chapter file: ../19-Psalms/56
+error reading from chapter file: ../19-Psalms/56
+error reading from chapter file: ../19-Psalms/56
+error reading from chapter file: ../19-Psalms/56
+error reading from chapter file: ../19-Psalms/56
+error reading from chapter file: ../19-Psalms/56
+error reading from chapter file: ../19-Psalms/57
+error reading from chapter file: ../19-Psalms/57
+error reading from chapter file: ../19-Psalms/57
+error reading from chapter file: ../19-Psalms/57
+error reading from chapter file: ../19-Psalms/57
+error reading from chapter file: ../19-Psalms/57
+error reading from chapter file: ../19-Psalms/57
+error reading from chapter file: ../19-Psalms/57
+error reading from chapter file: ../19-Psalms/57
+error reading from chapter file: ../19-Psalms/57
+error reading from chapter file: ../19-Psalms/57
+error reading from chapter file: ../19-Psalms/58
+error reading from chapter file: ../19-Psalms/58
+error reading from chapter file: ../19-Psalms/58
+error reading from chapter file: ../19-Psalms/58
+error reading from chapter file: ../19-Psalms/58
+error reading from chapter file: ../19-Psalms/58
+error reading from chapter file: ../19-Psalms/58
+error reading from chapter file: ../19-Psalms/58
+error reading from chapter file: ../19-Psalms/58
+error reading from chapter file: ../19-Psalms/58
+error reading from chapter file: ../19-Psalms/58
+error reading from chapter file: ../19-Psalms/59
+error reading from chapter file: ../19-Psalms/59
+error reading from chapter file: ../19-Psalms/59
+error reading from chapter file: ../19-Psalms/59
+error reading from chapter file: ../19-Psalms/59
+error reading from chapter file: ../19-Psalms/59
+error reading from chapter file: ../19-Psalms/59
+error reading from chapter file: ../19-Psalms/59
+error reading from chapter file: ../19-Psalms/59
+error reading from chapter file: ../19-Psalms/59
+error reading from chapter file: ../19-Psalms/59
+error reading from chapter file: ../19-Psalms/59
+error reading from chapter file: ../19-Psalms/59
+error reading from chapter file: ../19-Psalms/59
+error reading from chapter file: ../19-Psalms/59
+error reading from chapter file: ../19-Psalms/59
+error reading from chapter file: ../19-Psalms/59
+error reading from chapter file: ../19-Psalms/60
+error reading from chapter file: ../19-Psalms/60
+error reading from chapter file: ../19-Psalms/60
+error reading from chapter file: ../19-Psalms/60
+error reading from chapter file: ../19-Psalms/60
+error reading from chapter file: ../19-Psalms/60
+error reading from chapter file: ../19-Psalms/60
+error reading from chapter file: ../19-Psalms/60
+error reading from chapter file: ../19-Psalms/60
+error reading from chapter file: ../19-Psalms/60
+error reading from chapter file: ../19-Psalms/60
+error reading from chapter file: ../19-Psalms/60
+error reading from chapter file: ../19-Psalms/61
+error reading from chapter file: ../19-Psalms/61
+error reading from chapter file: ../19-Psalms/61
+error reading from chapter file: ../19-Psalms/61
+error reading from chapter file: ../19-Psalms/61
+error reading from chapter file: ../19-Psalms/61
+error reading from chapter file: ../19-Psalms/61
+error reading from chapter file: ../19-Psalms/61
+error reading from chapter file: ../19-Psalms/62
+error reading from chapter file: ../19-Psalms/62
+error reading from chapter file: ../19-Psalms/62
+error reading from chapter file: ../19-Psalms/62
+error reading from chapter file: ../19-Psalms/62
+error reading from chapter file: ../19-Psalms/62
+error reading from chapter file: ../19-Psalms/62
+error reading from chapter file: ../19-Psalms/62
+error reading from chapter file: ../19-Psalms/62
+error reading from chapter file: ../19-Psalms/62
+error reading from chapter file: ../19-Psalms/62
+error reading from chapter file: ../19-Psalms/62
+error reading from chapter file: ../19-Psalms/63
+error reading from chapter file: ../19-Psalms/63
+error reading from chapter file: ../19-Psalms/63
+error reading from chapter file: ../19-Psalms/63
+error reading from chapter file: ../19-Psalms/63
+error reading from chapter file: ../19-Psalms/63
+error reading from chapter file: ../19-Psalms/63
+error reading from chapter file: ../19-Psalms/63
+error reading from chapter file: ../19-Psalms/63
+error reading from chapter file: ../19-Psalms/63
+error reading from chapter file: ../19-Psalms/63
+error reading from chapter file: ../19-Psalms/64
+error reading from chapter file: ../19-Psalms/64
+error reading from chapter file: ../19-Psalms/64
+error reading from chapter file: ../19-Psalms/64
+error reading from chapter file: ../19-Psalms/64
+error reading from chapter file: ../19-Psalms/64
+error reading from chapter file: ../19-Psalms/64
+error reading from chapter file: ../19-Psalms/64
+error reading from chapter file: ../19-Psalms/64
+error reading from chapter file: ../19-Psalms/64
+error reading from chapter file: ../19-Psalms/65
+error reading from chapter file: ../19-Psalms/65
+error reading from chapter file: ../19-Psalms/65
+error reading from chapter file: ../19-Psalms/65
+error reading from chapter file: ../19-Psalms/65
+error reading from chapter file: ../19-Psalms/65
+error reading from chapter file: ../19-Psalms/65
+error reading from chapter file: ../19-Psalms/65
+error reading from chapter file: ../19-Psalms/65
+error reading from chapter file: ../19-Psalms/65
+error reading from chapter file: ../19-Psalms/65
+error reading from chapter file: ../19-Psalms/65
+error reading from chapter file: ../19-Psalms/65
+error reading from chapter file: ../19-Psalms/66
+error reading from chapter file: ../19-Psalms/66
+error reading from chapter file: ../19-Psalms/66
+error reading from chapter file: ../19-Psalms/66
+error reading from chapter file: ../19-Psalms/66
+error reading from chapter file: ../19-Psalms/66
+error reading from chapter file: ../19-Psalms/66
+error reading from chapter file: ../19-Psalms/66
+error reading from chapter file: ../19-Psalms/66
+error reading from chapter file: ../19-Psalms/66
+error reading from chapter file: ../19-Psalms/66
+error reading from chapter file: ../19-Psalms/66
+error reading from chapter file: ../19-Psalms/66
+error reading from chapter file: ../19-Psalms/66
+error reading from chapter file: ../19-Psalms/66
+error reading from chapter file: ../19-Psalms/66
+error reading from chapter file: ../19-Psalms/66
+error reading from chapter file: ../19-Psalms/66
+error reading from chapter file: ../19-Psalms/66
+error reading from chapter file: ../19-Psalms/66
+error reading from chapter file: ../19-Psalms/67
+error reading from chapter file: ../19-Psalms/67
+error reading from chapter file: ../19-Psalms/67
+error reading from chapter file: ../19-Psalms/67
+error reading from chapter file: ../19-Psalms/67
+error reading from chapter file: ../19-Psalms/67
+error reading from chapter file: ../19-Psalms/67
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/68
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/69
+error reading from chapter file: ../19-Psalms/70
+error reading from chapter file: ../19-Psalms/70
+error reading from chapter file: ../19-Psalms/70
+error reading from chapter file: ../19-Psalms/70
+error reading from chapter file: ../19-Psalms/70
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/71
+error reading from chapter file: ../19-Psalms/72
+error reading from chapter file: ../19-Psalms/72
+error reading from chapter file: ../19-Psalms/72
+error reading from chapter file: ../19-Psalms/72
+error reading from chapter file: ../19-Psalms/72
+error reading from chapter file: ../19-Psalms/72
+error reading from chapter file: ../19-Psalms/72
+error reading from chapter file: ../19-Psalms/72
+error reading from chapter file: ../19-Psalms/72
+error reading from chapter file: ../19-Psalms/72
+error reading from chapter file: ../19-Psalms/72
+error reading from chapter file: ../19-Psalms/72
+error reading from chapter file: ../19-Psalms/72
+error reading from chapter file: ../19-Psalms/72
+error reading from chapter file: ../19-Psalms/72
+error reading from chapter file: ../19-Psalms/72
+error reading from chapter file: ../19-Psalms/72
+error reading from chapter file: ../19-Psalms/72
+error reading from chapter file: ../19-Psalms/72
+error reading from chapter file: ../19-Psalms/72
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/73
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/74
+error reading from chapter file: ../19-Psalms/75
+error reading from chapter file: ../19-Psalms/75
+error reading from chapter file: ../19-Psalms/75
+error reading from chapter file: ../19-Psalms/75
+error reading from chapter file: ../19-Psalms/75
+error reading from chapter file: ../19-Psalms/75
+error reading from chapter file: ../19-Psalms/75
+error reading from chapter file: ../19-Psalms/75
+error reading from chapter file: ../19-Psalms/75
+error reading from chapter file: ../19-Psalms/75
+error reading from chapter file: ../19-Psalms/76
+error reading from chapter file: ../19-Psalms/76
+error reading from chapter file: ../19-Psalms/76
+error reading from chapter file: ../19-Psalms/76
+error reading from chapter file: ../19-Psalms/76
+error reading from chapter file: ../19-Psalms/76
+error reading from chapter file: ../19-Psalms/76
+error reading from chapter file: ../19-Psalms/76
+error reading from chapter file: ../19-Psalms/76
+error reading from chapter file: ../19-Psalms/76
+error reading from chapter file: ../19-Psalms/76
+error reading from chapter file: ../19-Psalms/76
+error reading from chapter file: ../19-Psalms/77
+error reading from chapter file: ../19-Psalms/77
+error reading from chapter file: ../19-Psalms/77
+error reading from chapter file: ../19-Psalms/77
+error reading from chapter file: ../19-Psalms/77
+error reading from chapter file: ../19-Psalms/77
+error reading from chapter file: ../19-Psalms/77
+error reading from chapter file: ../19-Psalms/77
+error reading from chapter file: ../19-Psalms/77
+error reading from chapter file: ../19-Psalms/77
+error reading from chapter file: ../19-Psalms/77
+error reading from chapter file: ../19-Psalms/77
+error reading from chapter file: ../19-Psalms/77
+error reading from chapter file: ../19-Psalms/77
+error reading from chapter file: ../19-Psalms/77
+error reading from chapter file: ../19-Psalms/77
+error reading from chapter file: ../19-Psalms/77
+error reading from chapter file: ../19-Psalms/77
+error reading from chapter file: ../19-Psalms/77
+error reading from chapter file: ../19-Psalms/77
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/78
+error reading from chapter file: ../19-Psalms/79
+error reading from chapter file: ../19-Psalms/79
+error reading from chapter file: ../19-Psalms/79
+error reading from chapter file: ../19-Psalms/79
+error reading from chapter file: ../19-Psalms/79
+error reading from chapter file: ../19-Psalms/79
+error reading from chapter file: ../19-Psalms/79
+error reading from chapter file: ../19-Psalms/79
+error reading from chapter file: ../19-Psalms/79
+error reading from chapter file: ../19-Psalms/79
+error reading from chapter file: ../19-Psalms/79
+error reading from chapter file: ../19-Psalms/79
+error reading from chapter file: ../19-Psalms/79
+error reading from chapter file: ../19-Psalms/80
+error reading from chapter file: ../19-Psalms/80
+error reading from chapter file: ../19-Psalms/80
+error reading from chapter file: ../19-Psalms/80
+error reading from chapter file: ../19-Psalms/80
+error reading from chapter file: ../19-Psalms/80
+error reading from chapter file: ../19-Psalms/80
+error reading from chapter file: ../19-Psalms/80
+error reading from chapter file: ../19-Psalms/80
+error reading from chapter file: ../19-Psalms/80
+error reading from chapter file: ../19-Psalms/80
+error reading from chapter file: ../19-Psalms/80
+error reading from chapter file: ../19-Psalms/80
+error reading from chapter file: ../19-Psalms/80
+error reading from chapter file: ../19-Psalms/80
+error reading from chapter file: ../19-Psalms/80
+error reading from chapter file: ../19-Psalms/80
+error reading from chapter file: ../19-Psalms/80
+error reading from chapter file: ../19-Psalms/80
+error reading from chapter file: ../19-Psalms/81
+error reading from chapter file: ../19-Psalms/81
+error reading from chapter file: ../19-Psalms/81
+error reading from chapter file: ../19-Psalms/81
+error reading from chapter file: ../19-Psalms/81
+error reading from chapter file: ../19-Psalms/81
+error reading from chapter file: ../19-Psalms/81
+error reading from chapter file: ../19-Psalms/81
+error reading from chapter file: ../19-Psalms/81
+error reading from chapter file: ../19-Psalms/81
+error reading from chapter file: ../19-Psalms/81
+error reading from chapter file: ../19-Psalms/81
+error reading from chapter file: ../19-Psalms/81
+error reading from chapter file: ../19-Psalms/81
+error reading from chapter file: ../19-Psalms/81
+error reading from chapter file: ../19-Psalms/81
+error reading from chapter file: ../19-Psalms/82
+error reading from chapter file: ../19-Psalms/82
+error reading from chapter file: ../19-Psalms/82
+error reading from chapter file: ../19-Psalms/82
+error reading from chapter file: ../19-Psalms/82
+error reading from chapter file: ../19-Psalms/82
+error reading from chapter file: ../19-Psalms/82
+error reading from chapter file: ../19-Psalms/82
+error reading from chapter file: ../19-Psalms/83
+error reading from chapter file: ../19-Psalms/83
+error reading from chapter file: ../19-Psalms/83
+error reading from chapter file: ../19-Psalms/83
+error reading from chapter file: ../19-Psalms/83
+error reading from chapter file: ../19-Psalms/83
+error reading from chapter file: ../19-Psalms/83
+error reading from chapter file: ../19-Psalms/83
+error reading from chapter file: ../19-Psalms/83
+error reading from chapter file: ../19-Psalms/83
+error reading from chapter file: ../19-Psalms/83
+error reading from chapter file: ../19-Psalms/83
+error reading from chapter file: ../19-Psalms/83
+error reading from chapter file: ../19-Psalms/83
+error reading from chapter file: ../19-Psalms/83
+error reading from chapter file: ../19-Psalms/83
+error reading from chapter file: ../19-Psalms/83
+error reading from chapter file: ../19-Psalms/83
+error reading from chapter file: ../19-Psalms/84
+error reading from chapter file: ../19-Psalms/84
+error reading from chapter file: ../19-Psalms/84
+error reading from chapter file: ../19-Psalms/84
+error reading from chapter file: ../19-Psalms/84
+error reading from chapter file: ../19-Psalms/84
+error reading from chapter file: ../19-Psalms/84
+error reading from chapter file: ../19-Psalms/84
+error reading from chapter file: ../19-Psalms/84
+error reading from chapter file: ../19-Psalms/84
+error reading from chapter file: ../19-Psalms/84
+error reading from chapter file: ../19-Psalms/84
+error reading from chapter file: ../19-Psalms/85
+error reading from chapter file: ../19-Psalms/85
+error reading from chapter file: ../19-Psalms/85
+error reading from chapter file: ../19-Psalms/85
+error reading from chapter file: ../19-Psalms/85
+error reading from chapter file: ../19-Psalms/85
+error reading from chapter file: ../19-Psalms/85
+error reading from chapter file: ../19-Psalms/85
+error reading from chapter file: ../19-Psalms/85
+error reading from chapter file: ../19-Psalms/85
+error reading from chapter file: ../19-Psalms/85
+error reading from chapter file: ../19-Psalms/85
+error reading from chapter file: ../19-Psalms/85
+error reading from chapter file: ../19-Psalms/86
+error reading from chapter file: ../19-Psalms/86
+error reading from chapter file: ../19-Psalms/86
+error reading from chapter file: ../19-Psalms/86
+error reading from chapter file: ../19-Psalms/86
+error reading from chapter file: ../19-Psalms/86
+error reading from chapter file: ../19-Psalms/86
+error reading from chapter file: ../19-Psalms/86
+error reading from chapter file: ../19-Psalms/86
+error reading from chapter file: ../19-Psalms/86
+error reading from chapter file: ../19-Psalms/86
+error reading from chapter file: ../19-Psalms/86
+error reading from chapter file: ../19-Psalms/86
+error reading from chapter file: ../19-Psalms/86
+error reading from chapter file: ../19-Psalms/86
+error reading from chapter file: ../19-Psalms/86
+error reading from chapter file: ../19-Psalms/86
+error reading from chapter file: ../19-Psalms/87
+error reading from chapter file: ../19-Psalms/87
+error reading from chapter file: ../19-Psalms/87
+error reading from chapter file: ../19-Psalms/87
+error reading from chapter file: ../19-Psalms/87
+error reading from chapter file: ../19-Psalms/87
+error reading from chapter file: ../19-Psalms/87
+error reading from chapter file: ../19-Psalms/88
+error reading from chapter file: ../19-Psalms/88
+error reading from chapter file: ../19-Psalms/88
+error reading from chapter file: ../19-Psalms/88
+error reading from chapter file: ../19-Psalms/88
+error reading from chapter file: ../19-Psalms/88
+error reading from chapter file: ../19-Psalms/88
+error reading from chapter file: ../19-Psalms/88
+error reading from chapter file: ../19-Psalms/88
+error reading from chapter file: ../19-Psalms/88
+error reading from chapter file: ../19-Psalms/88
+error reading from chapter file: ../19-Psalms/88
+error reading from chapter file: ../19-Psalms/88
+error reading from chapter file: ../19-Psalms/88
+error reading from chapter file: ../19-Psalms/88
+error reading from chapter file: ../19-Psalms/88
+error reading from chapter file: ../19-Psalms/88
+error reading from chapter file: ../19-Psalms/88
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/89
+error reading from chapter file: ../19-Psalms/90
+error reading from chapter file: ../19-Psalms/90
+error reading from chapter file: ../19-Psalms/90
+error reading from chapter file: ../19-Psalms/90
+error reading from chapter file: ../19-Psalms/90
+error reading from chapter file: ../19-Psalms/90
+error reading from chapter file: ../19-Psalms/90
+error reading from chapter file: ../19-Psalms/90
+error reading from chapter file: ../19-Psalms/90
+error reading from chapter file: ../19-Psalms/90
+error reading from chapter file: ../19-Psalms/90
+error reading from chapter file: ../19-Psalms/90
+error reading from chapter file: ../19-Psalms/90
+error reading from chapter file: ../19-Psalms/90
+error reading from chapter file: ../19-Psalms/90
+error reading from chapter file: ../19-Psalms/90
+error reading from chapter file: ../19-Psalms/90
+error reading from chapter file: ../19-Psalms/91
+error reading from chapter file: ../19-Psalms/91
+error reading from chapter file: ../19-Psalms/91
+error reading from chapter file: ../19-Psalms/91
+error reading from chapter file: ../19-Psalms/91
+error reading from chapter file: ../19-Psalms/91
+error reading from chapter file: ../19-Psalms/91
+error reading from chapter file: ../19-Psalms/91
+error reading from chapter file: ../19-Psalms/91
+error reading from chapter file: ../19-Psalms/91
+error reading from chapter file: ../19-Psalms/91
+error reading from chapter file: ../19-Psalms/91
+error reading from chapter file: ../19-Psalms/91
+error reading from chapter file: ../19-Psalms/91
+error reading from chapter file: ../19-Psalms/91
+error reading from chapter file: ../19-Psalms/91
+error reading from chapter file: ../19-Psalms/92
+error reading from chapter file: ../19-Psalms/92
+error reading from chapter file: ../19-Psalms/92
+error reading from chapter file: ../19-Psalms/92
+error reading from chapter file: ../19-Psalms/92
+error reading from chapter file: ../19-Psalms/92
+error reading from chapter file: ../19-Psalms/92
+error reading from chapter file: ../19-Psalms/92
+error reading from chapter file: ../19-Psalms/92
+error reading from chapter file: ../19-Psalms/92
+error reading from chapter file: ../19-Psalms/92
+error reading from chapter file: ../19-Psalms/92
+error reading from chapter file: ../19-Psalms/92
+error reading from chapter file: ../19-Psalms/92
+error reading from chapter file: ../19-Psalms/92
+error reading from chapter file: ../19-Psalms/93
+error reading from chapter file: ../19-Psalms/93
+error reading from chapter file: ../19-Psalms/93
+error reading from chapter file: ../19-Psalms/93
+error reading from chapter file: ../19-Psalms/93
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/94
+error reading from chapter file: ../19-Psalms/95
+error reading from chapter file: ../19-Psalms/95
+error reading from chapter file: ../19-Psalms/95
+error reading from chapter file: ../19-Psalms/95
+error reading from chapter file: ../19-Psalms/95
+error reading from chapter file: ../19-Psalms/95
+error reading from chapter file: ../19-Psalms/95
+error reading from chapter file: ../19-Psalms/95
+error reading from chapter file: ../19-Psalms/95
+error reading from chapter file: ../19-Psalms/95
+error reading from chapter file: ../19-Psalms/95
+error reading from chapter file: ../19-Psalms/96
+error reading from chapter file: ../19-Psalms/96
+error reading from chapter file: ../19-Psalms/96
+error reading from chapter file: ../19-Psalms/96
+error reading from chapter file: ../19-Psalms/96
+error reading from chapter file: ../19-Psalms/96
+error reading from chapter file: ../19-Psalms/96
+error reading from chapter file: ../19-Psalms/96
+error reading from chapter file: ../19-Psalms/96
+error reading from chapter file: ../19-Psalms/96
+error reading from chapter file: ../19-Psalms/96
+error reading from chapter file: ../19-Psalms/96
+error reading from chapter file: ../19-Psalms/96
+error reading from chapter file: ../19-Psalms/97
+error reading from chapter file: ../19-Psalms/97
+error reading from chapter file: ../19-Psalms/97
+error reading from chapter file: ../19-Psalms/97
+error reading from chapter file: ../19-Psalms/97
+error reading from chapter file: ../19-Psalms/97
+error reading from chapter file: ../19-Psalms/97
+error reading from chapter file: ../19-Psalms/97
+error reading from chapter file: ../19-Psalms/97
+error reading from chapter file: ../19-Psalms/97
+error reading from chapter file: ../19-Psalms/97
+error reading from chapter file: ../19-Psalms/97
+error reading from chapter file: ../19-Psalms/98
+error reading from chapter file: ../19-Psalms/98
+error reading from chapter file: ../19-Psalms/98
+error reading from chapter file: ../19-Psalms/98
+error reading from chapter file: ../19-Psalms/98
+error reading from chapter file: ../19-Psalms/98
+error reading from chapter file: ../19-Psalms/98
+error reading from chapter file: ../19-Psalms/98
+error reading from chapter file: ../19-Psalms/98
+error reading from chapter file: ../19-Psalms/99
+error reading from chapter file: ../19-Psalms/99
+error reading from chapter file: ../19-Psalms/99
+error reading from chapter file: ../19-Psalms/99
+error reading from chapter file: ../19-Psalms/99
+error reading from chapter file: ../19-Psalms/99
+error reading from chapter file: ../19-Psalms/99
+error reading from chapter file: ../19-Psalms/99
+error reading from chapter file: ../19-Psalms/99
+20-Proverbs being checked, if errors they were:
+21-Ecclesiastes being checked, if errors they were:
+22-SongOfSolomon being checked, if errors they were:
+23-Isaiah being checked, if errors they were:
+24-Jeremiah being checked, if errors they were:
+25-Lamentations being checked, if errors they were:
+26-Ezekiel being checked, if errors they were:
+27-Daniel being checked, if errors they were:
+28-Hosea being checked, if errors they were:
+29-Joel being checked, if errors they were:
+30-Amos being checked, if errors they were:
+31-Obadiah being checked, if errors they were:
+32-Jonah being checked, if errors they were:
+33-Micah being checked, if errors they were:
+34-Nahum being checked, if errors they were:
+35-Habakkuk being checked, if errors they were:
+36-Zephaniah being checked, if errors they were:
+37-Haggai being checked, if errors they were:
+38-Zechariah being checked, if errors they were:
+39-Malachi being checked, if errors they were:
+40-Matthew being checked, if errors they were:
+41-Mark being checked, if errors they were:
+42-Luke being checked, if errors they were:
+43-John being checked, if errors they were:
+44-Acts being checked, if errors they were:
+45-Romans being checked, if errors they were:
+46-1Corinthians being checked, if errors they were:
+47-2Corinthians being checked, if errors they were:
+48-Galatians being checked, if errors they were:
+49-Ephesians being checked, if errors they were:
+50-Philippians being checked, if errors they were:
+51-Colossians being checked, if errors they were:
+52-1Thessalonians being checked, if errors they were:
+53-2Thessalonians being checked, if errors they were:
+54-1Timothy being checked, if errors they were:
+55-2Timothy being checked, if errors they were:
+56-Titus being checked, if errors they were:
+57-Philemon being checked, if errors they were:
+58-Hebrews being checked, if errors they were:
+59-James being checked, if errors they were:
+60-1Peter being checked, if errors they were:
+61-2Peter being checked, if errors they were:
+62-1John being checked, if errors they were:
+63-2John being checked, if errors they were:
+64-3John being checked, if errors they were:
+65-Jude being checked, if errors they were:
+66-Revelation being checked, if errors they were:

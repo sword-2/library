@@ -8,4 +8,64 @@
 
 books=(01-Genesis 02-Exodus 03-Leviticus 04-Numbers 05-Deuteronomy 06-Joshua 07-Judges 08-Ruth 09-1Samuel 10-2Samuel 11-1Kings 12-2Kings 13-1Chronicles 14-2Chronicles 15-Ezra 16-Nehemiah 17-Esther 18-Job 19-Psalms 20-Proverbs 21-Ecclesiastes 22-SongOfSolomon 23-Isaiah 24-Jeremiah 25-Lamentations 26-Ezekiel 27-Daniel 28-Hosea 29-Joel 30-Amos 31-Obadiah 32-Jonah 33-Micah 34-Nahum 35-Habakkuk 36-Zephaniah 37-Haggai 38-Zechariah 39-Malachi 40-Matthew 41-Mark 42-Luke 43-John 44-Acts 45-Romans 46-1Corinthians 47-2Corinthians 48-Galatians 49-Ephesians 50-Philippians 51-Colossians 52-1Thessalonians 53-2Thessalonians 54-1Timothy 55-2Timothy 56-Titus 57-Philemon 58-Hebrews 59-James 60-1Peter 61-2Peter 62-1John 63-2John 64-3John 65-Jude 66-Revelation)
 
+#global variables, initialize empty
+  bfile=$'\0' #path to brefspec file
+  bLINE=$'\0' #used in get_vars()
+  bTEMP=$'\0' #get_vars()
+  #varibles to configure loops
+    chap=$'\0'
+    firstV=$'\0'
+    lastV=$'\0'
+
+
+bfile_init() { #initialize brefspec file descriptor (fd) to 3
+  #initialize brefspec file
+    #does it exist?
+    #if so, set to fd 3
+    #read/skip initial lines
+    #lines read goto variable bLINE
+
+  #expected path to brefspec file
+  if test -f "$1"; then
+   exec 3<${1}
+  else
+    echo 'error finding bfile, exiting. bfile='$1
+    exit 1
+  fi
+} #end function bfile_init()
+
+get_vars() {
+  #expected format is ...
+  #chapter : first verse : last verse
+  IFS=':'
+  read -r -a bTEMP <<< "$bLINE"
+  IFS=''
+  #modify variable to only chapter:verse
+  chap="${bTEMP[0]}"
+  firstV="${bTEMP[1]}"
+  lastV="${bTEMP[2]}"
+  #bLINE="${bTEMP[1]}:${bTEMP[2]}"
+} #end function
+
+bfile_read() {
+#also sets read_b false, which means not necessary to read brefspec file again until the line just read is processed
+#some reading variations like skippng comments, blank lines, & possibly handling files with multiple columns.
+  
+while true; do #to skip comment lines, etc.
+  read -u 3 bLINE
+  if [ $? -ne 0 ]; then #not success
+    echo 'bfile read error or end of file, exiting'
+    return 1 #notify parent of some error...
+  else
+    #echo 'bfile_read just got bLINE='$bLINE
+    if ! ([[ ${bLINE:0:1} == "/" ]] ||  [[ $bLINE == '' ]]); then
+      get_vars #put line into variables-chapter, first verse, last verse
+      read_b=false
+      break
+    #else supposed to repeat loop
+    fi
+  fi
+done
+} #end bfile_read()
+
 
