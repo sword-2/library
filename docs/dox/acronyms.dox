@@ -1,0 +1,8 @@
+/*! \page acronyms Acronyms
+
+
+BGp - Bible Gateway parser. It is the name of a c++ program that removes advertisements, etc to get just the simple verse. Deletes a thousand or more lines to get one line for verse.
+
+VC - Verse Compare. Receives a Gutenberg and biblegateway verse, reports back whether they are the same (-) or else differences observed.
+
+*/

@@ -1,11 +1,12 @@
-//Modified function from original C/C++ bible app.
+/** @defgroup BibleGatewayParse The Bible Gateway parse (BGp) Group
+ * The BGp group extracts a verse from a biblegateway web request for 1 verse
+ * @{
+ */
 
-//Parse a web page already retrieved by curl from biblegateway for 1 verse.
-
-//Extract verse from curl reponse by dealing with issues like ...
-  //1. Verse changes line number between network calls, possibly due to marketing adds. If varying marketing ads between network calls, a longer marketing ad could bump scripture farther down a file than the previous marketing ad, thus changing the line number of scripture.
-  //Varying HTML tags within a verse, possibly different prefix and suffix and tags in the middle of the verse.
-
+/** Extract verse from curl reponse by dealing with issues like ...
+  1. Verse changes line number between network calls, possibly due to varying size of marketing adds.
+  2. Varying HTML tags within a verse, possibly different prefix and suffix and tags in the middle of the verse.
+*/
 
 #include <string>
 #include <iostream>
@@ -19,7 +20,7 @@ int main() { //was htmlParseBg1v
   std::ostringstream in2;
   try {
     out = std::string("\nline not found"); //default output unless updated below
-	//expect biblegateway web page from stdin
+	/** expect biblegateway web page from stdin */
 		in2 << std::cin.rdbuf();
 		//Test code
 			//out=std::string("\nstdin received was: ") + in2.str(); // + std::string(", and in=") + in;
@@ -127,6 +128,8 @@ int main() { //was htmlParseBg1v
   catch (...) { out = std::string(__FILE__) + strerror(errno); std::cout << out; return 1; }
 
 } //end function
+
+/** @} */ //end of group BGp
 
 #ifndef SKIP
 

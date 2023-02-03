@@ -1,0 +1,27 @@
+/*! \page filesystem "Filesystem overview"
+
+The repo's folders last time this was updated
+
+
+<table border=1><caption>repo's folders</caption>
+<tr>
+	<th>Name</th>
+	<th>Comment</th>
+</tr>
+<tr>
+	<td>kjv</td>
+	<td>King James Version scriptures split into books and chapters</td>
+</tr>
+<tr>
+	<td>sw</td>
+	<td>software and reports from checks to compare scripture data sources.</td>
+</tr>
+
+*/
+
+
+
+
+
+
+
