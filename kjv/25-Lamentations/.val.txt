@@ -1,0 +1,6 @@
+Book of Lamentations. Validation file. Lists expected verses per chapter in the format of: chapter|max verse
+1|22
+2|22
+3|66
+4|22
+5|22

@@ -1,0 +1,6 @@
+Book of 1Peter. Validation file. Lists expected verses per chapter in the format of: chapter|max verse
+1|25
+2|25
+3|22
+4|19
+5|14

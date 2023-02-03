@@ -1,0 +1,2 @@
+Book of Jude. Validation file. Lists expected verses per chapter in the format of: chapter|max verse
+1|25

@@ -1,0 +1,6 @@
+Book of 1Thessalonians. Validation file. Lists expected verses per chapter in the format of: chapter|max verse
+1|10
+2|20
+3|13
+4|18
+5|28

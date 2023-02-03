@@ -1,0 +1,61 @@
+<script>
+
+function checks_adom() {
+//Attempt to check some of what is needed to run program
+
+//variables to document elements
+brefspec=document.getElementById('brefspec');
+chaps=document.getElementById('chaps');
+fileDisplayArea = document.getElementById('fileDisplayArea');
+RA_status = document.getElementById("RA_status");
+
+//function return values
+var cntinue=true; //chg false on error
+var status1='Checking which elements and APIs are supported..........'; //return a result
+
+
+status1+='<br><br>First checking elements ....';
+if (RA_status) {
+  status1+='<br>found: RA_status.';
+} else {
+  status1+='<br>NOT found: RA_status element. It is needed to status other elements, APIs, etc.';
+  cntinue=false;
+}
+if (brefspec) {
+  status1+='<br>found: brefspec.';
+} else {
+  status1+='<br>NOT found: brefspec.';
+  cntinue=false;
+}
+if (chaps) {
+  status1+='<br>found: chaps.';
+} else {
+  status1+='<br>NOT found: chaps.';
+  cntinue=false;
+}
+if (fileDisplayArea) {
+  status1+='<br>found: fileDisplayArea.';
+} else {
+  status1+='<br>NOT found: fileDisplayArea.';
+  cntinue=false;
+}
+
+status1+='<br><br>Checking APIs ....';
+//File and related APIs
+if (window.File && window.FileReader && window.FileList && window.Blob) {
+  status1+='<br>found: File, FileReader, FileList, & Blob APIs.';
+} else {
+  status1+='<br>NOT found: File, FileReader, FileList, & Blob APIs.';
+cntinue=false;
+}
+
+if ('fetch' in window) {
+  status1+='<br>found: Fetch API';
+} else {
+  status1+='<br>NOT found: Fetch API';
+  cntinue=false;
+}
+return { c: cntinue, status: status1, };
+
+} //end function
+</script>

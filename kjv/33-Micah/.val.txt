@@ -1,0 +1,8 @@
+Book of Micah. Validation file. Lists expected verses per chapter in the format of: chapter|max verse
+1|16
+2|13
+3|12
+4|13
+5|15
+6|16
+7|20

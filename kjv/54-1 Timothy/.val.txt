@@ -1,0 +1,7 @@
+Book of 1Timothy. Validation file. Lists expected verses per chapter in the format of: chapter|max verse
+1|20
+2|15
+3|16
+4|16
+5|25
+6|21

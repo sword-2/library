@@ -1,0 +1,15 @@
+Book of Hosea. Validation file. Lists expected verses per chapter in the format of: chapter|max verse
+1|11
+2|23
+3|5
+4|19
+5|15
+6|11
+7|16
+8|14
+9|17
+10|15
+11|12
+12|14
+13|16
+14|9

@@ -1,0 +1,5 @@
+Book of 2Timothy. Validation file. Lists expected verses per chapter in the format of: chapter|max verse
+1|18
+2|26
+3|17
+4|22

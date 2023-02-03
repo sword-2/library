@@ -1,0 +1,7 @@
+Book of Ephesians. Validation file. Lists expected verses per chapter in the format of: chapter|max verse
+1|23
+2|22
+3|21
+4|32
+5|33
+6|24

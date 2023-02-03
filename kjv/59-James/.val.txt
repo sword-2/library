@@ -1,0 +1,6 @@
+Book of James. Validation file. Lists expected verses per chapter in the format of: chapter|max verse
+1|27
+2|26
+3|18
+4|17
+5|20

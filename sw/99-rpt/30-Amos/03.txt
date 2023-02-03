@@ -1,0 +1,17 @@
+Amos 03
+
+1  different, length same at 151; different word(s): (Lord - LORD)
+2 -
+3 -
+4 -
+5 -
+6  different, length same at 129; different word(s): (Lord - LORD)
+7  different, length same at 96; different word(s): (God - GOD)
+8  different, length same at 88; different word(s): (God - GOD)
+9 -
+10  different, length same at 98; different word(s): (Lord, - LORD,)
+11  different, length same at 171; different word(s): (God; - GOD;)
+12  different, length same at 223; different word(s): (Lord; - LORD;)
+13  different, length same at 81; different word(s): (God, - GOD,)
+14 -
+15  different, length same at 150; different word(s): (Lord. - LORD.)

@@ -1,0 +1,15 @@
+Job 02
+
+1  different, length same at 153; different word(s): (Lord, - LORD,) (Lord. - LORD.)
+2  different, length same at 165; different word(s): (Lord - LORD) (Lord, - LORD,)
+3  different, length same at 289; different word(s): (Lord - LORD)
+4  different, length same at 105; different word(s): (Lord, - LORD,)
+5 -
+6  different, length same at 77; different word(s): (Lord - LORD)
+7  different, length same at 122; different word(s): (Lord, - LORD,)
+8 -
+9 -
+10 -
+11 -
+12 -
+13 -

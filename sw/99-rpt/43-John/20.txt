@@ -1,0 +1,33 @@
+John 20
+
+1 -
+2  different, length same at 204; different word(s): (Lord - LORD)
+3 -
+4 -
+5 -
+6 -
+7 -
+8 -
+9 -
+10 -
+11 -
+12 -
+13  different, length same at 147; different word(s): (Lord, - LORD,)
+14 -
+15 -
+16 -
+17 -
+18  different, length same at 116; different word(s): (Lord, - LORD,)
+19 -
+20  different, length same at 122; different word(s): (Lord. - LORD.)
+21 -
+22 -
+23 -
+24 -
+25  different, length same at 247; different word(s): (Lord. - LORD.)
+26 -
+27 -
+28  different, length same at 58; different word(s): (Lord - LORD)
+29 -
+30 -
+31 -

@@ -1,0 +1,5 @@
+Book of Colossians. Validation file. Lists expected verses per chapter in the format of: chapter|max verse
+1|29
+2|23
+3|25
+4|18

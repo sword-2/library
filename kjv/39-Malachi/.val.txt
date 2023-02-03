@@ -1,0 +1,5 @@
+Book of Malachi. Validation file. Lists expected verses per chapter in the format of: chapter|max verse
+1|14
+2|17
+3|18
+4|6

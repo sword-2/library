@@ -1,0 +1,6 @@
+Book of 1John. Validation file. Lists expected verses per chapter in the format of: chapter|max verse
+1|10
+2|29
+3|24
+4|21
+5|21

@@ -1,0 +1,3 @@
+Book of Haggai. Validation file. Lists expected verses per chapter in the format of: chapter|max verse
+1|15
+2|23

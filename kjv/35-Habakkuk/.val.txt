@@ -1,0 +1,4 @@
+Book of Habakkuk. Validation file. Lists expected verses per chapter in the format of: chapter|max verse
+1|17
+2|20
+3|19

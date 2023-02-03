@@ -1,0 +1,22 @@
+<p>The functionality is not yet completed-under construction.</p>
+
+<br><br>
+<p>The following division was assessing selected risks:</p>
+<div id='RA_status'></div><script>checks_adom();</script>
+
+<hr>
+<div id='checkVerses'>
+<h2>Not complete: attempt to apply the File, FileReader API, etc to check the verses.</h2>
+
+<div>Select one (1) file 999-brefspec in a folder for a bible book:
+<input type='file' id='brefspec'/></div>
+
+<div>Select the chapter(s) corresponding to the file 999-brefspec.
+<input multiple type='file' id='chaps'/></div>
+
+<button onclick="check_verses()">Check verses using selected files.</button>
+</div>
+
+<hr>
+<p>An area to display file content for debugging:</p>
+<pre id='fileDisplayArea'><pre>

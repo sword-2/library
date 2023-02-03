@@ -1,0 +1,4 @@
+Book of 2Thessalonians. Validation file. Lists expected verses per chapter in the format of: chapter|max verse
+1|12
+2|17
+3|18

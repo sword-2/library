@@ -1,0 +1,32 @@
+Daniel 03
+
+1 -
+2 -
+3 -
+4 -
+5 -
+6 -
+7 -
+8 -
+9 -
+10 -
+11 -
+12 -
+13 -
+14 -
+15 -
+16 -
+17 -
+18 -
+19 -
+20 -
+21 -
+22 -
+23 -
+24  different, lengths different;  Gutenberg (length=220): Then Nebuchadnezzar the king was astonished, and rose up in haste, and spake, and said unto his counsellors, Did not we cast three men bound into the midst of the fire? They answered and said unto the king, True, O king.; Biblegateway (length=218): Then Nebuchadnezzar the king was astonied, and rose up in haste, and spake, and said unto his counsellors, Did not we cast three men bound into the midst of the fire? They answered and said unto the king, True, O king.
+25 -
+26 -
+27 -
+28 -
+29 -
+30 -
