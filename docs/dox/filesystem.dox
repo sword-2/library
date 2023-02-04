@@ -10,7 +10,7 @@ The repo's folders last time this was updated
 </tr>
 <tr>
 	<td>kjv</td>
-	<td>King James Version scriptures split into books and chapters</td>
+	<td>King James Version scriptures split into books and chapters. An extra fail .val.txt is left over from a different program that used it to verify the maximum verse in each chapter.</td>
 </tr>
 <tr>
 	<td>sw</td>
