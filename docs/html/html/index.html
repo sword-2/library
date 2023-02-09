@@ -112,10 +112,20 @@ $(document).ready(function(){initNavTree('index.html',''); initResizable(); });
 <div class="title">mainpage - personal notes </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><pre>
-The content for (reformatted Gutenberg) kjv bible was checked with a shell script (sw/0) to minimize accidental errors during reformatting. In the script directory, the script was run on the command line with "./0 c". The script looped through all the kjv scriptures in the repo and compared each one to the same verse from biblegateway.com. The shell script comparison was already run, and the results written to the sub-folder sw/99-rpt/
-     If the comparison observed the verse was the same, the report just puts a hyphen (-) next to the verse number. Sometimes the shell script determined there were differences between the same verse for Gutenberg and biblegateway. Most of the differences were believed to be due to upper/lower case differences because of html/js/css presentation changes of some words from the network transfer to web page. For example, the word 'Lord' sent by biblegateway might be changed at the last moment before display in the browser by the html/js/css to a different case 'LORD'. The shell script only looked at the network text and didn't perform html/js/css editing.</pre><pre>The shell script uses two C++ programs in the subfolder sw/c++. The make program has to be run to build the code for the local machine. Installation of supporting libraries for make was skipped.</pre><pre>The network efficiency for the shell script calls to biblegateway was poor. An efficient way was not known to just get a verse -  something like github raw user content would just get content. Each verse required its own network call, and that call had sales advertisements embedded to the page which one C++ function was made to filter all that out to get just the verse.</pre><pre>The shell script is also capable of calculating checksums for each chapter. The command to do it from the script directory was ./0 md5. It puts a md5 file in the sw directory.
-</pre><table border="1">
+<div class="textblock"><p>The content for (reformatted Gutenberg) kjv bible was checked with a shell script (sw/0) to minimize accidental errors during reformatting. In the script directory, the script was run on the command line with "./0 c". The script looped through all the kjv scriptures in the repo and compared each one to the same verse from biblegateway.com. The shell script comparison was already run, and the results written to the sub-folder sw/99-rpt/ <br  />
+ If the comparison observed the verse was the same, the report just puts a hyphen (-) next to the verse number. Sometimes the shell script determined there were differences between the same verse for Gutenberg and biblegateway. Most of the differences were believed to be due to upper/lower case differences because of html/js/css presentation changes of some words from the network transfer to web page. For example, the word 'Lord' sent by biblegateway might be changed at the last moment before display in the browser by the html/js/css to a different case 'LORD'. The shell script only looked at the network text and didn't perform html/js/css editing. <br  />
+<br  />
+</p>
+<p>The shell script uses two C++ programs in the subfolder sw/c++. The make program has to be run to build the code for the local machine. Installation of supporting libraries for make was skipped. <br  />
+<br  />
+</p>
+<p>The network efficiency for the shell script calls to biblegateway was poor. An efficient way was not known to just get a verse - something like github raw user content would just get content. Each verse required its own network call, and that call had sales advertisements embedded to the page which one C++ function was made to filter all that out to get just the verse. <br  />
+<br  />
+</p>
+<p>The shell script is also capable of calculating checksums for each chapter. The command to do it from the script directory was ./0 md5. It puts a md5 file in the sw directory. <br  />
+<br  />
+</p>
+<table border="1">
 <caption>Sub-pages</caption>
 <tr>
 <th>Name / Link </th></tr>
