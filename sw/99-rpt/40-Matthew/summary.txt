@@ -1,0 +1,68 @@
+Matthew Summary of differences by chapter
+
+
+Chapter: 01
+	19 different, lengths different;  Gutenberg (length=124): Then Joseph her husband, being a just man, and not willing to make her a public example, was minded to put her away privily.; Biblegateway (length=125): Then Joseph her husband, being a just man, and not willing to make her a publick example, was minded to put her away privily.
+	20 different, length same at 231; different word(s): (Lord - LORD)
+	21 different, length same at 114; different word(s): (Jesus: - JESUS:)
+
+Chapter: 02
+	16 different, length same at 279, unknown difference:  Gutenberg (length=279): Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently inquired of the wise men.; Biblegateway (length=279): Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men.
+	17 different, lengths different;  Gutenberg (length=73): Then was fulfilled that which was spoken by Jeremiah the prophet, saying,; Biblegateway (length=71): Then was fulfilled that which was spoken by Jeremy the prophet, saying,
+
+Chapter: 03
+
+Chapter: 04
+	1 different, length same at 83; different word(s): (Spirit - spirit)
+
+Chapter: 05
+	21 different, length same at 133, unknown difference:  Gutenberg (length=133): Ye have heard that it was said of them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:; Biblegateway (length=133): Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:
+
+Chapter: 06
+
+Chapter: 07
+
+Chapter: 08
+
+Chapter: 09
+
+Chapter: 10
+
+Chapter: 11
+
+Chapter: 12
+
+Chapter: 13
+
+Chapter: 14
+
+Chapter: 15
+
+Chapter: 16
+
+Chapter: 17
+
+Chapter: 18
+
+Chapter: 19
+
+Chapter: 20
+
+Chapter: 21
+
+Chapter: 22
+	44 different, length same at 95; different word(s): (Lord - LORD)
+
+Chapter: 23
+
+Chapter: 24
+	37 different, lengths different;  Gutenberg (length=76): But as the days of Noah were, so shall also the coming of the Son of man be.; Biblegateway (length=75): But as the days of Noe were, so shall also the coming of the Son of man be.
+
+Chapter: 25
+
+Chapter: 26
+
+Chapter: 27
+	37 different, length same at 84; different word(s): (This - THIS) (Is - IS) (Jesus - JESUS) (The - THE) (King - KING) (Of - OF) (The - THE) (Jews. - JEWS.)
+
+Chapter: 28

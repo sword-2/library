@@ -1,0 +1,104 @@
+#!/bin/sh
+#Further filter the resuts of comparisons to help browse the large quantity of files.
+
+#global variables
+dirNm='' #longer path from find
+baseNm='' #same as above but just last part
+bkNo='' #number of bible book 1-66
+bkNm='' #name of book, Genesis, 1 Timothy, etc
+chNo='' #chapter number 01, 02, etc. For Psalms 001, 002 ... 150
+vNo='' #verse number
+verse='' #verse content from Gutenberg
+#directory paths
+	ddir=../kjv #repo data directory with reformatted scriptures
+	sdir=. #software directory and reports in 99-rpt
+
+main() {
+
+	#check books - can be limited by if block below
+	books=$(find $ddir/*  -maxdepth 0 -type d -exec printf '%s|' {} \;
+)
+	#debugging
+		#printf '\nbooks=%s' "$books"
+	removedLast=${books%?} #remove last of special delimiter
+	IFS="|" #prepare to split on that delimiter
+	for dirNm in ${removedLast}; do
+		baseNm=${dirNm##*/} #extract end of long path since find returns a longer path
+		bkNo=${baseNm%-*}
+		bkNm=${baseNm#*-}
+		#clear some global variables
+			chNo=''
+			vNo=''
+			verse=''
+			BGverse=''
+		#debugging
+		#printf '\nbaseNm=%s bkNo=%s bkNm=%s' "${baseNm}" "${bkNo}" "${bkNm}"
+		#if block allows limiting the processing to selected books
+		#01 - 01 is just Genesis, 01 - 66 is all books
+		if [ $bkNo -ge 01 ] && [ $bkNo -le 66 ]; then
+			bookProcess
+		fi
+	done
+	exit 0
+} #end details
+
+#operations on each book
+bookProcess() {
+
+	temp_file1=$(mktemp)
+	temp_file2=$(mktemp)
+	find "${ddir}/${baseNm}/" -type f \( -name '[0-9][0-9].txt' -o -name '[0-1][0-5][0-9].txt' \) -printf '%P\n' > "$temp_file1"
+
+
+	sort "$temp_file1" > "$temp_file2" 
+	\rm "$temp_file1"; 
+
+	#delete old summary file, if it is present in 99-rpt
+	if [ -f ${sdir}/99-rpt/"${baseNm}"/summary.txt ]; then
+		\rm ${sdir}/99-rpt/"${baseNm}"/summary.txt
+	fi
+	
+	#make new summary file - put book name at top
+	printf '%s %s\n' "${bkNm}" 'Summary of differences by chapter' >> ${sdir}/99-rpt/"${baseNm}"/summary.txt
+
+	#loop over list of filenames
+	#printf '\n'
+	while read line
+	do
+		chNo="${line%.*}" #chapter number
+		#debugging option: if block to limit processing
+		#if [ $chNo -eq 01 ]; then
+			chapProcess
+		#fi
+	done < "$temp_file2"
+
+	\rm "$temp_file2"
+}
+
+#operations on each chapter.
+chapProcess() {
+
+	#Another temp file to remove header lines and possibly a newline (+3) using the tail command.
+	temp_file3=$(mktemp)
+	tail +3 "${sdir}/99-rpt/${baseNm}/${chNo}".txt > $temp_file3
+	#printf '\nshell debug: vNo=%s verse=%s' "$vNo" "$verse"
+	#tmp1=$(cat $temp_file3)
+	#printf '\nshell debug: temp_file3=%s' "$tmp1"
+
+			printf '\n\nChapter: %s' "${chNo}" >> ${sdir}/99-rpt/"${baseNm}"/summary.txt
+
+	while read line
+	do
+		vNo="${line%% *}" #chapter number
+		verse="${line#* }"
+
+		#only print out verses to summary which are not -
+		#debugging option to limit processing to one verse
+		if [ ${verse} != - ]; then
+			printf '\n\t%s%s' "${vNo}" "${verse}" >> ${sdir}/99-rpt/"${baseNm}"/summary.txt
+		fi
+	done <  $temp_file3
+	\rm  $temp_file3
+}
+
+main "$@"; exit

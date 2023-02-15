@@ -1,0 +1,38 @@
+Romans Summary of differences by chapter
+
+
+Chapter: 01
+
+Chapter: 02
+
+Chapter: 03
+
+Chapter: 04
+
+Chapter: 05
+
+Chapter: 06
+
+Chapter: 07
+
+Chapter: 08
+
+Chapter: 09
+
+Chapter: 10
+
+Chapter: 11
+	17 different, length same at 172, unknown difference:  Gutenberg (length=172): And if some of the branches be broken off, and thou, being a wild olive tree, wert grafted in among them, and with them partakest of the root and fatness of the olive tree;; Biblegateway (length=172): And if some of the branches be broken off, and thou, being a wild olive tree, wert graffed in among them, and with them partakest of the root and fatness of the olive tree;
+	19 different, length same at 77, unknown difference:  Gutenberg (length=77): Thou wilt say then, The branches were broken off, that I might be grafted in.; Biblegateway (length=77): Thou wilt say then, The branches were broken off, that I might be graffed in.
+	23 different, length same at 112, unknown difference:  Gutenberg (length=112): And they also, if they abide not still in unbelief, shall be grafted in: for God is able to graft them in again.; Biblegateway (length=112): And they also, if they abide not still in unbelief, shall be graffed in: for God is able to graff them in again.
+	24 different, length same at 223, unknown difference:  Gutenberg (length=223): For if thou wert cut out of the olive tree which is wild by nature, and wert grafted contrary to nature into a good olive tree: how much more shall these, which be the natural branches, be grafted into their own olive tree?; Biblegateway (length=223): For if thou wert cut out of the olive tree which is wild by nature, and wert graffed contrary to nature into a good olive tree: how much more shall these, which be the natural branches, be graffed into their own olive tree?
+
+Chapter: 12
+
+Chapter: 13
+
+Chapter: 14
+
+Chapter: 15
+
+Chapter: 16

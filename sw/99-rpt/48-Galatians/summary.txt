@@ -1,0 +1,15 @@
+Galatians Summary of differences by chapter
+
+
+Chapter: 01
+
+Chapter: 02
+	20 different, lengths different;  Gutenberg (length=205): I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.; Biblegateway (length=204): I am crucified with Christ: neverthless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.
+
+Chapter: 03
+
+Chapter: 04
+
+Chapter: 05
+
+Chapter: 06

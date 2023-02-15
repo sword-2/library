@@ -1,0 +1,54 @@
+Lamentations Summary of differences by chapter
+
+
+Chapter: 01
+	5 different, length same at 179; different word(s): (Lord - LORD)
+	9 different, length same at 193; different word(s): (Lord, - LORD,)
+	11 different, length same at 154; different word(s): (Lord, - LORD,)
+	12 different, length same at 194; different word(s): (Lord - LORD)
+	14 different, length same at 211; different word(s): (Lord - LORD)
+	15 different, length same at 207; different word(s): (Lord - LORD) (Lord - LORD)
+	17 different, length same at 202; different word(s): (Lord - LORD)
+	18 different, length same at 172; different word(s): (Lord - LORD)
+	20 different, length same at 180; different word(s): (Lord; - LORD;)
+
+Chapter: 02
+	1 different, length same at 194; different word(s): (Lord - LORD)
+	2 different, length same at 248; different word(s): (Lord - LORD)
+	5 different, length same at 198; different word(s): (Lord - LORD)
+	6 different, length same at 273; different word(s): (Lord - LORD)
+	7 different, length same at 217; different word(s): (Lord - LORD) (Lord, - LORD,)
+	8 different, length same at 225; different word(s): (Lord - LORD)
+	9 different, length same at 191; different word(s): (Lord. - LORD.)
+	17 different, length same at 255; different word(s): (Lord - LORD)
+	18 different, length same at 171; different word(s): (Lord, - LORD,)
+	19 different, length same at 236; different word(s): (Lord: - LORD:)
+	20 different, length same at 191; different word(s): (Lord, - LORD,)
+
+Chapter: 03
+	1 different, length same at 63; different word(s): (Am - AM)
+	18 different, length same at 62; different word(s): (Lord: - LORD:)
+	22 different, length same at 87; different word(s): (Lord's - LORD's)
+	24 different, length same at 68; different word(s): (Lord - LORD)
+	25 different, length same at 75; different word(s): (Lord - LORD)
+	26 different, length same at 86; different word(s): (Lord. - LORD.)
+	27 different, length same at 56, unknown difference:  Gutenberg (length=56): It is good for a man that he bear the yoke in his youth.; Biblegateway (length=56): It is good for a man that he bear the yoke of his youth.
+	31 different, length same at 40; different word(s): (Lord - LORD)
+	36 different, length same at 54; different word(s): (Lord - LORD)
+	40 different, length same at 59; different word(s): (Lord. - LORD.)
+	50 different, length same at 48; different word(s): (Lord - LORD)
+	55 different, length same at 55; different word(s): (Lord, - LORD,)
+	58 different, length same at 76; different word(s): (Lord, - LORD,)
+	59 different, length same at 53; different word(s): (Lord, - LORD,)
+	61 different, length same at 78; different word(s): (Lord, - LORD,)
+	64 different, length same at 76; different word(s): (Lord, - LORD,)
+
+Chapter: 04
+	11 different, length same at 152; different word(s): (Lord - LORD)
+	16 different, length same at 146; different word(s): (Lord - LORD)
+	20 different, length same at 145; different word(s): (Lord, - LORD,)
+
+Chapter: 05
+	1 different, length same at 74; different word(s): (Lord, - LORD,)
+	19 different, length same at 75; different word(s): (Lord, - LORD,)
+	21 different, length same at 81; different word(s): (Lord, - LORD,)

@@ -1,0 +1,70 @@
+Acts Summary of differences by chapter
+
+
+Chapter: 01
+
+Chapter: 02
+	39 different, length same at 125; different word(s): (Lord - LORD)
+
+Chapter: 03
+
+Chapter: 04
+
+Chapter: 05
+
+Chapter: 06
+
+Chapter: 07
+	31 different, length same at 115; different word(s): (Lord - LORD)
+
+Chapter: 08
+	24 different, length same at 119; different word(s): (Lord - LORD)
+
+Chapter: 09
+
+Chapter: 10
+
+Chapter: 11
+	20 different, length same at 137; different word(s): (Lord - LORD)
+
+Chapter: 12
+	11 different, length same at 207; different word(s): (Lord - LORD)
+
+Chapter: 13
+
+Chapter: 14
+
+Chapter: 15
+	11 different, length same at 95; different word(s): (Lord - LORD)
+	36 different, length same at 163; different word(s): (Lord, - LORD,)
+
+Chapter: 16
+
+Chapter: 17
+	23 different, length same at 168; different word(s): (To - TO) (The - THE) (Unknown - UNKNOWN) (God. - GOD.)
+
+Chapter: 18
+
+Chapter: 19
+	13 different, length same at 181; different word(s): (Lord - LORD)
+
+Chapter: 20
+	19 different, length same at 131; different word(s): (Lord - LORD)
+	20 different, lengths different;  Gutenberg (length=133): And how I kept back nothing that was profitable unto you, but have shewed you, and have taught you publicly, and from house to house,; Biblegateway (length=134): And how I kept back nothing that was profitable unto you, but have shewed you, and have taught you publickly, and from house to house,
+
+Chapter: 21
+
+Chapter: 22
+	10 different, length same at 172; different word(s): (Lord? - LORD?)
+
+Chapter: 23
+
+Chapter: 24
+
+Chapter: 25
+
+Chapter: 26
+
+Chapter: 27
+
+Chapter: 28

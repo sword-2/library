@@ -1,0 +1,86 @@
+Amos Summary of differences by chapter
+
+
+Chapter: 01
+	2 different, length same at 164; different word(s): (Lord - LORD)
+	3 different, length same at 187; different word(s): (Lord; - LORD;)
+	5 different, length same at 220; different word(s): (Lord. - LORD.)
+	6 different, length same at 196; different word(s): (Lord; - LORD;)
+	8 different, length same at 204; different word(s): (God. - GOD.)
+	9 different, length same at 212; different word(s): (Lord; - LORD;)
+	11 different, length same at 258; different word(s): (Lord; - LORD;)
+	13 different, length same at 228; different word(s): (Lord; - LORD;)
+
+Chapter: 02
+	1 different, length same at 172; different word(s): (Lord; - LORD;)
+	3 different, length same at 116; different word(s): (Lord. - LORD.)
+	4 different, length same at 276; different word(s): (Lord; - LORD;) (Lord, - LORD,)
+	6 different, length same at 193; different word(s): (Lord; - LORD;)
+	11 different, length same at 141; different word(s): (Lord. - LORD.)
+
+Chapter: 03
+	1 different, length same at 151; different word(s): (Lord - LORD)
+	6 different, length same at 129; different word(s): (Lord - LORD)
+	7 different, length same at 96; different word(s): (God - GOD)
+	8 different, length same at 88; different word(s): (God - GOD)
+	10 different, length same at 98; different word(s): (Lord, - LORD,)
+	11 different, length same at 171; different word(s): (God; - GOD;)
+	12 different, length same at 223; different word(s): (Lord; - LORD;)
+	13 different, length same at 81; different word(s): (God, - GOD,)
+
+Chapter: 04
+	2 different, length same at 154; different word(s): (God - GOD)
+	3 different, length same at 131; different word(s): (Lord. - LORD.)
+	5 different, length same at 161; different word(s): (God. - GOD.)
+	6 different, length same at 152; different word(s): (Lord. - LORD.)
+	8 different, length same at 141; different word(s): (Lord. - LORD.)
+	9 different, length same at 212; different word(s): (Lord. - LORD.)
+	10 different, length same at 261; different word(s): (Lord. - LORD.)
+	11 different, length same at 172; different word(s): (Lord. - LORD.)
+
+Chapter: 05
+	3 different, length same at 170; different word(s): (God; - GOD;)
+	4 different, length same at 80; different word(s): (Lord - LORD)
+	6 different, length same at 142; different word(s): (Lord, - LORD,)
+	8 different, length same at 244; different word(s): (Lord - LORD)
+	14 different, length same at 115; different word(s): (Lord, - LORD,)
+	15 different, length same at 151; different word(s): (Lord - LORD)
+	16 different, length same at 243; different word(s): (Lord, - LORD,) (Lord, - LORD,)
+	17 different, length same at 84; different word(s): (Lord. - LORD.)
+	18 different, length same at 120; different word(s): (Lord! - LORD!) (Lord - LORD)
+	20 different, length same at 98; different word(s): (Lord - LORD)
+
+Chapter: 06
+	8 different, length same at 186; different word(s): (God - GOD) (Lord - LORD)
+	10 different, length same at 299; different word(s): (Lord. - LORD.)
+	11 different, length same at 116; different word(s): (Lord - LORD)
+
+Chapter: 07
+	1 different, length same at 192; different word(s): (God - GOD)
+	2 different, length same at 178; different word(s): (God, - GOD,)
+	3 different, length same at 60; different word(s): (Lord - LORD) (Lord. - LORD.)
+	4 different, length same at 146; different word(s): (God - GOD) (God - GOD)
+	5 different, length same at 91; different word(s): (God, - GOD,)
+	6 different, length same at 71; different word(s): (Lord - LORD) (God. - GOD.)
+	7 different, length same at 109; different word(s): (Lord - LORD)
+	8 different, length same at 199; different word(s): (Lord - LORD) (Lord, - LORD,)
+	15 different, length same at 108; different word(s): (Lord - LORD) (Lord - LORD)
+	16 different, length same at 137; different word(s): (Lord: - LORD:)
+
+Chapter: 08
+	1 different, length same at 75; different word(s): (God - GOD)
+	2 different, length same at 183; different word(s): (Lord - LORD)
+	3 different, length same at 167; different word(s): (God: - GOD:)
+	7 different, length same at 94; different word(s): (Lord - LORD)
+	9 different, length same at 150; different word(s): (God, - GOD,)
+	11 different, length same at 166; different word(s): (God, - GOD,) (Lord: - LORD:)
+	12 different, length same at 154; different word(s): (Lord, - LORD,)
+
+Chapter: 09
+	1 different, length same at 293; different word(s): (Lord - LORD)
+	5 different, length same at 204; different word(s): (God - GOD)
+	6 different, length same at 204; different word(s): (Lord - LORD)
+	7 different, length same at 202; different word(s): (Lord. - LORD.)
+	8 different, length same at 190; different word(s): (God - GOD) (Lord. - LORD.)
+	12 different, length same at 127; different word(s): (Lord - LORD)
+	13 different, length same at 201; different word(s): (Lord, - LORD,)

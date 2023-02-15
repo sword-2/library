@@ -1,0 +1,61 @@
+Luke Summary of differences by chapter
+
+
+Chapter: 01
+	5 different, length same at 180; different word(s): (There - THERE)
+	31 different, length same at 99; different word(s): (Jesus. - JESUS.)
+	54 different, length same at 63, unknown difference:  Gutenberg (length=63): He hath helped his servant Israel, in remembrance of his mercy;; Biblegateway (length=63): He hath holpen his servant Israel, in remembrance of his mercy;
+
+Chapter: 02
+	21 different, length same at 168; different word(s): (Jesus, - JESUS,)
+	23 different, length same at 109; different word(s): (Lord, - LORD,)
+
+Chapter: 03
+
+Chapter: 04
+
+Chapter: 05
+
+Chapter: 06
+
+Chapter: 07
+
+Chapter: 08
+
+Chapter: 09
+
+Chapter: 10
+	1 different, length same at 157; different word(s): (Lord - LORD)
+
+Chapter: 11
+
+Chapter: 12
+
+Chapter: 13
+
+Chapter: 14
+
+Chapter: 15
+
+Chapter: 16
+
+Chapter: 17
+	27 different, lengths different;  Gutenberg (length=164): They did eat, they drank, they married wives, they were given in marriage, until the day that Noah entered into the ark, and the flood came, and destroyed them all.; Biblegateway (length=163): They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all.
+
+Chapter: 18
+
+Chapter: 19
+
+Chapter: 20
+	42 different, length same at 101; different word(s): (Lord - LORD)
+
+Chapter: 21
+
+Chapter: 22
+
+Chapter: 23
+	38 different, length same at 120; different word(s): (This - THIS) (Is - IS) (The - THE) (King - KING) (Of - OF) (The - THE) (Jews. - JEWS.)
+	43 different, lengths different;  Gutenberg (length=89): And Jesus said unto him, Verily I say unto thee, Today shalt thou be with me in paradise.; Biblegateway (length=90): And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.
+
+Chapter: 24
+	46 different, lengths different;  Gutenberg (length=119): And said unto them, Thus it is written, and thus it behooved Christ to suffer, and to rise from the dead the third day:; Biblegateway (length=118): And said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:

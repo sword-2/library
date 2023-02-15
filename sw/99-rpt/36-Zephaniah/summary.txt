@@ -1,0 +1,33 @@
+Zephaniah Summary of differences by chapter
+
+
+Chapter: 01
+	1 different, length same at 179; different word(s): (Lord - LORD)
+	2 different, length same at 68; different word(s): (Lord. - LORD.)
+	3 different, length same at 196; different word(s): (Lord. - LORD.)
+	5 different, length same at 137; different word(s): (Lord, - LORD,)
+	6 different, length same at 107; different word(s): (Lord; - LORD;) (Lord, - LORD,)
+	7 different, length same at 147; different word(s): (God: - GOD:) (Lord - LORD) (Lord - LORD)
+	8 different, length same at 168; different word(s): (Lord's - LORD's)
+	10 different, length same at 182; different word(s): (Lord, - LORD,)
+	12 different, length same at 210; different word(s): (Lord - LORD)
+	14 different, length same at 147; different word(s): (Lord - LORD) (Lord: - LORD:)
+	17 different, length same at 189; different word(s): (Lord: - LORD:)
+
+Chapter: 02
+	2 different, length same at 165; different word(s): (Lord - LORD) (Lord's - LORD's)
+	3 different, length same at 169; different word(s): (Lord, - LORD,) (Lord's - LORD's)
+	5 different, length same at 210; different word(s): (Lord - LORD)
+	7 different, length same at 222; different word(s): (Lord - LORD)
+	9 different, length same at 298; different word(s): (Lord - LORD)
+	10 different, length same at 132; different word(s): (Lord - LORD)
+	11 different, length same at 170; different word(s): (Lord - LORD)
+
+Chapter: 03
+	2 different, length same at 113; different word(s): (Lord; - LORD;)
+	5 different, length same at 163; different word(s): (Lord - LORD)
+	8 different, length same at 293; different word(s): (Lord, - LORD,)
+	9 different, length same at 132; different word(s): (Lord, - LORD,)
+	12 different, length same at 114; different word(s): (Lord. - LORD.)
+	15 different, length same at 163; different word(s): (Lord - LORD) (Lord, - LORD,)
+	17 different, length same at 160; different word(s): (Lord - LORD)

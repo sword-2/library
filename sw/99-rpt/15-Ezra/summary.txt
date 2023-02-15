@@ -1,0 +1,47 @@
+Ezra Summary of differences by chapter
+
+
+Chapter: 01
+	1 different, length same at 265; different word(s): (Lord - LORD) (Lord - LORD)
+	2 different, length same at 178; different word(s): (Lord - LORD)
+	3 different, length same at 200; different word(s): (Lord - LORD)
+	5 different, length same at 200; different word(s): (Lord - LORD)
+	7 different, length same at 171; different word(s): (Lord, - LORD,)
+
+Chapter: 02
+	68 different, length same at 163; different word(s): (Lord - LORD)
+
+Chapter: 03
+	3 different, length same at 201; different word(s): (Lord, - LORD,)
+	5 different, length same at 210; different word(s): (Lord - LORD) (Lord. - LORD.)
+	6 different, length same at 153; different word(s): (Lord. - LORD.) (Lord - LORD)
+	8 different, length same at 404; different word(s): (Lord. - LORD.)
+	10 different, length same at 234; different word(s): (Lord, - LORD,) (Lord, - LORD,)
+	11 different, length same at 277; different word(s): (Lord; - LORD;) (Lord, - LORD,) (Lord - LORD)
+
+Chapter: 04
+	1 different, length same at 135; different word(s): (Lord - LORD)
+	3 different, length same at 275; different word(s): (Lord - LORD)
+
+Chapter: 05
+
+Chapter: 06
+	21 different, length same at 207; different word(s): (Lord - LORD)
+
+Chapter: 07
+	6 different, length same at 212; different word(s): (Lord - LORD) (Lord - LORD)
+	10 different, length same at 121; different word(s): (Lord, - LORD,)
+	11 different, length same at 189; different word(s): (Lord, - LORD,)
+	27 different, length same at 153; different word(s): (Lord - LORD) (Lord - LORD)
+
+Chapter: 08
+	28 different, length same at 162; different word(s): (Lord; - LORD;) (Lord - LORD)
+	29 different, length same at 185; different word(s): (Lord. - LORD.)
+	35 different, length same at 299; different word(s): (Lord. - LORD.)
+
+Chapter: 09
+	5 different, length same at 168; different word(s): (Lord - LORD)
+	8 different, length same at 227; different word(s): (Lord - LORD)
+
+Chapter: 10
+	11 different, length same at 166; different word(s): (Lord - LORD)

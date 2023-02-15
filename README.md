@@ -2,7 +2,7 @@
 
 ## Why the project is useful? 
 
-n/a - draft
+n/a - still being fixed
 
 ## What can be done with the project. 
 
@@ -14,13 +14,19 @@ n/a
 
 ## Comments
 
-The content tries to be another option to read selected scriptures. The initial repo is just a King James Version (kjv) plain text which was reformatted from a large Gutenberg file a few years back. It probably doesn't conform to the SWORD project verse per line (vpl) format, but does vpl concepts. The references below identify some other bible texts and OSIS files advertised on the internet since this isn't the first repo. The SWORD project already published Project KJV2006 also listed in the references, and that page cautioned about some ill-formed XML. No attempt was made to convert this to OSIS because there were textual criticism questions described more in the [doxygen](https://sword-2.github.io/library/html/html/index.html). If the textual criticism is figured out, a shell script in the repo might be modified to convert text to OSIS.
+The kjv folder reformatted scriptures for personal use and for preparing to apply automation. The kjv acronym is for a King James Version (KJV) plain text bible which was reformatted from another organization.
 
-If someone decided to attempt to read the KJV version on this repo, a download/clone to the local device is the first step. If the content needs to be unzipped or extracted, that is another step. Then keep the kjv folder but delete the other folders to remove reader clutter. It is hoped that a file manager and common text file viewer may then enable random access of KJV scriptures by selecting the folder for the desired bible book and the file for the chapter number.
+At this time, the KJV file format probably doesn't conform to the SWORD project verse per line (vpl). But it does similar concepts. Personal use reading was done by downloading/cloning content to the local [mobile] device and then unzipping or extracting the content. Then a file manager/explorer was used to open text files for the desired chapter. The chapter is selected in the kjv folder by clicking on a book folder and then a chapter file number. 
 
+How to download? In the past, a download button was remembered on github. But recently this was no longer observed on a mobile device browser. Thus, another [web site](https://downgit.github.io/) was used to download the repo to the local device.
 
-References:
+## Text accuracy
+
+A [doxygen](https://sword-2.github.io/library/html/html/index.html) file is still in progress to describe differences observed between the Gutenberg and biblegateway scriptures as a way to sanity check the repo content is OK. 
+
+## Other projects
+
+The bible text was certainly not the first on the internet. In addition to Gutenberg, biblegateway, etc, the list below found a few more efforts.
 1. [Project KJV2006](https://www.crosswire.org/~dmsmith/kjv2006/)
 2. [Sefaria](https://github.com/Sefaria/Sefaria-Export/tree/master/txt/Tanakh)
-3. [Gutenberg](https://www.gutenberg.org/ebooks/10)
-4. [gratis-bible](https://github.com/gratis-bible/bible)
+3. [gratis-bible](https://github.com/gratis-bible/bible)

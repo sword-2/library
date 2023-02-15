@@ -1,0 +1,45 @@
+1 Corinthians Summary of differences by chapter
+
+
+Chapter: 01
+
+Chapter: 02
+
+Chapter: 03
+
+Chapter: 04
+
+Chapter: 05
+	11 different, length same at 213, unknown difference:  Gutenberg (length=213): But now I have written unto you not to keep company, if any man that is called a brother be a fornicator, or covetous, or an idolator, or a railer, or a drunkard, or an extortioner; with such an one no not to eat.; Biblegateway (length=213): But now I have written unto you not to keep company, if any man that is called a brother be a fornicator, or covetous, or an idolater, or a railer, or a drunkard, or an extortioner; with such an one no not to eat.
+
+Chapter: 06
+
+Chapter: 07
+	8 different, length same at 89; different word(s): (it - It)
+
+Chapter: 08
+
+Chapter: 09
+	1 different, lengths different;  Gutenberg (length=109): Am I am not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?; Biblegateway (length=106): Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?
+	9 different, length same at 137; different word(s): (thou - Thou)
+
+Chapter: 10
+	11 different, lengths different;  Gutenberg (length=136): Now all these things happened unto them for examples: and they are written for our admonition, upon whom the ends of the world are come.; Biblegateway (length=137): Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come.
+	28 different, length same at 185; different word(s): (this - This)
+
+Chapter: 11
+	22 different, length same at 182; different word(s): (what - What)
+	23 different, length same at 141; different word(s): (that - That)
+	25 different, length same at 171; different word(s): (this - This)
+
+Chapter: 12
+
+Chapter: 13
+
+Chapter: 14
+	21 different, length same at 157; different word(s): (Lord. - LORD.)
+
+Chapter: 15
+	31 different, length same at 79; different word(s): (Lord, - LORD,)
+
+Chapter: 16
