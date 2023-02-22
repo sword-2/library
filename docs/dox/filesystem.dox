@@ -1,6 +1,6 @@
 /*! \page filesystem "Filesystem overview"
 
-The repo's folders last time this was updated
+The repo's folders included ...
 
 
 <table border=1><caption>repo's folders</caption>
@@ -14,9 +14,15 @@ The repo's folders last time this was updated
 </tr>
 <tr>
 	<td>sw</td>
-	<td>software and reports from checks to compare scripture data sources.</td>
+	<td>software and reports. Includes reports that compared scripture data sources. Someone only interested to read scripture might just delete this folder.</td>
 </tr>
 
+<tr>
+	<td>docs</td>
+	<td>A github folder for "github pages"; It helps web pages work.</td>
+</tr>
+
+</table>
 */
 
 

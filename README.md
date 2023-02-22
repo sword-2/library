@@ -2,7 +2,7 @@
 
 ## Why the project is useful? 
 
-n/a - working towards utility
+n/a - in progress
 
 ## What can be done with the project. 
 
@@ -22,13 +22,14 @@ How to download? In the past, a download button was remembered on github. But re
 
 ## Text accuracy
 
-A [doxygen](https://sword-2.github.io/library/html/html/index.html) file describes the estimated accuracy of these scriptures. Partial checking was done thus far.
+A [doxygen](https://sword-2.github.io/library/html/html/index.html) file describes the estimated accuracy of these scriptures.
 
 ## Other projects
 
 This repo is not the first to attempt to supply bible text. The list below identifies some more supplies, but is not complete. It is possible this repo may make it easier to browse simple text for kjv without installing a new app.
 1. [Gutenberg](https://www.gutenberg.org/ebooks/10)
-2. [BibleGateway](https://www.biblegateway.com/)
-3. [Project KJV2006](https://www.crosswire.org/~dmsmith/kjv2006/)
-4. [Sefaria](https://github.com/Sefaria/Sefaria-Export/tree/master/txt/Tanakh)
-5. [gratis-bible](https://github.com/gratis-bible/bible)
+2. [OSIS Bible Tool](https://crosswire.org/study/)
+3. [BibleGateway](https://www.biblegateway.com/)
+4. [Project KJV2006](https://www.crosswire.org/~dmsmith/kjv2006/)
+5. [Sefaria](https://github.com/Sefaria/Sefaria-Export/tree/master/txt/Tanakh)
+6. [gratis-bible](https://github.com/gratis-bible/bible)

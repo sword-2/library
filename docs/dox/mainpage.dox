@@ -1,16 +1,13 @@
 /** @mainpage mainpage - comparison of Gutenberg and BibleGateway
 
 
-A Gutenberg text bible kjv was reformatted using manual and automated methods to divide it up into separate chapters. To minimize accidental errors, the content was checked with a shell script (sw/0). One goal of reformatting was to facilitate machine reading of the scriptures (verse per line format). The script in the sw directory was run on the command line with "./0 c". The script looped through all the kjv scriptures in the repo and compared each one to the same verse from biblegateway.com. The shell script reported results to the sub-folder sw/99-rpt/, which has a file for each chapter and more.
+A Gutenberg text bible kjv was reformatted using manual and automated methods to divide it up into separate chapters. To minimize accidental errors, the content was partly checked with a shell script (sw/0). One goal of reformatting was to facilitate machine reading of the scriptures (verse per line format). The script in the sw directory was run on the command line with "./0 c". The script looped through all the kjv scriptures in the repo and compared each one to the same verse from biblegateway.com. The shell script reported results to the sub-folder sw/99-rpt/, which is summarized in a link at the end of this file.
 <br>
-Some changes were done manually, like dividing a big text to smaller chapters, removing line breaks to achieve verse per line format, and removing Windows characters. Also, the names of some books were shortened to names assumed to be understood.
-<br>
-If the script comparison observed the verse was the same, the report just puts a hyphen (-) after the verse number. Sometimes the shell script determined there were differences. Most of the differences were believed to be due to upper/lower case differences because because the browser changed case using html/js/css after the server sent the text. For example, the word 'Lord' sent by biblegateway might be changed to LORD in the browser by the html/js/css. The shell script only looked at the network text and didn't attempt html/js/css operations. So the report of differences omitted the common case difference (Lord - LORD), but hopefully reported all the other differences observed. A link is supplied below to examine a summary of differences 
-<br><br>
+Some changes were done on purpose like dividing a big text file to smaller chapter files, removing extra line breaks to achieve verse per line format, and removing Windows characters (CR + LF). While the Windows OS is powerful, this processing was done on Linux so the Windows characters were removed. Also, the names of some books were shortened to smaller names assumed to be understood. A sub-page link below describes this.
 
+<br><br>
 The shell script named 0 uses two C++ programs in the subfolder sw/c++ to extract a verse out of a web page. Any server interfaces that can send a raw verse without any extra content would eliminate such extra software. The make program has to be run to build the c++ code for the local machine. Installation of supporting libraries for make was skipped and was the Linux configuration. The software was fairly simple.
 <br><br>
-
 
 <br><br>
 The shell script 0 is also capable of calculating md5 checksums for each chapter. The command to do it from the script directory was ./0 md5. It puts a md5 file in the sw directory. The hope of the checksum was to capture the configuration of scriptures so no more unexpected differences could be introduced. Of course, some of the observed differences need to be resolved first so the checksums don't have to be updated. This would be a work in progress.
@@ -21,10 +18,10 @@ A second shell script (sw/1) read all the resuls for a particular book and summa
 <br><br>
 <table border=1><caption>Sub-pages</caption>
 <tr><th>Name / Link</th></tr>
-	<tr><td>\subpage differences "Differences"</td></tr>
+	<tr><td>\subpage differences-script "Differences from script"</td></tr>
+	<tr><td>\subpage differences-Names "Differences in book names"</td></tr>
 	<tr><td>\subpage filesystem "files and directory overview"</td></tr>
 	<tr><td>\subpage acronyms "Acronyms"</td></tr>
-</table>
-
+</table> 
 
 */
