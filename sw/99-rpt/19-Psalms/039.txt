@@ -3,7 +3,7 @@ Psalms 039
 1 -
 2 -
 3 -
-4  different, length same at 103; different word(s): (Lord, - LORD,)
+4  different, length same at 103; different word(s): (LORD, - Lord,)
 5 -
 6 -
 7 -
@@ -11,5 +11,5 @@ Psalms 039
 9 -
 10 -
 11 -
-12  different, length same at 153; different word(s): (Lord, - LORD,)
+12  different, length same at 153; different word(s): (LORD, - Lord,)
 13 -

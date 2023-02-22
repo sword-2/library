@@ -2,9 +2,9 @@ Obadiah Summary of differences by chapter
 
 
 Chapter: 01
-	1 different, length same at 198; different word(s): (God - GOD) (Lord, - LORD,)
-	4 different, length same at 132; different word(s): (Lord. - LORD.)
-	7 different, length same at 243, unknown difference:  Gutenberg (length=243): All the men of thy confederacy have brought thee even to the border: the men that were at peace with thee have deceived thee, and prevailed against thee; they that eat thy bread have laid a wound under thee: there is none understanding in him.; Biblegateway (length=243): All the men of thy confederacy have brought thee even to the border: the men that were at peace with thee have deceived thee, and prevailed against thee; that they eat thy bread have laid a wound under thee: there is none understanding in him.
-	8 different, length same at 123; different word(s): (Lord, - LORD,)
-	15 different, length same at 145; different word(s): (Lord - LORD)
-	18 different, length same at 243; different word(s): (Lord - LORD)
+	1 different, length same at 198; different word(s): (GOD - God) (LORD, - Lord,)
+	4 different, length same at 132; different word(s): (LORD. - Lord.)
+	7 different, length same at 243, unknown difference:  Gutenberg (length=243): All the men of thy confederacy have brought thee even to the border: the men that were at peace with thee have deceived thee, and prevailed against thee; that they eat thy bread have laid a wound under thee: there is none understanding in him.; Biblegateway (length=243): All the men of thy confederacy have brought thee even to the border: the men that were at peace with thee have deceived thee, and prevailed against thee; they that eat thy bread have laid a wound under thee: there is none understanding in him.
+	8 different, length same at 123; different word(s): (LORD, - Lord,)
+	15 different, length same at 145; different word(s): (LORD - Lord)
+	18 different, length same at 243; different word(s): (LORD - Lord)

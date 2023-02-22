@@ -1,22 +1,22 @@
 Jeremiah 13
 
-1  different, length same at 112; different word(s): (Lord - LORD)
-2  different, length same at 76; different word(s): (Lord, - LORD,)
-3  different, length same at 62; different word(s): (Lord - LORD)
+1  different, length same at 112; different word(s): (LORD - Lord)
+2  different, length same at 76; different word(s): (LORD, - Lord,)
+3  different, length same at 62; different word(s): (LORD - Lord)
 4 -
-5  different, length same at 61; different word(s): (Lord - LORD)
-6  different, length same at 159; different word(s): (Lord - LORD)
+5  different, length same at 61; different word(s): (LORD - Lord)
+6  different, length same at 159; different word(s): (LORD - Lord)
 7 -
-8  different, length same at 47; different word(s): (Lord - LORD)
-9  different, length same at 103; different word(s): (Lord, - LORD,)
+8  different, length same at 47; different word(s): (LORD - Lord)
+9  different, length same at 103; different word(s): (LORD, - Lord,)
 10 -
-11  different, length same at 273; different word(s): (Lord; - LORD;)
-12  different, length same at 222; different word(s): (Lord - LORD)
-13  different, length same at 241; different word(s): (Lord, - LORD,)
-14  different, length same at 159; different word(s): (Lord: - LORD:)
-15  different, length same at 62; different word(s): (Lord - LORD)
-16  different, length same at 207; different word(s): (Lord - LORD)
-17  different, length same at 184; different word(s): (Lord's - LORD's)
+11  different, length same at 273; different word(s): (LORD; - Lord;)
+12  different, length same at 222; different word(s): (LORD - Lord)
+13  different, length same at 241; different word(s): (LORD, - Lord,)
+14  different, length same at 159; different word(s): (LORD: - Lord:)
+15  different, length same at 62; different word(s): (LORD - Lord)
+16  different, length same at 207; different word(s): (LORD - Lord)
+17  different, length same at 184; different word(s): (LORD's - Lord's)
 18 -
 19 -
 20 -
@@ -24,6 +24,6 @@ Jeremiah 13
 22 -
 23 -
 24 -
-25  different, length same at 127; different word(s): (Lord; - LORD;)
+25  different, length same at 127; different word(s): (LORD; - Lord;)
 26 -
 27 -

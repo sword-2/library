@@ -1,6 +1,6 @@
 2 Kings 04
 
-1  different, length same at 247; different word(s): (Lord: - LORD:)
+1  different, length same at 247; different word(s): (LORD: - Lord:)
 2 -
 3 -
 4 -
@@ -26,13 +26,13 @@
 24 -
 25 -
 26 -
-27  different, length same at 247; different word(s): (Lord - LORD)
+27  different, length same at 247; different word(s): (LORD - Lord)
 28 -
 29 -
-30  different, length same at 132; different word(s): (Lord - LORD)
+30  different, length same at 132; different word(s): (LORD - Lord)
 31 -
 32 -
-33  different, length same at 82; different word(s): (Lord. - LORD.)
+33  different, length same at 82; different word(s): (LORD. - Lord.)
 34 -
 35 -
 36 -
@@ -42,5 +42,5 @@
 40 -
 41 -
 42 -
-43  different, length same at 186; different word(s): (Lord, - LORD,)
-44  different, length same at 96; different word(s): (Lord. - LORD.)
+43  different, length same at 186; different word(s): (LORD, - Lord,)
+44  different, length same at 96; different word(s): (LORD. - Lord.)

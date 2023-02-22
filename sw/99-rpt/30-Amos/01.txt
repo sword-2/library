@@ -1,17 +1,17 @@
 Amos 01
 
 1 -
-2  different, length same at 164; different word(s): (Lord - LORD)
-3  different, length same at 187; different word(s): (Lord; - LORD;)
+2  different, length same at 164; different word(s): (LORD - Lord)
+3  different, length same at 187; different word(s): (LORD; - Lord;)
 4 -
-5  different, length same at 220; different word(s): (Lord. - LORD.)
-6  different, length same at 196; different word(s): (Lord; - LORD;)
+5  different, length same at 220; different word(s): (LORD. - Lord.)
+6  different, length same at 196; different word(s): (LORD; - Lord;)
 7 -
-8  different, length same at 204; different word(s): (God. - GOD.)
-9  different, length same at 212; different word(s): (Lord; - LORD;)
+8  different, length same at 204; different word(s): (GOD. - God.)
+9  different, length same at 212; different word(s): (LORD; - Lord;)
 10 -
-11  different, length same at 258; different word(s): (Lord; - LORD;)
+11  different, length same at 258; different word(s): (LORD; - Lord;)
 12 -
-13  different, length same at 228; different word(s): (Lord; - LORD;)
+13  different, length same at 228; different word(s): (LORD; - Lord;)
 14 -
-15  different, length same at 84; different word(s): (Lord. - LORD.)
+15  different, length same at 84; different word(s): (LORD. - Lord.)

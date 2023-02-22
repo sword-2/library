@@ -16,15 +16,15 @@ Exodus 23
 14 -
 15 -
 16 -
-17  different, length same at 71, unknown difference:  Gutenberg (length=71): Three times in the year all thy males shall appear before the Lord God.; Biblegateway (length=71): Three items in the year all thy males shall appear before the LORD God.
+17  different, length same at 71, unknown difference:  Gutenberg (length=71): Three items in the year all thy males shall appear before the LORD God.; Biblegateway (length=71): Three times in the year all thy males shall appear before the Lord God.
 18 -
-19  different, length same at 143; different word(s): (Lord - LORD)
+19  different, length same at 143; different word(s): (LORD - Lord)
 20 -
 21 -
 22 -
 23 -
 24 -
-25  different, length same at 136; different word(s): (Lord - LORD)
+25  different, length same at 136; different word(s): (LORD - Lord)
 26 -
 27 -
 28 -

@@ -1,7 +1,7 @@
 2 Timothy 04
 
 1 -
-2  different, lengths different;  Gutenberg (length=115): Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all long suffering and doctrine.; Biblegateway (length=114): Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine.
+2  different, lengths different;  Gutenberg (length=114): Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine.; Biblegateway (length=115): Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all long suffering and doctrine.
 3 -
 4 -
 5 -

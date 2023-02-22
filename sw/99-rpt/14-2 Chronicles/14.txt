@@ -1,17 +1,17 @@
 2 Chronicles 14
 
 1 -
-2  different, length same at 74; different word(s): (Lord - LORD)
+2  different, length same at 74; different word(s): (LORD - Lord)
 3 -
-4  different, length same at 97; different word(s): (Lord - LORD)
+4  different, length same at 97; different word(s): (LORD - Lord)
 5 -
-6  different, length same at 130; different word(s): (Lord - LORD)
-7  different, length same at 276; different word(s): (Lord - LORD)
+6  different, length same at 130; different word(s): (LORD - Lord)
+7  different, length same at 276; different word(s): (LORD - Lord)
 8 -
 9 -
 10 -
-11  different, length same at 288; different word(s): (Lord - LORD) (Lord, - LORD,) (Lord - LORD) (Lord, - LORD,)
-12  different, length same at 87; different word(s): (Lord - LORD)
-13  different, length same at 243; different word(s): (Lord, - LORD,)
-14  different, length same at 166; different word(s): (Lord - LORD)
+11  different, length same at 288; different word(s): (LORD - Lord) (LORD, - Lord,) (LORD - Lord) (LORD, - Lord,)
+12  different, length same at 87; different word(s): (LORD - Lord)
+13  different, length same at 243; different word(s): (LORD, - Lord,)
+14  different, length same at 166; different word(s): (LORD - Lord)
 15 -

@@ -4,21 +4,21 @@ Lamentations 01
 2 -
 3 -
 4 -
-5  different, length same at 179; different word(s): (Lord - LORD)
+5  different, length same at 179; different word(s): (LORD - Lord)
 6 -
 7 -
 8 -
-9  different, length same at 193; different word(s): (Lord, - LORD,)
+9  different, length same at 193; different word(s): (LORD, - Lord,)
 10 -
-11  different, length same at 154; different word(s): (Lord, - LORD,)
-12  different, length same at 194; different word(s): (Lord - LORD)
+11  different, length same at 154; different word(s): (LORD, - Lord,)
+12  different, length same at 194; different word(s): (LORD - Lord)
 13 -
-14  different, length same at 211; different word(s): (Lord - LORD)
-15  different, length same at 207; different word(s): (Lord - LORD) (Lord - LORD)
+14  different, length same at 211; different word(s): (LORD - Lord)
+15  different, length same at 207; different word(s): (LORD - Lord) (LORD - Lord)
 16 -
-17  different, length same at 202; different word(s): (Lord - LORD)
-18  different, length same at 172; different word(s): (Lord - LORD)
+17  different, length same at 202; different word(s): (LORD - Lord)
+18  different, length same at 172; different word(s): (LORD - Lord)
 19 -
-20  different, length same at 180; different word(s): (Lord; - LORD;)
+20  different, length same at 180; different word(s): (LORD; - Lord;)
 21 -
 22 -

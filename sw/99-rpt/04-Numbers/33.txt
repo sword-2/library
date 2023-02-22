@@ -1,13 +1,13 @@
 Numbers 33
 
 1 -
-2  different, length same at 152; different word(s): (Lord: - LORD:)
+2  different, length same at 152; different word(s): (LORD: - Lord:)
 3 -
-4  different, length same at 134; different word(s): (Lord - LORD) (Lord - LORD)
+4  different, length same at 134; different word(s): (LORD - Lord) (LORD - Lord)
 5 -
 6 -
 7 -
-8  different, lengths different;  Gutenberg (length=180): And they departed from before Pihahiroth, and passed through the midst of the sea into the wilderness, and went three days'journey in the wilderness of Etham, and pitched in Marah.; Biblegateway (length=181): And they departed from before Pihahiroth, and passed through the midst of the sea into the wilderness, and went three days' journey in the wilderness of Etham, and pitched in Marah.
+8  different, lengths different;  Gutenberg (length=181): And they departed from before Pihahiroth, and passed through the midst of the sea into the wilderness, and went three days' journey in the wilderness of Etham, and pitched in Marah.; Biblegateway (length=180): And they departed from before Pihahiroth, and passed through the midst of the sea into the wilderness, and went three days'journey in the wilderness of Etham, and pitched in Marah.
 9 -
 10 -
 11 -
@@ -37,7 +37,7 @@ Numbers 33
 35 -
 36 -
 37 -
-38  different, length same at 214; different word(s): (Lord, - LORD,)
+38  different, length same at 214; different word(s): (LORD, - Lord,)
 39 -
 40 -
 41 -
@@ -49,7 +49,7 @@ Numbers 33
 47 -
 48 -
 49 -
-50  different, length same at 83; different word(s): (Lord - LORD)
+50  different, length same at 83; different word(s): (LORD - Lord)
 51 -
 52 -
 53 -

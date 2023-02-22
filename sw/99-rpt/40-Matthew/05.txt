@@ -20,7 +20,7 @@ Matthew 05
 18 -
 19 -
 20 -
-21  different, length same at 133, unknown difference:  Gutenberg (length=133): Ye have heard that it was said of them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:; Biblegateway (length=133): Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:
+21  different, length same at 133, unknown difference:  Gutenberg (length=133): Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:; Biblegateway (length=133): Ye have heard that it was said of them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:
 22 -
 23 -
 24 -

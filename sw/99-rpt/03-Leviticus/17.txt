@@ -1,14 +1,14 @@
 Leviticus 17
 
-1  different, length same at 38; different word(s): (Lord - LORD)
-2  different, length same at 149; different word(s): (Lord - LORD)
+1  different, length same at 38; different word(s): (LORD - Lord)
+2  different, length same at 149; different word(s): (LORD - Lord)
 3 -
-4  different, length same at 253; different word(s): (Lord - LORD) (Lord; - LORD;)
-5  different, length same at 267; different word(s): (Lord, - LORD,) (Lord. - LORD.)
-6  different, length same at 168; different word(s): (Lord - LORD) (Lord. - LORD.)
+4  different, length same at 253; different word(s): (LORD - Lord) (LORD; - Lord;)
+5  different, length same at 267; different word(s): (LORD, - Lord,) (LORD. - Lord.)
+6  different, length same at 168; different word(s): (LORD - Lord) (LORD. - Lord.)
 7 -
 8 -
-9  different, length same at 153; different word(s): (Lord; - LORD;)
+9  different, length same at 153; different word(s): (LORD; - Lord;)
 10 -
 11 -
 12 -

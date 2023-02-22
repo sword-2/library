@@ -12,7 +12,7 @@
 10 -
 11 -
 12 -
-13  different, length same at 124, unknown difference:  Gutenberg (length=124): For we write none other things unto you, that what ye read or acknowledge; and I trust ye shall acknowledge even to the end;; Biblegateway (length=124): For we write none other things unto you, than what ye read or acknowledge; and I trust ye shall acknowledge even to the end;
+13  different, length same at 124, unknown difference:  Gutenberg (length=124): For we write none other things unto you, than what ye read or acknowledge; and I trust ye shall acknowledge even to the end;; Biblegateway (length=124): For we write none other things unto you, that what ye read or acknowledge; and I trust ye shall acknowledge even to the end;
 14 -
 15 -
 16 -

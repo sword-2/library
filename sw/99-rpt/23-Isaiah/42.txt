@@ -4,24 +4,24 @@ Isaiah 42
 2 -
 3 -
 4 -
-5  different, length same at 227; different word(s): (Lord, - LORD,)
-6  different, length same at 164; different word(s): (Lord - LORD)
+5  different, length same at 227; different word(s): (LORD, - Lord,)
+6  different, length same at 164; different word(s): (LORD - Lord)
 7 -
-8  different, length same at 108; different word(s): (Lord: - LORD:)
+8  different, length same at 108; different word(s): (LORD: - Lord:)
 9 -
-10  different, length same at 165; different word(s): (Lord - LORD)
+10  different, length same at 165; different word(s): (LORD - Lord)
 11 -
-12  different, length same at 73; different word(s): (Lord, - LORD,)
-13  different, length same at 148; different word(s): (Lord - LORD)
+12  different, length same at 73; different word(s): (LORD, - Lord,)
+13  different, length same at 148; different word(s): (LORD - Lord)
 14 -
 15 -
 16 -
 17 -
 18 -
-19  different, length same at 136; different word(s): (Lord's - LORD's)
+19  different, length same at 136; different word(s): (LORD's - Lord's)
 20 -
-21  different, length same at 102; different word(s): (Lord - LORD)
+21  different, length same at 102; different word(s): (LORD - Lord)
 22 -
 23 -
-24  different, length same at 182; different word(s): (Lord, - LORD,)
+24  different, length same at 182; different word(s): (LORD, - Lord,)
 25 -

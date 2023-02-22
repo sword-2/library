@@ -1,42 +1,42 @@
 Jeremiah 31
 
-1  different, length same at 111; different word(s): (Lord, - LORD,)
-2  different, length same at 138; different word(s): (Lord, - LORD,)
-3  different, length same at 144; different word(s): (Lord - LORD)
+1  different, length same at 111; different word(s): (LORD, - Lord,)
+2  different, length same at 138; different word(s): (LORD, - Lord,)
+3  different, length same at 144; different word(s): (LORD - Lord)
 4 -
 5 -
-6  different, length same at 135; different word(s): (Lord - LORD)
-7  different, length same at 176; different word(s): (Lord; - LORD;) (Lord, - LORD,)
+6  different, length same at 135; different word(s): (LORD - Lord)
+7  different, length same at 176; different word(s): (LORD; - Lord;) (LORD, - Lord,)
 8 -
 9 -
-10  different, length same at 173; different word(s): (Lord, - LORD,)
-11  different, length same at 98; different word(s): (Lord - LORD)
-12  different, length same at 284; different word(s): (Lord, - LORD,)
+10  different, length same at 173; different word(s): (LORD, - Lord,)
+11  different, length same at 98; different word(s): (LORD - Lord)
+12  different, length same at 284; different word(s): (LORD, - Lord,)
 13 -
-14  different, length same at 123; different word(s): (Lord. - LORD.)
-15  different, length same at 177; different word(s): (Lord; - LORD;)
-16  different, length same at 181; different word(s): (Lord; - LORD;) (Lord; - LORD;)
-17  different, length same at 103; different word(s): (Lord, - LORD,)
-18  different, length same at 202; different word(s): (Lord - LORD)
+14  different, length same at 123; different word(s): (LORD. - Lord.)
+15  different, length same at 177; different word(s): (LORD; - Lord;)
+16  different, length same at 181; different word(s): (LORD; - Lord;) (LORD; - Lord;)
+17  different, length same at 103; different word(s): (LORD, - Lord,)
+18  different, length same at 202; different word(s): (LORD - Lord)
 19 -
-20  different, length same at 206; different word(s): (Lord. - LORD.)
+20  different, length same at 206; different word(s): (LORD. - Lord.)
 21 -
-22  different, length same at 138; different word(s): (Lord - LORD)
-23  different, length same at 244; different word(s): (Lord - LORD) (Lord - LORD)
+22  different, length same at 138; different word(s): (LORD - Lord)
+23  different, length same at 244; different word(s): (LORD - Lord) (LORD - Lord)
 24 -
 25 -
 26 -
-27  different, length same at 147; different word(s): (Lord, - LORD,)
-28  different, length same at 215; different word(s): (Lord. - LORD.)
+27  different, length same at 147; different word(s): (LORD, - Lord,)
+28  different, length same at 215; different word(s): (LORD. - Lord.)
 29 -
 30 -
-31  different, length same at 125; different word(s): (Lord, - LORD,)
-32  different, length same at 223; different word(s): (Lord: - LORD:)
-33  different, length same at 230; different word(s): (Lord, - LORD,)
-34  different, length same at 271; different word(s): (Lord: - LORD:) (Lord: - LORD:)
-35  different, length same at 214; different word(s): (Lord, - LORD,) (Lord - LORD)
-36  different, length same at 139; different word(s): (Lord, - LORD,)
-37  different, length same at 197; different word(s): (Lord; - LORD;) (Lord. - LORD.)
-38  different, length same at 135; different word(s): (Lord, - LORD,) (Lord - LORD)
+31  different, length same at 125; different word(s): (LORD, - Lord,)
+32  different, length same at 223; different word(s): (LORD: - Lord:)
+33  different, length same at 230; different word(s): (LORD, - Lord,)
+34  different, length same at 271; different word(s): (LORD: - Lord:) (LORD: - Lord:)
+35  different, length same at 214; different word(s): (LORD, - Lord,) (LORD - Lord)
+36  different, length same at 139; different word(s): (LORD, - Lord,)
+37  different, length same at 197; different word(s): (LORD; - Lord;) (LORD. - Lord.)
+38  different, length same at 135; different word(s): (LORD, - Lord,) (LORD - Lord)
 39 -
-40  different, length same at 246; different word(s): (Lord; - LORD;)
+40  different, length same at 246; different word(s): (LORD; - Lord;)

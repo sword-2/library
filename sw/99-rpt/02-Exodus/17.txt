@@ -1,18 +1,18 @@
 Exodus 17
 
-1  different, length same at 225; different word(s): (Lord, - LORD,)
-2  different, length same at 165; different word(s): (Lord? - LORD?)
+1  different, length same at 225; different word(s): (LORD, - Lord,)
+2  different, length same at 165; different word(s): (LORD? - Lord?)
 3 -
-4  different, length same at 106; different word(s): (Lord, - LORD,)
-5  different, length same at 173; different word(s): (Lord - LORD)
+4  different, length same at 106; different word(s): (LORD, - Lord,)
+5  different, length same at 173; different word(s): (LORD - Lord)
 6 -
-7  different, length same at 179; different word(s): (Lord, - LORD,) (Lord - LORD)
+7  different, length same at 179; different word(s): (LORD, - Lord,) (LORD - Lord)
 8 -
 9 -
 10 -
 11 -
 12 -
 13 -
-14  different, length same at 177; different word(s): (Lord - LORD)
+14  different, length same at 177; different word(s): (LORD - Lord)
 15 -
-16  different, length same at 111; different word(s): (Lord - LORD) (Lord - LORD)
+16  different, length same at 111; different word(s): (LORD - Lord) (LORD - Lord)

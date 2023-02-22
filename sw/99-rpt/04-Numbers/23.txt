@@ -2,31 +2,31 @@ Numbers 23
 
 1 -
 2 -
-3  different, length same at 192; different word(s): (Lord - LORD)
+3  different, length same at 192; different word(s): (LORD - Lord)
 4 -
-5  different, length same at 98; different word(s): (Lord - LORD)
+5  different, length same at 98; different word(s): (LORD - Lord)
 6 -
 7 -
-8  different, length same at 96; different word(s): (Lord - LORD)
+8  different, length same at 96; different word(s): (LORD - Lord)
 9 -
 10 -
 11 -
-12  different, length same at 97; different word(s): (Lord - LORD)
+12  different, length same at 97; different word(s): (LORD - Lord)
 13 -
 14 -
-15  different, length same at 87; different word(s): (Lord - LORD)
-16  different, length same at 98; different word(s): (Lord - LORD)
-17  different, length same at 150; different word(s): (Lord - LORD)
+15  different, length same at 87; different word(s): (LORD - Lord)
+16  different, length same at 98; different word(s): (LORD - Lord)
+17  different, length same at 150; different word(s): (LORD - Lord)
 18 -
 19 -
 20 -
-21  different, length same at 151; different word(s): (Lord - LORD)
+21  different, length same at 151; different word(s): (LORD - Lord)
 22 -
 23 -
 24 -
 25 -
-26  different, length same at 109; different word(s): (Lord - LORD)
+26  different, length same at 109; different word(s): (LORD - Lord)
 27 -
-28  different, length same at 76; different word(s): (jeshimon. - Jeshimon.)
+28  different, length same at 76; different word(s): (Jeshimon. - jeshimon.)
 29 -
 30 -

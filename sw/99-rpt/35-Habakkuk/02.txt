@@ -1,7 +1,7 @@
 Habakkuk 02
 
 1 -
-2  different, length same at 117; different word(s): (Lord - LORD)
+2  different, length same at 117; different word(s): (LORD - Lord)
 3 -
 4 -
 5 -
@@ -12,11 +12,11 @@ Habakkuk 02
 10 -
 11 -
 12 -
-13  different, length same at 140; different word(s): (Lord - LORD)
-14  different, length same at 103; different word(s): (Lord, - LORD,)
+13  different, length same at 140; different word(s): (LORD - Lord)
+14  different, length same at 103; different word(s): (LORD, - Lord,)
 15 -
-16  different, length same at 193; different word(s): (Lord's - LORD's)
+16  different, length same at 193; different word(s): (LORD's - Lord's)
 17 -
 18 -
 19 -
-20  different, length same at 78; different word(s): (Lord - LORD)
+20  different, length same at 78; different word(s): (LORD - Lord)

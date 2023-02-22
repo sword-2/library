@@ -1,18 +1,18 @@
 Deuteronomy 33
 
 1 -
-2  different, length same at 194; different word(s): (Lord - LORD)
+2  different, length same at 194; different word(s): (LORD - Lord)
 3 -
 4 -
 5 -
 6 -
-7  different, length same at 192; different word(s): (Lord, - LORD,)
+7  different, length same at 192; different word(s): (LORD, - Lord,)
 8 -
 9 -
 10 -
-11  different, length same at 169; different word(s): (Lord, - LORD,)
-12  different, length same at 167; different word(s): (Lord - LORD)
-13  different, length same at 143; different word(s): (Lord - LORD)
+11  different, length same at 169; different word(s): (LORD, - Lord,)
+12  different, length same at 167; different word(s): (LORD - Lord)
+13  different, length same at 143; different word(s): (LORD - Lord)
 14 -
 15 -
 16 -
@@ -20,12 +20,12 @@ Deuteronomy 33
 18 -
 19 -
 20 -
-21  different, length same at 213; different word(s): (Lord, - LORD,)
+21  different, length same at 213; different word(s): (LORD, - Lord,)
 22 -
-23  different, length same at 136; different word(s): (Lord: - LORD:)
+23  different, length same at 136; different word(s): (LORD: - Lord:)
 24 -
 25 -
 26 -
 27 -
 28 -
-29  different, length same at 235; different word(s): (Lord, - LORD,)
+29  different, length same at 235; different word(s): (LORD, - Lord,)

@@ -1,24 +1,24 @@
 Isaiah 38
 
-1  different, length same at 197; different word(s): (Lord, - LORD,)
-2  different, length same at 72; different word(s): (Lord, - LORD,)
-3  different, length same at 183; different word(s): (Lord, - LORD,)
-4  different, length same at 49; different word(s): (Lord - LORD)
-5  different, length same at 170; different word(s): (Lord, - LORD,)
+1  different, length same at 197; different word(s): (LORD, - Lord,)
+2  different, length same at 72; different word(s): (LORD, - Lord,)
+3  different, length same at 183; different word(s): (LORD, - Lord,)
+4  different, length same at 49; different word(s): (LORD - Lord)
+5  different, length same at 170; different word(s): (LORD, - Lord,)
 6 -
-7  different, length same at 103; different word(s): (Lord, - LORD,) (Lord - LORD)
+7  different, length same at 103; different word(s): (LORD, - Lord,) (LORD - Lord)
 8 -
 9 -
 10 -
-11  different, length same at 137; different word(s): (Lord, - LORD,) (Lord, - LORD,)
+11  different, length same at 137; different word(s): (LORD, - Lord,) (LORD, - Lord,)
 12 -
 13 -
-14  different, length same at 145; different word(s): (Lord, - LORD,)
+14  different, length same at 145; different word(s): (LORD, - Lord,)
 15 -
-16  different, length same at 129; different word(s): (Lord, - LORD,)
+16  different, length same at 129; different word(s): (LORD, - Lord,)
 17 -
 18 -
 19 -
-20  different, length same at 141; different word(s): (Lord - LORD) (Lord. - LORD.)
+20  different, length same at 141; different word(s): (LORD - Lord) (LORD. - Lord.)
 21 -
-22  different, length same at 85; different word(s): (Lord? - LORD?)
+22  different, length same at 85; different word(s): (LORD? - Lord?)

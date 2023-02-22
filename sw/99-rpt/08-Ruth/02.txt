@@ -3,7 +3,7 @@ Ruth 02
 1 -
 2 -
 3 -
-4  different, length same at 131; different word(s): (Lord - LORD) (Lord - LORD)
+4  different, length same at 131; different word(s): (LORD - Lord) (LORD - Lord)
 5 -
 6 -
 7 -
@@ -11,7 +11,7 @@ Ruth 02
 9 -
 10 -
 11 -
-12  different, length same at 130; different word(s): (Lord - LORD) (Lord - LORD)
+12  different, length same at 130; different word(s): (LORD - Lord) (LORD - Lord)
 13 -
 14 -
 15 -
@@ -19,7 +19,7 @@ Ruth 02
 17 -
 18 -
 19 -
-20  different, length same at 215; different word(s): (Lord, - LORD,)
+20  different, length same at 215; different word(s): (LORD, - Lord,)
 21 -
 22 -
 23 -

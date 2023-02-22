@@ -1,94 +1,27 @@
-/** @mainpage mainpage - personal notes
+/** @mainpage mainpage - comparison of Gutenberg and BibleGateway
 
 
-The content for (reformatted Gutenberg) kjv bible was checked with a shell script (sw/0) to minimize accidental errors during reformatting. In the script directory, the script was run on the command line with "./0 c". The script looped through all the kjv scriptures in the repo and compared each one to the same verse from biblegateway.com. The shell script comparison was already run, and the results written to the sub-folder sw/99-rpt/
+A Gutenberg text bible kjv was reformatted using manual and automated methods to divide it up into separate chapters. To minimize accidental errors, the content was checked with a shell script (sw/0). One goal of reformatting was to facilitate machine reading of the scriptures (verse per line format). The script in the sw directory was run on the command line with "./0 c". The script looped through all the kjv scriptures in the repo and compared each one to the same verse from biblegateway.com. The shell script reported results to the sub-folder sw/99-rpt/, which has a file for each chapter and more.
 <br>
-If the comparison observed the verse was the same, the report just puts a hyphen (-) next to the verse number. Sometimes the shell script determined there were differences between the same verse for Gutenberg and biblegateway. Most of the differences were believed to be due to upper/lower case differences because of html/js/css presentation changes of some words from the network transfer to web page. For example, the word 'Lord' sent by biblegateway might be changed at the last moment before display in the browser by the html/js/css to a different case 'LORD'. The shell script only looked at the network text and didn't perform html/js/css editing.
+Some changes were done manually, like dividing a big text to smaller chapters, removing line breaks to achieve verse per line format, and removing Windows characters. Also, the names of some books were shortened to names assumed to be understood.
+<br>
+If the script comparison observed the verse was the same, the report just puts a hyphen (-) after the verse number. Sometimes the shell script determined there were differences. Most of the differences were believed to be due to upper/lower case differences because because the browser changed case using html/js/css after the server sent the text. For example, the word 'Lord' sent by biblegateway might be changed to LORD in the browser by the html/js/css. The shell script only looked at the network text and didn't attempt html/js/css operations. So the report of differences omitted the common case difference (Lord - LORD), but hopefully reported all the other differences observed. A link is supplied below to examine a summary of differences 
 <br><br>
 
-The shell script uses two C++ programs in the subfolder sw/c++. The make program has to be run to build the code for the local machine. Installation of supporting libraries for make was skipped.
-<br><br>
-
-The network efficiency for the shell script calls to biblegateway was poor. An efficient way was not known to just get a verse -  something like github raw user content would just get content. Each verse required its own network call, and that call had sales advertisements embedded to the page which one C++ function was made to filter all that out to get just the verse.
-<br><br>
-
-The shell script is also capable of calculating checksums for each chapter. The command to do it from the script directory was ./0 md5. It puts a md5 file in the sw directory.
+The shell script named 0 uses two C++ programs in the subfolder sw/c++ to extract a verse out of a web page. Any server interfaces that can send a raw verse without any extra content would eliminate such extra software. The make program has to be run to build the c++ code for the local machine. Installation of supporting libraries for make was skipped and was the Linux configuration. The software was fairly simple.
 <br><br>
 
 
-Names of many bible books from Gutenberg were shortened. For example, Genesis was used instead of "The First Book of Moses:  Called Genesis". Names remembered from Gutenbert included ...
-  The First Book of Moses:  Called Genesis
-  The Second Book of Moses:  Called Exodus
-  The Third Book of Moses:  Called Leviticus
-  The Fourth Book of Moses:  Called Numbers
-  The Fifth Book of Moses:  Called Deuteronomy
-  The Book of Joshua
-  The Book of Judges
-  The Book of Ruth
-  The First Book of Samuel Otherwise Called: The First Book of the Kings
-  The Second Book of Samuel Otherwise Called: The Second Book of the Kings
-  The First Book of the Kings Commonly Called: The Third Book of the Kings
-  The Second Book of the Kings Commonly Called: The Fourth Book of the Kings
-  The First Book of the Chronicles
-  The Second Book of the Chronicles
-  Ezra
-  The Book of Nehemiah
-  The Book of Esther
-  The Book of Job
-  The Book of Psalms
-  The Proverbs
-  Ecclesiastes or The Preacher
-  The Song of Solomon
-  The Book of the Prophet Isaiah
-  The Book of the Prophet Jeremiah
-  The Lamentations of Jeremiah
-  The Book of the Prophet Ezekiel
-  The Book of Daniel
-  Hosea
-  Joel
-  Amos
-  Obadiah
-  Jonah
-  Micah
-  Nahum
-  Habakkuk
-  Zephaniah
-  Haggai
-  Zechariah
-  Malachi
-  ***
-  The New Testament of the King James Bible
-  The Gospel According to Saint Matthew
-  The Gospel According to Saint Mark
-  The Gospel According to Saint Luke
-  The Gospel According to Saint John
-  The Acts of the Apostles
-  The Epistle of Paul the Apostle to the Romans
-  The First Epistle of Paul the Apostle to the Corinthians 
-  The Second Epistle of Paul the Apostle to the Corinthians
-  The Epistle of Paul the Apostle to the Galatians
-  The Epistle of Paul the Apostle to the Ephesians
-  The Epistle of Paul the Apostle to the Philippians
-  The Epistle of Paul the Apostle to the Colossians
-  The First Epistle of Paul the Apostle to the Thessalonians
-  The Second Epistle of Paul the Apostle to the Thessalonians
-  The First Epistle of Paul the Apostle to Timothy
-  The Second Epistle of Paul the Apostle to Timothy
-  The Epistle of Paul the Apostle to Titus
-  The Epistle of Paul the Apostle to Philemon
-  The Epistle of Paul the Apostle to the Hebrews
-  The General Epistle of James
-  The First Epistle General of Peter
-  The Second General Epistle of Peter
-  The First Epistle General of John
-  The Second Epistle General of John
-  The Third Epistle General of John
-  The General Epistle of Jude
-  The Revelation of Saint John the Devine
+<br><br>
+The shell script 0 is also capable of calculating md5 checksums for each chapter. The command to do it from the script directory was ./0 md5. It puts a md5 file in the sw directory. The hope of the checksum was to capture the configuration of scriptures so no more unexpected differences could be introduced. Of course, some of the observed differences need to be resolved first so the checksums don't have to be updated. This would be a work in progress.
 
+<br><br>
+A second shell script (sw/1) read all the resuls for a particular book and summarized the differences in another file caled summary.txt. This was done to reduce the number of files to open and close for each bible book. It compressed all the changes in separate files for each chapter to one file. Also, it skipped the verses that did not identify a change. The summary.txt was manually read to generate the majority of differences identified in the differences link below.
 
+<br><br>
 <table border=1><caption>Sub-pages</caption>
 <tr><th>Name / Link</th></tr>
+	<tr><td>\subpage differences "Differences"</td></tr>
 	<tr><td>\subpage filesystem "files and directory overview"</td></tr>
 	<tr><td>\subpage acronyms "Acronyms"</td></tr>
 </table>

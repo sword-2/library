@@ -1,24 +1,24 @@
 2 Chronicles 06
 
-1  different, length same at 80; different word(s): (Lord - LORD)
+1  different, length same at 80; different word(s): (LORD - Lord)
 2 -
 3 -
-4  different, length same at 144; different word(s): (Lord - LORD)
+4  different, length same at 144; different word(s): (LORD - Lord)
 5 -
 6 -
-7  different, length same at 100; different word(s): (Lord - LORD)
-8  different, length same at 150; different word(s): (Lord - LORD)
+7  different, length same at 100; different word(s): (LORD - Lord)
+8  different, length same at 150; different word(s): (LORD - Lord)
 9 -
-10  different, length same at 236; different word(s): (Lord - LORD) (Lord - LORD) (Lord - LORD)
-11  different, length same at 108; different word(s): (Lord, - LORD,)
-12  different, length same at 120; different word(s): (Lord - LORD)
+10  different, length same at 236; different word(s): (LORD - Lord) (LORD - Lord) (LORD - Lord)
+11  different, length same at 108; different word(s): (LORD, - Lord,)
+12  different, length same at 120; different word(s): (LORD - Lord)
 13 -
-14  different, length same at 196; different word(s): (Lord - LORD)
+14  different, length same at 196; different word(s): (LORD - Lord)
 15 -
-16  different, length same at 293; different word(s): (Lord - LORD)
-17  different, length same at 104; different word(s): (Lord - LORD)
+16  different, length same at 293; different word(s): (LORD - Lord)
+17  different, length same at 104; different word(s): (LORD - Lord)
 18 -
-19  different, length same at 170; different word(s): (Lord - LORD)
+19  different, length same at 170; different word(s): (LORD - Lord)
 20 -
 21 -
 22 -
@@ -40,5 +40,5 @@
 38 -
 39 -
 40 -
-41  different, length same at 187; different word(s): (Lord - LORD) (Lord - LORD)
-42  different, length same at 96; different word(s): (Lord - LORD)
+41  different, length same at 187; different word(s): (LORD - Lord) (LORD - Lord)
+42  different, length same at 96; different word(s): (LORD - Lord)

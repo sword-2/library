@@ -1,20 +1,20 @@
 Judges 04
 
-1  different, length same at 87; different word(s): (Lord, - LORD,)
-2  different, length same at 164; different word(s): (Lord - LORD)
-3  different, length same at 152; different word(s): (Lord: - LORD:)
+1  different, length same at 87; different word(s): (LORD, - Lord,)
+2  different, length same at 164; different word(s): (LORD - Lord)
+3  different, length same at 152; different word(s): (LORD: - Lord:)
 4 -
 5 -
-6  different, length same at 269; different word(s): (Lord - LORD)
+6  different, length same at 269; different word(s): (LORD - Lord)
 7 -
 8 -
-9  different, length same at 224; different word(s): (Lord - LORD)
+9  different, length same at 224; different word(s): (LORD - Lord)
 10 -
 11 -
 12 -
 13 -
-14  different, length same at 216; different word(s): (Lord - LORD) (Lord - LORD)
-15  different, length same at 185; different word(s): (Lord - LORD)
+14  different, length same at 216; different word(s): (LORD - Lord) (LORD - Lord)
+15  different, length same at 185; different word(s): (LORD - Lord)
 16 -
 17 -
 18 -

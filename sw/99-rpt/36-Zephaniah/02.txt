@@ -1,16 +1,16 @@
 Zephaniah 02
 
 1 -
-2  different, length same at 165; different word(s): (Lord - LORD) (Lord's - LORD's)
-3  different, length same at 169; different word(s): (Lord, - LORD,) (Lord's - LORD's)
+2  different, length same at 165; different word(s): (LORD - Lord) (LORD's - Lord's)
+3  different, length same at 169; different word(s): (LORD, - Lord,) (LORD's - Lord's)
 4 -
-5  different, length same at 210; different word(s): (Lord - LORD)
+5  different, length same at 210; different word(s): (LORD - Lord)
 6 -
-7  different, length same at 222; different word(s): (Lord - LORD)
+7  different, length same at 222; different word(s): (LORD - Lord)
 8 -
-9  different, length same at 298; different word(s): (Lord - LORD)
-10  different, length same at 132; different word(s): (Lord - LORD)
-11  different, length same at 170; different word(s): (Lord - LORD)
+9  different, length same at 298; different word(s): (LORD - Lord)
+10  different, length same at 132; different word(s): (LORD - Lord)
+11  different, length same at 170; different word(s): (LORD - Lord)
 12 -
 13 -
 14 -

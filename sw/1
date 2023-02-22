@@ -1,5 +1,5 @@
 #!/bin/sh
-#Further filter the resuts of comparisons to help browse the large quantity of files.
+#Further filter the resuts of comparisons to another file summary.txt. This speeds up browsing the large quantity of data by reducing the number of files to open to one per book (~66).
 
 #global variables
 dirNm='' #longer path from find

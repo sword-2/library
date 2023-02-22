@@ -1,7 +1,7 @@
 Nahum 02
 
 1 -
-2  different, length same at 155; different word(s): (Lord - LORD)
+2  different, length same at 155; different word(s): (LORD - Lord)
 3 -
 4 -
 5 -
@@ -12,4 +12,4 @@ Nahum 02
 10 -
 11 -
 12 -
-13  different, length same at 238; different word(s): (Lord - LORD)
+13  different, length same at 238; different word(s): (LORD - Lord)

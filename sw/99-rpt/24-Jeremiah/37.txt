@@ -1,14 +1,14 @@
 Jeremiah 37
 
 1 -
-2  different, length same at 141; different word(s): (Lord, - LORD,)
-3  different, length same at 172; different word(s): (Lord - LORD)
+2  different, length same at 141; different word(s): (LORD, - Lord,)
+3  different, length same at 172; different word(s): (LORD - Lord)
 4 -
 5 -
-6  different, length same at 64; different word(s): (Lord - LORD)
-7  different, length same at 219; different word(s): (Lord, - LORD,)
+6  different, length same at 64; different word(s): (LORD - Lord)
+7  different, length same at 219; different word(s): (LORD, - Lord,)
 8 -
-9  different, length same at 122; different word(s): (Lord; - LORD;)
+9  different, length same at 122; different word(s): (LORD; - Lord;)
 10 -
 11 -
 12 -
@@ -16,7 +16,7 @@ Jeremiah 37
 14 -
 15 -
 16 -
-17  different, length same at 240; different word(s): (Lord? - LORD?)
+17  different, length same at 240; different word(s): (LORD? - Lord?)
 18 -
 19 -
 20 -

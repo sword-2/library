@@ -37,12 +37,12 @@ Luke 23
 35 -
 36 -
 37 -
-38  different, length same at 120; different word(s): (This - THIS) (Is - IS) (The - THE) (King - KING) (Of - OF) (The - THE) (Jews. - JEWS.)
+38  different, length same at 120; different word(s): (THIS - This) (IS - Is) (THE - The) (KING - King) (OF - Of) (THE - The) (JEWS. - Jews.)
 39 -
 40 -
 41 -
 42 -
-43  different, lengths different;  Gutenberg (length=89): And Jesus said unto him, Verily I say unto thee, Today shalt thou be with me in paradise.; Biblegateway (length=90): And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.
+43  different, lengths different;  Gutenberg (length=90): And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.; Biblegateway (length=89): And Jesus said unto him, Verily I say unto thee, Today shalt thou be with me in paradise.
 44 -
 45 -
 46 -

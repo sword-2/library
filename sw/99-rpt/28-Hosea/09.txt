@@ -2,9 +2,9 @@ Hosea 09
 
 1 -
 2 -
-3  different, length same at 121; different word(s): (Lord's - LORD's)
-4  different, length same at 265; different word(s): (Lord, - LORD,) (Lord. - LORD.)
-5  different, length same at 75; different word(s): (Lord? - LORD?)
+3  different, length same at 121; different word(s): (LORD's - Lord's)
+4  different, length same at 265; different word(s): (LORD, - Lord,) (LORD. - Lord.)
+5  different, length same at 75; different word(s): (LORD? - Lord?)
 6 -
 7 -
 8 -
@@ -13,7 +13,7 @@ Hosea 09
 11 -
 12 -
 13 -
-14  different, length same at 85; different word(s): (Lord: - LORD:)
+14  different, length same at 85; different word(s): (LORD: - Lord:)
 15 -
 16 -
 17 -

@@ -20,9 +20,9 @@ Luke 02
 18 -
 19 -
 20 -
-21  different, length same at 168; different word(s): (Jesus, - JESUS,)
+21  different, length same at 168; different word(s): (JESUS, - Jesus,)
 22 -
-23  different, length same at 109; different word(s): (Lord, - LORD,)
+23  different, length same at 109; different word(s): (LORD, - Lord,)
 24 -
 25 -
 26 -

@@ -1,19 +1,19 @@
 Leviticus 01
 
-1  different, length same at 101; different word(s): (Lord - LORD)
-2  different, length same at 184; different word(s): (Lord, - LORD,)
-3  different, length same at 198; different word(s): (Lord. - LORD.)
+1  different, length same at 101; different word(s): (LORD - Lord)
+2  different, length same at 184; different word(s): (LORD, - Lord,)
+3  different, length same at 198; different word(s): (LORD. - Lord.)
 4 -
-5  different, length same at 209; different word(s): (Lord: - LORD:)
+5  different, length same at 209; different word(s): (LORD: - Lord:)
 6 -
 7 -
 8 -
-9  different, length same at 180; different word(s): (Lord. - LORD.)
+9  different, length same at 180; different word(s): (LORD. - Lord.)
 10 -
-11  different, length same at 156; different word(s): (Lord: - LORD:)
+11  different, length same at 156; different word(s): (LORD: - Lord:)
 12 -
-13  different, length same at 201; different word(s): (Lord. - LORD.)
-14  different, length same at 138; different word(s): (Lord - LORD)
+13  different, length same at 201; different word(s): (LORD. - Lord.)
+14  different, length same at 138; different word(s): (LORD - Lord)
 15 -
 16 -
-17  different, length same at 245; different word(s): (Lord. - LORD.)
+17  different, length same at 245; different word(s): (LORD. - Lord.)

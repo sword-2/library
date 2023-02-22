@@ -14,7 +14,7 @@ Jeremiah 39
 12 -
 13 -
 14 -
-15  different, length same at 101; different word(s): (Lord - LORD)
-16  different, length same at 227; different word(s): (Lord - LORD)
-17  different, length same at 130; different word(s): (Lord: - LORD:)
-18  different, length same at 168; different word(s): (Lord. - LORD.)
+15  different, length same at 101; different word(s): (LORD - Lord)
+16  different, length same at 227; different word(s): (LORD - Lord)
+17  different, length same at 130; different word(s): (LORD: - Lord:)
+18  different, length same at 168; different word(s): (LORD. - Lord.)

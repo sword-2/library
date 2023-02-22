@@ -1,17 +1,17 @@
 Nahum 01
 
 1 -
-2  different, length same at 164; different word(s): (Lord - LORD) (Lord - LORD) (Lord - LORD)
-3  different, length same at 183; different word(s): (Lord - LORD) (Lord - LORD)
+2  different, length same at 164; different word(s): (LORD - Lord) (LORD - Lord) (LORD - Lord)
+3  different, length same at 183; different word(s): (LORD - Lord) (LORD - Lord)
 4 -
 5 -
 6 -
-7  different, length same at 93; different word(s): (Lord - LORD)
+7  different, length same at 93; different word(s): (LORD - Lord)
 8 -
-9  different, length same at 109; different word(s): (Lord? - LORD?)
+9  different, length same at 109; different word(s): (LORD? - Lord?)
 10 -
-11  different, length same at 89; different word(s): (Lord, - LORD,)
-12  different, length same at 181; different word(s): (Lord; - LORD;)
+11  different, length same at 89; different word(s): (LORD, - Lord,)
+12  different, length same at 181; different word(s): (LORD; - Lord;)
 13 -
-14  different, length same at 213; different word(s): (Lord - LORD)
+14  different, length same at 213; different word(s): (LORD - Lord)
 15 -

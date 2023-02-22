@@ -1,7 +1,7 @@
 1 John 02
 
 1 -
-2  different, lengths different;  Gutenberg (length=105): And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.; Biblegateway (length=106): And he is the propitiation for our sins: and not for our's only, but also for the sins of the whole world.
+2  different, lengths different;  Gutenberg (length=106): And he is the propitiation for our sins: and not for our's only, but also for the sins of the whole world.; Biblegateway (length=105): And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.
 3 -
 4 -
 5 -

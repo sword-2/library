@@ -6,7 +6,7 @@ Mark 12
 4 -
 5 -
 6 -
-7  different, length same at 120, unknown difference:  Gutenberg (length=120): But those husbandmen said among themselves, This is the heir; come, let us kill him, and the inheritance shall be ours.'; Biblegateway (length=120): But those husbandmen said among themselves, This is the heir; come, let us kill him, and the inheritance shall be our's.
+7  different, length same at 120, unknown difference:  Gutenberg (length=120): But those husbandmen said among themselves, This is the heir; come, let us kill him, and the inheritance shall be our's.; Biblegateway (length=120): But those husbandmen said among themselves, This is the heir; come, let us kill him, and the inheritance shall be ours.'
 8 -
 9 -
 10 -
@@ -35,7 +35,7 @@ Mark 12
 33 -
 34 -
 35 -
-36  different, length same at 135; different word(s): (Lord - LORD)
+36  different, length same at 135; different word(s): (LORD - Lord)
 37 -
 38 -
 39 -

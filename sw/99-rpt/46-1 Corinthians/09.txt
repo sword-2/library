@@ -1,6 +1,6 @@
 1 Corinthians 09
 
-1  different, lengths different;  Gutenberg (length=109): Am I am not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?; Biblegateway (length=106): Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?
+1  different, lengths different;  Gutenberg (length=106): Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?; Biblegateway (length=109): Am I am not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?
 2 -
 3 -
 4 -
@@ -8,7 +8,7 @@
 6 -
 7 -
 8 -
-9  different, length same at 137; different word(s): (thou - Thou)
+9  different, length same at 137; different word(s): (Thou - thou)
 10 -
 11 -
 12 -

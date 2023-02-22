@@ -4,7 +4,7 @@ Isaiah 28
 2 -
 3 -
 4 -
-5  different, length same at 120; different word(s): (Lord - LORD)
+5  different, length same at 120; different word(s): (LORD - Lord)
 6 -
 7 -
 8 -
@@ -12,20 +12,20 @@ Isaiah 28
 10 -
 11 -
 12 -
-13  different, length same at 226; different word(s): (Lord - LORD)
-14  different, length same at 98; different word(s): (Lord, - LORD,)
+13  different, length same at 226; different word(s): (LORD - Lord)
+14  different, length same at 98; different word(s): (LORD, - Lord,)
 15 -
-16  different, length same at 181; different word(s): (God, - GOD,)
+16  different, length same at 181; different word(s): (GOD, - God,)
 17 -
 18 -
 19 -
 20 -
-21  different, length same at 180; different word(s): (Lord - LORD)
-22  different, length same at 161; different word(s): (God - GOD)
+21  different, length same at 180; different word(s): (LORD - Lord)
+22  different, length same at 161; different word(s): (GOD - God)
 23 -
 24 -
 25 -
 26 -
 27 -
 28 -
-29  different, length same at 103; different word(s): (Lord - LORD)
+29  different, length same at 103; different word(s): (LORD - Lord)

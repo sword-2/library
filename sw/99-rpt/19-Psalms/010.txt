@@ -1,8 +1,8 @@
 Psalms 010
 
-1  different, length same at 80; different word(s): (Lord? - LORD?)
+1  different, length same at 80; different word(s): (LORD? - Lord?)
 2 -
-3  different, length same at 98; different word(s): (Lord - LORD)
+3  different, length same at 98; different word(s): (LORD - Lord)
 4 -
 5 -
 6 -
@@ -11,10 +11,10 @@ Psalms 010
 9 -
 10 -
 11 -
-12  different, length same at 64; different word(s): (Lord; - LORD;)
+12  different, length same at 64; different word(s): (LORD; - Lord;)
 13 -
 14 -
 15 -
-16  different, length same at 77; different word(s): (Lord - LORD)
-17  different, length same at 113; different word(s): (Lord, - LORD,)
+16  different, length same at 77; different word(s): (LORD - Lord)
+17  different, length same at 113; different word(s): (LORD, - Lord,)
 18 -

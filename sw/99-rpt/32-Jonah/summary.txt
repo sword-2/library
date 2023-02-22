@@ -2,29 +2,29 @@ Jonah Summary of differences by chapter
 
 
 Chapter: 01
-	1 different, length same at 68; different word(s): (Lord - LORD)
-	3 different, length same at 246; different word(s): (Lord, - LORD,) (Lord. - LORD.)
-	4 different, length same at 131; different word(s): (Lord - LORD)
-	9 different, length same at 120; different word(s): (Lord, - LORD,)
-	10 different, length same at 168; different word(s): (Lord, - LORD,)
-	14 different, length same at 210; different word(s): (Lord, - LORD,) (Lord, - LORD,) (Lord, - LORD,)
-	15 different, length same at 91, unknown difference:  Gutenberg (length=91): So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging.; Biblegateway (length=91): So they look up Jonah, and cast him forth into the sea: and the sea ceased from her raging.
-	16 different, length same at 95; different word(s): (Lord - LORD) (Lord, - LORD,)
+	1 different, length same at 68; different word(s): (LORD - Lord)
+	3 different, length same at 246; different word(s): (LORD, - Lord,) (LORD. - Lord.)
+	4 different, length same at 131; different word(s): (LORD - Lord)
+	9 different, length same at 120; different word(s): (LORD, - Lord,)
+	10 different, length same at 168; different word(s): (LORD, - Lord,)
+	14 different, length same at 210; different word(s): (LORD, - Lord,) (LORD, - Lord,) (LORD, - Lord,)
+	15 different, length same at 91, unknown difference:  Gutenberg (length=91): So they look up Jonah, and cast him forth into the sea: and the sea ceased from her raging.; Biblegateway (length=91): So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging.
+	16 different, length same at 95; different word(s): (LORD - Lord) (LORD, - Lord,)
 
 Chapter: 02
-	1 different, length same at 64; different word(s): (Lord - LORD)
-	2 different, length same at 140; different word(s): (Lord, - LORD,)
-	6 different, length same at 156; different word(s): (Lord - LORD)
-	7 different, length same at 110; different word(s): (Lord: - LORD:)
-	9 different, length same at 123; different word(s): (Lord. - LORD.)
+	1 different, length same at 64; different word(s): (LORD - Lord)
+	2 different, length same at 140; different word(s): (LORD, - Lord,)
+	6 different, length same at 156; different word(s): (LORD - Lord)
+	7 different, length same at 110; different word(s): (LORD: - Lord:)
+	9 different, length same at 123; different word(s): (LORD. - Lord.)
 
 Chapter: 03
-	1 different, length same at 65; different word(s): (Lord - LORD)
-	3 different, length same at 137; different word(s): (Lord. - LORD.)
+	1 different, length same at 65; different word(s): (LORD - Lord)
+	3 different, length same at 137; different word(s): (LORD. - Lord.)
 
 Chapter: 04
-	2 different, length same at 277; different word(s): (Lord, - LORD,) (Lord, - LORD,)
-	3 different, length same at 106; different word(s): (Lord, - LORD,)
-	4 different, length same at 48; different word(s): (Lord, - LORD,)
-	6 different, length same at 183; different word(s): (Lord - LORD)
-	10 different, length same at 165; different word(s): (Lord, - LORD,)
+	2 different, length same at 277; different word(s): (LORD, - Lord,) (LORD, - Lord,)
+	3 different, length same at 106; different word(s): (LORD, - Lord,)
+	4 different, length same at 48; different word(s): (LORD, - Lord,)
+	6 different, length same at 183; different word(s): (LORD - Lord)
+	10 different, length same at 165; different word(s): (LORD, - Lord,)

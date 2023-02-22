@@ -1,17 +1,17 @@
 2 Chronicles 02
 
-1  different, length same at 96; different word(s): (Lord, - LORD,)
+1  different, length same at 96; different word(s): (LORD, - Lord,)
 2 -
 3 -
-4  different, length same at 325; different word(s): (Lord - LORD) (Lord - LORD)
+4  different, length same at 325; different word(s): (LORD - Lord) (LORD - Lord)
 5 -
 6 -
 7 -
 8 -
 9 -
 10 -
-11  different, length same at 148; different word(s): (Lord - LORD)
-12  different, length same at 238; different word(s): (Lord - LORD) (Lord, - LORD,)
+11  different, length same at 148; different word(s): (LORD - Lord)
+12  different, length same at 238; different word(s): (LORD - Lord) (LORD, - Lord,)
 13 -
 14 -
 15 -

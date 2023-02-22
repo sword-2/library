@@ -36,7 +36,7 @@
 34 -
 35 -
 36 -
-37  different, length same at 219; different word(s): (Lord - LORD) (Lord - LORD)
+37  different, length same at 219; different word(s): (LORD - Lord) (LORD - Lord)
 38 -
 39 -
 40 -
@@ -44,9 +44,9 @@
 42 -
 43 -
 44 -
-45  different, length same at 212; different word(s): (Lord - LORD)
-46  different, length same at 297; different word(s): (Lord - LORD)
-47  different, length same at 146; different word(s): (Lord - LORD) (Lord's, - LORD's,)
+45  different, length same at 212; different word(s): (LORD - Lord)
+46  different, length same at 297; different word(s): (LORD - Lord)
+47  different, length same at 146; different word(s): (LORD - Lord) (LORD's, - Lord's,)
 48 -
 49 -
 50 -

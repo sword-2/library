@@ -16,4 +16,4 @@
 14 -
 15 -
 16 -
-17  different, lengths different;  Gutenberg (length=77): That the man of God may be perfect, thoroughly furnished unto all good works.; Biblegateway (length=76): That the man of God may be perfect, throughly furnished unto all good works.
+17  different, lengths different;  Gutenberg (length=76): That the man of God may be perfect, throughly furnished unto all good works.; Biblegateway (length=77): That the man of God may be perfect, thoroughly furnished unto all good works.

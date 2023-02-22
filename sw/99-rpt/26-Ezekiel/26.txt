@@ -1,23 +1,23 @@
 Ezekiel 26
 
-1  different, length same at 120; different word(s): (Lord - LORD)
+1  different, length same at 120; different word(s): (LORD - Lord)
 2 -
-3  different, length same at 164; different word(s): (God; - GOD;)
+3  different, length same at 164; different word(s): (GOD; - God;)
 4 -
-5  different, length same at 156; different word(s): (God: - GOD:)
-6  different, length same at 109; different word(s): (Lord. - LORD.)
-7  different, length same at 208; different word(s): (God; - GOD;)
+5  different, length same at 156; different word(s): (GOD: - God:)
+6  different, length same at 109; different word(s): (LORD. - Lord.)
+7  different, length same at 208; different word(s): (GOD; - God;)
 8 -
 9 -
 10 -
 11 -
 12 -
 13 -
-14  different, length same at 167; different word(s): (Lord - LORD) (God. - GOD.)
-15  different, length same at 156; different word(s): (God - GOD)
+14  different, length same at 167; different word(s): (LORD - Lord) (GOD. - God.)
+15  different, length same at 156; different word(s): (GOD - God)
 16 -
 17 -
 18 -
-19  different, length same at 185; different word(s): (God; - GOD;)
+19  different, length same at 185; different word(s): (GOD; - God;)
 20 -
-21  different, length same at 137; different word(s): (God. - GOD.)
+21  different, length same at 137; different word(s): (GOD. - God.)

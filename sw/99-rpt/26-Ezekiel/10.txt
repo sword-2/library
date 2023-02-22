@@ -3,7 +3,7 @@ Ezekiel 10
 1 -
 2 -
 3 -
-4  different, length same at 197; different word(s): (Lord - LORD) (Lord's - LORD's)
+4  different, length same at 197; different word(s): (LORD - Lord) (LORD's - Lord's)
 5 -
 6 -
 7 -
@@ -17,8 +17,8 @@ Ezekiel 10
 15 -
 16 -
 17 -
-18  different, length same at 102; different word(s): (Lord - LORD)
-19  different, length same at 263; different word(s): (Lord's - LORD's)
+18  different, length same at 102; different word(s): (LORD - Lord)
+19  different, length same at 263; different word(s): (LORD's - Lord's)
 20 -
 21 -
 22 -

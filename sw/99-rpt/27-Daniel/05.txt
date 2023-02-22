@@ -24,10 +24,10 @@ Daniel 05
 22 -
 23 -
 24 -
-25  different, length same at 70; different word(s): (Mene, - MENE,) (Mene, - MENE,) (Tekel, - TEKEL,) (Upharsin. - UPHARSIN.)
-26  different, length same at 94; different word(s): (Mene; - MENE;)
-27  different, length same at 63; different word(s): (Tekel; - TEKEL;)
-28  different, length same at 67; different word(s): (Peres; - PERES;)
+25  different, length same at 70; different word(s): (MENE, - Mene,) (MENE, - Mene,) (TEKEL, - Tekel,) (UPHARSIN. - Upharsin.)
+26  different, length same at 94; different word(s): (MENE; - Mene;)
+27  different, length same at 63; different word(s): (TEKEL; - Tekel;)
+28  different, length same at 67; different word(s): (PERES; - Peres;)
 29 -
 30 -
 31 -

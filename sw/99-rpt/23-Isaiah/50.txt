@@ -1,13 +1,13 @@
 Isaiah 50
 
-1  different, length same at 252; different word(s): (Lord, - LORD,)
+1  different, length same at 252; different word(s): (LORD, - Lord,)
 2 -
 3 -
-4  different, length same at 201; different word(s): (God - GOD)
-5  different, length same at 86; different word(s): (God - GOD)
+4  different, length same at 201; different word(s): (GOD - God)
+5  different, length same at 86; different word(s): (GOD - God)
 6 -
-7  different, length same at 150; different word(s): (God - GOD)
+7  different, length same at 150; different word(s): (GOD - God)
 8 -
-9  different, length same at 136; different word(s): (God - GOD)
-10  different, length same at 185; different word(s): (Lord, - LORD,) (Lord, - LORD,)
+9  different, length same at 136; different word(s): (GOD - God)
+10  different, length same at 185; different word(s): (LORD, - Lord,) (LORD, - Lord,)
 11 -

@@ -18,8 +18,8 @@ Acts 20
 16 -
 17 -
 18 -
-19  different, length same at 131; different word(s): (Lord - LORD)
-20  different, lengths different;  Gutenberg (length=133): And how I kept back nothing that was profitable unto you, but have shewed you, and have taught you publicly, and from house to house,; Biblegateway (length=134): And how I kept back nothing that was profitable unto you, but have shewed you, and have taught you publickly, and from house to house,
+19  different, length same at 131; different word(s): (LORD - Lord)
+20  different, lengths different;  Gutenberg (length=134): And how I kept back nothing that was profitable unto you, but have shewed you, and have taught you publickly, and from house to house,; Biblegateway (length=133): And how I kept back nothing that was profitable unto you, but have shewed you, and have taught you publicly, and from house to house,
 21 -
 22 -
 23 -

@@ -1,6 +1,6 @@
 Numbers 10
 
-1  different, length same at 38; different word(s): (Lord - LORD)
+1  different, length same at 38; different word(s): (LORD - Lord)
 2 -
 3 -
 4 -
@@ -8,11 +8,11 @@ Numbers 10
 6 -
 7 -
 8 -
-9  different, length same at 212; different word(s): (Lord - LORD)
-10  different, length same at 284; different word(s): (Lord - LORD)
+9  different, length same at 212; different word(s): (LORD - Lord)
+10  different, length same at 284; different word(s): (LORD - Lord)
 11 -
 12 -
-13  different, length same at 96; different word(s): (Lord - LORD)
+13  different, length same at 96; different word(s): (LORD - Lord)
 14 -
 15 -
 16 -
@@ -28,11 +28,11 @@ Numbers 10
 26 -
 27 -
 28 -
-29  different, length same at 252; different word(s): (Lord - LORD) (Lord - LORD)
+29  different, length same at 252; different word(s): (LORD - Lord) (LORD - Lord)
 30 -
 31 -
-32  different, length same at 131; different word(s): (Lord - LORD)
-33  different, length same at 190; different word(s): (Lord - LORD) (Lord - LORD)
-34  different, length same at 79; different word(s): (Lord - LORD)
-35  different, length same at 160; different word(s): (Lord, - LORD,)
-36  different, length same at 79; different word(s): (Lord, - LORD,)
+32  different, length same at 131; different word(s): (LORD - Lord)
+33  different, length same at 190; different word(s): (LORD - Lord) (LORD - Lord)
+34  different, length same at 79; different word(s): (LORD - Lord)
+35  different, length same at 160; different word(s): (LORD, - Lord,)
+36  different, length same at 79; different word(s): (LORD, - Lord,)

@@ -1,6 +1,6 @@
 Isaiah 30
 
-1  different, length same at 165; different word(s): (Lord, - LORD,)
+1  different, length same at 165; different word(s): (LORD, - Lord,)
 2 -
 3 -
 4 -
@@ -8,16 +8,16 @@ Isaiah 30
 6 -
 7 -
 8 -
-9  different, length same at 98; different word(s): (Lord: - LORD:)
+9  different, length same at 98; different word(s): (LORD: - Lord:)
 10 -
 11 -
 12 -
 13 -
 14 -
-15  different, length same at 166; different word(s): (God, - GOD,)
+15  different, length same at 166; different word(s): (GOD, - God,)
 16 -
 17 -
-18  different, length same at 209; different word(s): (Lord - LORD) (Lord - LORD)
+18  different, length same at 209; different word(s): (LORD - Lord) (LORD - Lord)
 19 -
 20 -
 21 -
@@ -25,11 +25,11 @@ Isaiah 30
 23 -
 24 -
 25 -
-26  different, length same at 238; different word(s): (Lord - LORD)
-27  different, length same at 172; different word(s): (Lord - LORD)
+26  different, length same at 238; different word(s): (LORD - Lord)
+27  different, length same at 172; different word(s): (LORD - Lord)
 28 -
-29  different, length same at 189; different word(s): (Lord, - LORD,)
-30  different, length same at 222; different word(s): (Lord - LORD)
-31  different, length same at 92; different word(s): (Lord - LORD)
-32  different, length same at 175; different word(s): (Lord - LORD)
-33  different, length same at 204; different word(s): (Lord, - LORD,)
+29  different, length same at 189; different word(s): (LORD, - Lord,)
+30  different, length same at 222; different word(s): (LORD - Lord)
+31  different, length same at 92; different word(s): (LORD - Lord)
+32  different, length same at 175; different word(s): (LORD - Lord)
+33  different, length same at 204; different word(s): (LORD, - Lord,)

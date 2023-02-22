@@ -36,7 +36,7 @@ Matthew 27
 34 -
 35 -
 36 -
-37  different, length same at 84; different word(s): (This - THIS) (Is - IS) (Jesus - JESUS) (The - THE) (King - KING) (Of - OF) (The - THE) (Jews. - JEWS.)
+37  different, length same at 84; different word(s): (THIS - This) (IS - Is) (JESUS - Jesus) (THE - The) (KING - King) (OF - Of) (THE - The) (JEWS. - Jews.)
 38 -
 39 -
 40 -

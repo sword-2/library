@@ -2,16 +2,16 @@ Nahum Summary of differences by chapter
 
 
 Chapter: 01
-	2 different, length same at 164; different word(s): (Lord - LORD) (Lord - LORD) (Lord - LORD)
-	3 different, length same at 183; different word(s): (Lord - LORD) (Lord - LORD)
-	7 different, length same at 93; different word(s): (Lord - LORD)
-	9 different, length same at 109; different word(s): (Lord? - LORD?)
-	11 different, length same at 89; different word(s): (Lord, - LORD,)
-	12 different, length same at 181; different word(s): (Lord; - LORD;)
-	14 different, length same at 213; different word(s): (Lord - LORD)
+	2 different, length same at 164; different word(s): (LORD - Lord) (LORD - Lord) (LORD - Lord)
+	3 different, length same at 183; different word(s): (LORD - Lord) (LORD - Lord)
+	7 different, length same at 93; different word(s): (LORD - Lord)
+	9 different, length same at 109; different word(s): (LORD? - Lord?)
+	11 different, length same at 89; different word(s): (LORD, - Lord,)
+	12 different, length same at 181; different word(s): (LORD; - Lord;)
+	14 different, length same at 213; different word(s): (LORD - Lord)
 
 Chapter: 02
-	2 different, length same at 155; different word(s): (Lord - LORD)
+	2 different, length same at 155; different word(s): (LORD - Lord)
 
 Chapter: 03
-	5 different, length same at 168; different word(s): (Lord - LORD)
+	5 different, length same at 168; different word(s): (LORD - Lord)

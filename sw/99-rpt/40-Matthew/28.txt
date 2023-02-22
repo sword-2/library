@@ -19,4 +19,4 @@ Matthew 28
 17 -
 18 -
 19 -
-20  different, lengths different;  Gutenberg (length=137): Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you always, even unto the end of the world. Amen.; Biblegateway (length=136): Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.
+20  different, lengths different;  Gutenberg (length=136): Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.; Biblegateway (length=137): Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you always, even unto the end of the world. Amen.

@@ -1,6 +1,6 @@
 Numbers 02
 
-1  different, length same at 53; different word(s): (Lord - LORD)
+1  different, length same at 53; different word(s): (LORD - Lord)
 2 -
 3 -
 4 -
@@ -32,5 +32,5 @@ Numbers 02
 30 -
 31 -
 32 -
-33  different, length same at 92; different word(s): (Lord - LORD)
-34  different, length same at 212; different word(s): (Lord - LORD)
+33  different, length same at 92; different word(s): (LORD - Lord)
+34  different, length same at 212; different word(s): (LORD - Lord)

@@ -6,7 +6,7 @@ Judges 08
 4 -
 5 -
 6 -
-7  different, length same at 169; different word(s): (Lord - LORD)
+7  different, length same at 169; different word(s): (LORD - Lord)
 8 -
 9 -
 10 -
@@ -18,11 +18,11 @@ Judges 08
 16 -
 17 -
 18 -
-19  different, length same at 133; different word(s): (Lord - LORD)
+19  different, length same at 133; different word(s): (LORD - Lord)
 20 -
 21 -
 22 -
-23  different, length same at 118; different word(s): (Lord - LORD)
+23  different, length same at 118; different word(s): (LORD - Lord)
 24 -
 25 -
 26 -
@@ -33,5 +33,5 @@ Judges 08
 31 -
 32 -
 33 -
-34  different, length same at 137; different word(s): (Lord - LORD)
+34  different, length same at 137; different word(s): (LORD - Lord)
 35 -

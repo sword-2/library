@@ -1,13 +1,13 @@
 Joshua 08
 
-1  different, length same at 220; different word(s): (Lord - LORD)
+1  different, length same at 220; different word(s): (LORD - Lord)
 2 -
 3 -
 4 -
 5 -
 6 -
-7  different, length same at 117; different word(s): (Lord - LORD)
-8  different, length same at 162; different word(s): (Lord - LORD)
+7  different, length same at 117; different word(s): (LORD - Lord)
+8  different, length same at 162; different word(s): (LORD - Lord)
 9 -
 10 -
 11 -
@@ -17,7 +17,7 @@ Joshua 08
 15 -
 16 -
 17 -
-18  different, length same at 195; different word(s): (Lord - LORD)
+18  different, length same at 195; different word(s): (LORD - Lord)
 19 -
 20 -
 21 -
@@ -26,12 +26,12 @@ Joshua 08
 24 -
 25 -
 26 -
-27  different, length same at 145; different word(s): (Lord - LORD)
+27  different, length same at 145; different word(s): (LORD - Lord)
 28 -
 29 -
-30  different, length same at 69; different word(s): (Lord - LORD)
-31  different, length same at 271; different word(s): (Lord - LORD) (Lord, - LORD,)
+30  different, length same at 69; different word(s): (LORD - Lord)
+31  different, length same at 271; different word(s): (LORD - Lord) (LORD, - Lord,)
 32 -
-33  different, length same at 426; different word(s): (Lord, - LORD,) (Lord - LORD)
+33  different, length same at 426; different word(s): (LORD, - Lord,) (LORD - Lord)
 34 -
 35 -

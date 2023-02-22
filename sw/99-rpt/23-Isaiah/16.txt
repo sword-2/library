@@ -12,5 +12,5 @@ Isaiah 16
 10 -
 11 -
 12 -
-13  different, length same at 75; different word(s): (Lord - LORD)
-14  different, length same at 207; different word(s): (Lord - LORD)
+13  different, length same at 75; different word(s): (LORD - Lord)
+14  different, length same at 207; different word(s): (LORD - Lord)

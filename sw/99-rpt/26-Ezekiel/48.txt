@@ -8,12 +8,12 @@ Ezekiel 48
 6 -
 7 -
 8 -
-9  different, length same at 126; different word(s): (Lord - LORD)
-10  different, length same at 325; different word(s): (Lord - LORD)
+9  different, length same at 126; different word(s): (LORD - Lord)
+10  different, length same at 325; different word(s): (LORD - Lord)
 11 -
 12 -
 13 -
-14  different, length same at 120; different word(s): (Lord. - LORD.)
+14  different, length same at 120; different word(s): (LORD. - Lord.)
 15 -
 16 -
 17 -
@@ -28,10 +28,10 @@ Ezekiel 48
 26 -
 27 -
 28 -
-29  different, length same at 138; different word(s): (God. - GOD.)
+29  different, length same at 138; different word(s): (GOD. - God.)
 30 -
 31 -
 32 -
 33 -
 34 -
-35  different, length same at 114; different word(s): (Lord - LORD)
+35  different, length same at 114; different word(s): (LORD - Lord)

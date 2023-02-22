@@ -1,26 +1,26 @@
 Joshua 04
 
-1  different, length same at 112; different word(s): (Lord - LORD)
+1  different, length same at 112; different word(s): (LORD - Lord)
 2 -
 3 -
 4 -
-5  different, length same at 225; different word(s): (Lord - LORD)
+5  different, length same at 225; different word(s): (LORD - Lord)
 6 -
-7  different, length same at 251; different word(s): (Lord; - LORD;)
-8  different, length same at 296; different word(s): (Lord - LORD)
+7  different, length same at 251; different word(s): (LORD; - Lord;)
+8  different, length same at 296; different word(s): (LORD - Lord)
 9 -
-10  different, length same at 236; different word(s): (Lord - LORD)
-11  different, length same at 150; different word(s): (Lord - LORD)
+10  different, length same at 236; different word(s): (LORD - Lord)
+11  different, length same at 150; different word(s): (LORD - Lord)
 12 -
-13  different, length same at 104; different word(s): (Lord - LORD)
-14  different, length same at 134; different word(s): (Lord - LORD)
-15  different, length same at 39; different word(s): (Lord - LORD)
+13  different, length same at 104; different word(s): (LORD - Lord)
+14  different, length same at 134; different word(s): (LORD - Lord)
+15  different, length same at 39; different word(s): (LORD - Lord)
 16 -
 17 -
-18  different, length same at 297; different word(s): (Lord - LORD)
+18  different, length same at 297; different word(s): (LORD - Lord)
 19 -
 20 -
 21 -
 22 -
-23  different, length same at 195; different word(s): (Lord - LORD) (Lord - LORD)
-24  different, length same at 131; different word(s): (Lord, - LORD,) (Lord - LORD)
+23  different, length same at 195; different word(s): (LORD - Lord) (LORD - Lord)
+24  different, length same at 131; different word(s): (LORD, - Lord,) (LORD - Lord)

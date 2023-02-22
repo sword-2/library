@@ -41,7 +41,7 @@ Luke 20
 39 -
 40 -
 41 -
-42  different, length same at 101; different word(s): (Lord - LORD)
+42  different, length same at 101; different word(s): (LORD - Lord)
 43 -
 44 -
 45 -

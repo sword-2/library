@@ -1,9 +1,9 @@
 Leviticus 25
 
-1  different, length same at 53; different word(s): (Lord - LORD)
-2  different, length same at 148; different word(s): (Lord. - LORD.)
+1  different, length same at 53; different word(s): (LORD - Lord)
+2  different, length same at 148; different word(s): (LORD. - Lord.)
 3 -
-4  different, length same at 147; different word(s): (Lord: - LORD:)
+4  different, length same at 147; different word(s): (LORD: - Lord:)
 5 -
 6 -
 7 -
@@ -16,7 +16,7 @@ Leviticus 25
 14 -
 15 -
 16 -
-17  different, length same at 99; different word(s): (Lord - LORD)
+17  different, length same at 99; different word(s): (LORD - Lord)
 18 -
 19 -
 20 -
@@ -37,7 +37,7 @@ Leviticus 25
 35 -
 36 -
 37 -
-38  different, length same at 125; different word(s): (Lord - LORD)
+38  different, length same at 125; different word(s): (LORD - Lord)
 39 -
 40 -
 41 -
@@ -54,4 +54,4 @@ Leviticus 25
 52 -
 53 -
 54 -
-55  different, length same at 140; different word(s): (Lord - LORD)
+55  different, length same at 140; different word(s): (LORD - Lord)

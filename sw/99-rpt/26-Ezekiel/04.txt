@@ -12,8 +12,8 @@ Ezekiel 04
 10 -
 11 -
 12 -
-13  different, length same at 128; different word(s): (Lord - LORD)
-14  different, length same at 221; different word(s): (God! - GOD!)
+13  different, length same at 128; different word(s): (LORD - Lord)
+14  different, length same at 221; different word(s): (GOD! - God!)
 15 -
 16 -
 17 -

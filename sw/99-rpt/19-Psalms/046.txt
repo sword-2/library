@@ -6,8 +6,8 @@ Psalms 046
 4 -
 5 -
 6 -
-7  different, length same at 68; different word(s): (Lord - LORD)
-8  different, length same at 79; different word(s): (Lord, - LORD,)
+7  different, length same at 68; different word(s): (LORD - Lord)
+8  different, length same at 79; different word(s): (LORD, - Lord,)
 9 -
 10 -
-11  different, length same at 68; different word(s): (Lord - LORD)
+11  different, length same at 68; different word(s): (LORD - Lord)

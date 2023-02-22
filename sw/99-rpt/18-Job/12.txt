@@ -8,7 +8,7 @@ Job 12
 6 -
 7 -
 8 -
-9  different, length same at 73; different word(s): (Lord - LORD)
+9  different, length same at 73; different word(s): (LORD - Lord)
 10 -
 11 -
 12 -

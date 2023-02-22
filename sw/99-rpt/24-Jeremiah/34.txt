@@ -1,24 +1,24 @@
 Jeremiah 34
 
-1  different, length same at 244; different word(s): (Lord, - LORD,)
-2  different, length same at 214; different word(s): (Lord, - LORD,) (Lord; - LORD;)
+1  different, length same at 244; different word(s): (LORD, - Lord,)
+2  different, length same at 214; different word(s): (LORD, - Lord,) (LORD; - Lord;)
 3 -
-4  different, length same at 118; different word(s): (Lord, - LORD,) (Lord - LORD)
-5  different, length same at 235; different word(s): (Lord. - LORD.)
+4  different, length same at 118; different word(s): (LORD, - Lord,) (LORD - Lord)
+5  different, length same at 235; different word(s): (LORD. - Lord.)
 6 -
 7 -
-8  different, length same at 180; different word(s): (Lord, - LORD,)
+8  different, length same at 180; different word(s): (LORD, - Lord,)
 9 -
 10 -
 11 -
-12  different, length same at 70; different word(s): (Lord - LORD) (Lord, - LORD,)
-13  different, length same at 175; different word(s): (Lord, - LORD,)
+12  different, length same at 70; different word(s): (LORD - Lord) (LORD, - Lord,)
+13  different, length same at 175; different word(s): (LORD, - Lord,)
 14 -
 15 -
-16  different, length same at 235, unknown difference:  Gutenberg (length=235): But ye turned and polluted my name, and caused every man his servant, and every man his handmaid, whom he had set at liberty at their pleasure, to return, and brought them into subjection, to be unto you for servants and for handmaids.; Biblegateway (length=235): But ye turned and polluted my name, and caused every man his servant, and every man his handmaid, whom ye had set at liberty at their pleasure, to return, and brought them into subjection, to be unto you for servants and for handmaids.
-17  different, length same at 319; different word(s): (Lord; - LORD;) (Lord, - LORD,)
+16  different, length same at 235, unknown difference:  Gutenberg (length=235): But ye turned and polluted my name, and caused every man his servant, and every man his handmaid, whom ye had set at liberty at their pleasure, to return, and brought them into subjection, to be unto you for servants and for handmaids.; Biblegateway (length=235): But ye turned and polluted my name, and caused every man his servant, and every man his handmaid, whom he had set at liberty at their pleasure, to return, and brought them into subjection, to be unto you for servants and for handmaids.
+17  different, length same at 319; different word(s): (LORD; - Lord;) (LORD, - Lord,)
 18 -
 19 -
 20 -
 21 -
-22  different, length same at 219; different word(s): (Lord, - LORD,)
+22  different, length same at 219; different word(s): (LORD, - Lord,)

@@ -30,8 +30,8 @@ Genesis 29
 28 -
 29 -
 30 -
-31  different, length same at 85; different word(s): (Lord - LORD)
-32  different, length same at 168; different word(s): (Lord - LORD)
-33  different, length same at 165; different word(s): (Lord - LORD)
+31  different, length same at 85; different word(s): (LORD - Lord)
+32  different, length same at 168; different word(s): (LORD - Lord)
+33  different, length same at 165; different word(s): (LORD - Lord)
 34 -
-35  different, length same at 137; different word(s): (Lord: - LORD:)
+35  different, length same at 137; different word(s): (LORD: - Lord:)

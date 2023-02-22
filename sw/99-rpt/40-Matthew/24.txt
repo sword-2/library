@@ -36,7 +36,7 @@ Matthew 24
 34 -
 35 -
 36 -
-37  different, lengths different;  Gutenberg (length=76): But as the days of Noah were, so shall also the coming of the Son of man be.; Biblegateway (length=75): But as the days of Noe were, so shall also the coming of the Son of man be.
+37  different, lengths different;  Gutenberg (length=75): But as the days of Noe were, so shall also the coming of the Son of man be.; Biblegateway (length=76): But as the days of Noah were, so shall also the coming of the Son of man be.
 38 -
 39 -
 40 -

@@ -1,6 +1,6 @@
 Genesis 21
 
-1  different, length same at 88; different word(s): (Lord - LORD) (Lord - LORD)
+1  different, length same at 88; different word(s): (LORD - Lord) (LORD - Lord)
 2 -
 3 -
 4 -
@@ -32,5 +32,5 @@ Genesis 21
 30 -
 31 -
 32 -
-33  different, length same at 104; different word(s): (Lord, - LORD,)
+33  different, length same at 104; different word(s): (LORD, - Lord,)
 34 -

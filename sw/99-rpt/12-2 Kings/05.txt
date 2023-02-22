@@ -1,6 +1,6 @@
 2 Kings 05
 
-1  different, length same at 216; different word(s): (Lord - LORD)
+1  different, length same at 216; different word(s): (LORD - Lord)
 2 -
 3 -
 4 -
@@ -10,16 +10,16 @@
 8 -
 9 -
 10 -
-11  different, length same at 208; different word(s): (Lord - LORD)
+11  different, length same at 208; different word(s): (LORD - Lord)
 12 -
 13 -
 14 -
 15 -
-16  different, length same at 119; different word(s): (Lord - LORD)
-17  different, length same at 214; different word(s): (Lord. - LORD.)
-18  different, length same at 269; different word(s): (Lord - LORD) (Lord - LORD)
+16  different, length same at 119; different word(s): (LORD - Lord)
+17  different, length same at 214; different word(s): (LORD. - Lord.)
+18  different, length same at 269; different word(s): (LORD - Lord) (LORD - Lord)
 19 -
-20  different, length same at 231; different word(s): (Lord - LORD)
+20  different, length same at 231; different word(s): (LORD - Lord)
 21 -
 22 -
 23 -

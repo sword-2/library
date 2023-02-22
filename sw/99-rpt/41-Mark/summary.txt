@@ -24,14 +24,14 @@ Chapter: 10
 Chapter: 11
 
 Chapter: 12
-	7 different, length same at 120, unknown difference:  Gutenberg (length=120): But those husbandmen said among themselves, This is the heir; come, let us kill him, and the inheritance shall be ours.'; Biblegateway (length=120): But those husbandmen said among themselves, This is the heir; come, let us kill him, and the inheritance shall be our's.
-	36 different, length same at 135; different word(s): (Lord - LORD)
+	7 different, length same at 120, unknown difference:  Gutenberg (length=120): But those husbandmen said among themselves, This is the heir; come, let us kill him, and the inheritance shall be our's.; Biblegateway (length=120): But those husbandmen said among themselves, This is the heir; come, let us kill him, and the inheritance shall be ours.'
+	36 different, length same at 135; different word(s): (LORD - Lord)
 
 Chapter: 13
 
 Chapter: 14
 
 Chapter: 15
-	26 different, length same at 80; different word(s): (The - THE) (King - KING) (Of - OF) (The - THE) (Jews. - JEWS.)
+	26 different, length same at 80; different word(s): (THE - The) (KING - King) (OF - Of) (THE - The) (JEWS. - Jews.)
 
 Chapter: 16

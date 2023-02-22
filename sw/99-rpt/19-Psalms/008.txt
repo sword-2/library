@@ -1,6 +1,6 @@
 Psalms 008
 
-1  different, length same at 103; different word(s): (Lord, - LORD,)
+1  different, length same at 103; different word(s): (LORD, - Lord,)
 2 -
 3 -
 4 -
@@ -8,4 +8,4 @@ Psalms 008
 6 -
 7 -
 8 -
-9  different, length same at 60; different word(s): (Lord - LORD)
+9  different, length same at 60; different word(s): (LORD - Lord)

@@ -4,7 +4,7 @@ Luke 01
 2 -
 3 -
 4 -
-5  different, length same at 180; different word(s): (There - THERE)
+5  different, length same at 180; different word(s): (THERE - There)
 6 -
 7 -
 8 -
@@ -30,7 +30,7 @@ Luke 01
 28 -
 29 -
 30 -
-31  different, length same at 99; different word(s): (Jesus. - JESUS.)
+31  different, length same at 99; different word(s): (JESUS. - Jesus.)
 32 -
 33 -
 34 -
@@ -53,7 +53,7 @@ Luke 01
 51 -
 52 -
 53 -
-54  different, length same at 63, unknown difference:  Gutenberg (length=63): He hath helped his servant Israel, in remembrance of his mercy;; Biblegateway (length=63): He hath holpen his servant Israel, in remembrance of his mercy;
+54  different, length same at 63, unknown difference:  Gutenberg (length=63): He hath holpen his servant Israel, in remembrance of his mercy;; Biblegateway (length=63): He hath helped his servant Israel, in remembrance of his mercy;
 55 -
 56 -
 57 -

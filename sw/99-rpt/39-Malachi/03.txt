@@ -1,20 +1,20 @@
 Malachi 03
 
-1  different, length same at 240; different word(s): (Lord, - LORD,) (Lord - LORD)
+1  different, length same at 240; different word(s): (LORD, - Lord,) (LORD - Lord)
 2 -
-3  different, length same at 190; different word(s): (Lord - LORD)
-4  different, length same at 120; different word(s): (Lord, - LORD,)
-5  different, length same at 329; different word(s): (Lord - LORD)
-6  different, length same at 77; different word(s): (Lord, - LORD,)
-7  different, length same at 204; different word(s): (Lord - LORD)
+3  different, length same at 190; different word(s): (LORD - Lord)
+4  different, length same at 120; different word(s): (LORD, - Lord,)
+5  different, length same at 329; different word(s): (LORD - Lord)
+6  different, length same at 77; different word(s): (LORD, - Lord,)
+7  different, length same at 204; different word(s): (LORD - Lord)
 8 -
 9 -
-10  different, length same at 260; different word(s): (Lord - LORD)
-11  different, length same at 192; different word(s): (Lord - LORD)
-12  different, length same at 100; different word(s): (Lord - LORD)
-13  different, length same at 108; different word(s): (Lord. - LORD.)
-14  different, length same at 154; different word(s): (Lord - LORD)
+10  different, length same at 260; different word(s): (LORD - Lord)
+11  different, length same at 192; different word(s): (LORD - Lord)
+12  different, length same at 100; different word(s): (LORD - Lord)
+13  different, length same at 108; different word(s): (LORD. - Lord.)
+14  different, length same at 154; different word(s): (LORD - Lord)
 15 -
-16  different, length same at 208; different word(s): (Lord - LORD) (Lord - LORD) (Lord, - LORD,)
-17  different, length same at 156; different word(s): (Lord - LORD)
+16  different, length same at 208; different word(s): (LORD - Lord) (LORD - Lord) (LORD, - Lord,)
+17  different, length same at 156; different word(s): (LORD - Lord)
 18 -

@@ -1,22 +1,22 @@
 Ezekiel 32
 
-1  different, length same at 141; different word(s): (Lord - LORD)
+1  different, length same at 141; different word(s): (LORD - Lord)
 2 -
-3  different, length same at 140; different word(s): (God; - GOD;)
+3  different, length same at 140; different word(s): (GOD; - God;)
 4 -
 5 -
 6 -
 7 -
-8  different, length same at 111; different word(s): (God. - GOD.)
+8  different, length same at 111; different word(s): (GOD. - God.)
 9 -
 10 -
-11  different, length same at 83; different word(s): (God; - GOD;)
+11  different, length same at 83; different word(s): (GOD; - God;)
 12 -
 13 -
-14  different, length same at 95; different word(s): (God. - GOD.)
-15  different, length same at 198; different word(s): (Lord. - LORD.)
-16  different, length same at 193; different word(s): (God. - GOD.)
-17  different, length same at 124; different word(s): (Lord - LORD)
+14  different, length same at 95; different word(s): (GOD. - God.)
+15  different, length same at 198; different word(s): (LORD. - Lord.)
+16  different, length same at 193; different word(s): (GOD. - God.)
+17  different, length same at 124; different word(s): (LORD - Lord)
 18 -
 19 -
 20 -
@@ -30,5 +30,5 @@ Ezekiel 32
 28 -
 29 -
 30 -
-31  different, length same at 140; different word(s): (God. - GOD.)
-32  different, length same at 206; different word(s): (God. - GOD.)
+31  different, length same at 140; different word(s): (GOD. - God.)
+32  different, length same at 206; different word(s): (GOD. - God.)

@@ -1,19 +1,19 @@
 Ezekiel 25
 
-1  different, length same at 48; different word(s): (Lord - LORD)
+1  different, length same at 48; different word(s): (LORD - Lord)
 2 -
-3  different, length same at 270; different word(s): (God; - GOD;) (God; - GOD;)
+3  different, length same at 270; different word(s): (GOD; - God;) (GOD; - God;)
 4 -
-5  different, length same at 128; different word(s): (Lord. - LORD.)
-6  different, length same at 165; different word(s): (God; - GOD;)
-7  different, length same at 263; different word(s): (Lord. - LORD.)
-8  different, length same at 116; different word(s): (God; - GOD;)
+5  different, length same at 128; different word(s): (LORD. - Lord.)
+6  different, length same at 165; different word(s): (GOD; - God;)
+7  different, length same at 263; different word(s): (LORD. - Lord.)
+8  different, length same at 116; different word(s): (GOD; - God;)
 9 -
 10 -
-11  different, length same at 79; different word(s): (Lord. - LORD.)
-12  different, length same at 160; different word(s): (God; - GOD;)
-13  different, length same at 202; different word(s): (God; - GOD;)
-14  different, length same at 200; different word(s): (God. - GOD.)
-15  different, length same at 155; different word(s): (God; - GOD;)
-16  different, length same at 170; different word(s): (God; - GOD;)
-17  different, length same at 147; different word(s): (Lord, - LORD,)
+11  different, length same at 79; different word(s): (LORD. - Lord.)
+12  different, length same at 160; different word(s): (GOD; - God;)
+13  different, length same at 202; different word(s): (GOD; - God;)
+14  different, length same at 200; different word(s): (GOD. - God.)
+15  different, length same at 155; different word(s): (GOD; - God;)
+16  different, length same at 170; different word(s): (GOD; - God;)
+17  different, length same at 147; different word(s): (LORD, - Lord,)

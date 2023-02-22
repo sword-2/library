@@ -15,7 +15,7 @@
 13 -
 14 -
 15 -
-16  different, length same at 114; different word(s): (let - Let)
+16  different, length same at 114; different word(s): (Let - let)
 17 -
 18 -
 19 -
@@ -31,5 +31,5 @@
 29 -
 30 -
 31 -
-32  different, length same at 121; different word(s): (damascenes - Damascenes)
+32  different, length same at 121; different word(s): (Damascenes - damascenes)
 33 -

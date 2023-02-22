@@ -4,9 +4,9 @@
 Chapter: 01
 
 Chapter: 02
-	19 different, length same at 175; different word(s): (let - Let)
+	19 different, length same at 175; different word(s): (Let - let)
 
 Chapter: 03
 
 Chapter: 04
-	2 different, lengths different;  Gutenberg (length=115): Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all long suffering and doctrine.; Biblegateway (length=114): Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine.
+	2 different, lengths different;  Gutenberg (length=114): Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine.; Biblegateway (length=115): Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all long suffering and doctrine.

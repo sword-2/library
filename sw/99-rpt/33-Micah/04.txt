@@ -1,15 +1,15 @@
 Micah 04
 
-1  different, length same at 208; different word(s): (Lord - LORD)
-2  different, length same at 269; different word(s): (Lord, - LORD,) (Lord - LORD)
+1  different, length same at 208; different word(s): (LORD - Lord)
+2  different, length same at 269; different word(s): (LORD, - Lord,) (LORD - Lord)
 3 -
-4  different, length same at 151; different word(s): (Lord - LORD)
-5  different, length same at 126; different word(s): (Lord - LORD)
-6  different, length same at 135; different word(s): (Lord, - LORD,)
-7  different, length same at 170; different word(s): (Lord - LORD)
+4  different, length same at 151; different word(s): (LORD - Lord)
+5  different, length same at 126; different word(s): (LORD - Lord)
+6  different, length same at 135; different word(s): (LORD, - Lord,)
+7  different, length same at 170; different word(s): (LORD - Lord)
 8 -
 9 -
-10  different, length same at 294; different word(s): (Lord - LORD)
+10  different, length same at 294; different word(s): (LORD - Lord)
 11 -
-12  different, length same at 136; different word(s): (Lord, - LORD,)
-13  different, length same at 248; different word(s): (Lord, - LORD,)
+12  different, length same at 136; different word(s): (LORD, - Lord,)
+13  different, length same at 248; different word(s): (LORD, - Lord,)

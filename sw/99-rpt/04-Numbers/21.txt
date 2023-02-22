@@ -1,21 +1,21 @@
 Numbers 21
 
 1 -
-2  different, length same at 143; different word(s): (Lord, - LORD,)
-3  different, length same at 173; different word(s): (Lord - LORD)
+2  different, length same at 143; different word(s): (LORD, - Lord,)
+3  different, length same at 173; different word(s): (LORD - Lord)
 4 -
 5 -
-6  different, length same at 107; different word(s): (Lord - LORD)
-7  different, length same at 209; different word(s): (Lord, - LORD,) (Lord, - LORD,)
-8  different, length same at 175; different word(s): (Lord - LORD)
+6  different, length same at 107; different word(s): (LORD - Lord)
+7  different, length same at 209; different word(s): (LORD, - Lord,) (LORD, - Lord,)
+8  different, length same at 175; different word(s): (LORD - Lord)
 9 -
 10 -
 11 -
 12 -
 13 -
-14  different, length same at 113; different word(s): (Lord, - LORD,)
+14  different, length same at 113; different word(s): (LORD, - Lord,)
 15 -
-16  different, length same at 142; different word(s): (Lord - LORD)
+16  different, length same at 142; different word(s): (LORD - Lord)
 17 -
 18 -
 19 -
@@ -27,11 +27,11 @@ Numbers 21
 25 -
 26 -
 27 -
-28  different, length same at 144; different word(s): (ar - Ar)
+28  different, length same at 144; different word(s): (Ar - ar)
 29 -
 30 -
 31 -
 32 -
-33  different, length same at 146; different word(s): (og - Og) (bashan - Bashan) (edrei. - Edrei.)
-34  different, length same at 213; different word(s): (Lord - LORD)
+33  different, length same at 146; different word(s): (Og - og) (Bashan - bashan) (Edrei. - edrei.)
+34  different, length same at 213; different word(s): (LORD - Lord)
 35 -

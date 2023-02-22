@@ -1,18 +1,18 @@
 Numbers 30
 
-1  different, length same at 136; different word(s): (Lord - LORD)
-2  different, length same at 172; different word(s): (Lord, - LORD,)
-3  different, length same at 110; different word(s): (Lord, - LORD,)
+1  different, length same at 136; different word(s): (LORD - Lord)
+2  different, length same at 172; different word(s): (LORD, - Lord,)
+3  different, length same at 110; different word(s): (LORD, - Lord,)
 4 -
-5  different, length same at 210; different word(s): (Lord - LORD)
+5  different, length same at 210; different word(s): (LORD - Lord)
 6 -
 7 -
-8  different, length same at 226; different word(s): (Lord - LORD)
+8  different, length same at 226; different word(s): (LORD - Lord)
 9 -
 10 -
 11 -
-12  different, length same at 253; different word(s): (Lord - LORD)
+12  different, length same at 253; different word(s): (LORD - Lord)
 13 -
 14 -
 15 -
-16  different, length same at 166; different word(s): (Lord - LORD)
+16  different, length same at 166; different word(s): (LORD - Lord)

@@ -2,7 +2,7 @@ Judges 12
 
 1 -
 2 -
-3  different, length same at 225; different word(s): (Lord - LORD)
+3  different, length same at 225; different word(s): (LORD - Lord)
 4 -
 5 -
 6 -

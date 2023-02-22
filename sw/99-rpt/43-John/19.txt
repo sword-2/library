@@ -18,7 +18,7 @@ John 19
 16 -
 17 -
 18 -
-19  different, length same at 110; different word(s): (Jesus - JESUS) (Of - OF) (Nazareth - NAZARETH) (The - THE) (King - KING) (Of - OF) (The - THE) (Jews. - JEWS.)
+19  different, length same at 110; different word(s): (JESUS - Jesus) (OF - Of) (NAZARETH - Nazareth) (THE - The) (KING - King) (OF - Of) (THE - The) (JEWS. - Jews.)
 20 -
 21 -
 22 -

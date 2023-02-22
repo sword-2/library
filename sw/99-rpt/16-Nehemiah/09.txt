@@ -2,11 +2,11 @@ Nehemiah 09
 
 1 -
 2 -
-3  different, length same at 190; different word(s): (Lord - LORD) (Lord - LORD)
-4  different, length same at 174; different word(s): (Lord - LORD)
-5  different, length same at 246; different word(s): (Lord - LORD)
-6  different, length same at 249; different word(s): (Lord - LORD)
-7  different, length same at 138; different word(s): (Lord - LORD)
+3  different, length same at 190; different word(s): (LORD - Lord) (LORD - Lord)
+4  different, length same at 174; different word(s): (LORD - Lord)
+5  different, length same at 246; different word(s): (LORD - Lord)
+6  different, length same at 249; different word(s): (LORD - Lord)
+7  different, length same at 138; different word(s): (LORD - Lord)
 8 -
 9 -
 10 -

@@ -1,23 +1,23 @@
 Leviticus 16
 
-1  different, length same at 116; different word(s): (Lord - LORD) (Lord, - LORD,)
-2  different, length same at 240; different word(s): (Lord - LORD)
+1  different, length same at 116; different word(s): (LORD - Lord) (LORD, - Lord,)
+2  different, length same at 240; different word(s): (LORD - Lord)
 3 -
 4 -
 5 -
 6 -
-7  different, length same at 116; different word(s): (Lord - LORD)
-8  different, length same at 104; different word(s): (Lord, - LORD,)
-9  different, length same at 96; different word(s): (Lord's - LORD's)
-10  different, length same at 184; different word(s): (Lord, - LORD,)
+7  different, length same at 116; different word(s): (LORD - Lord)
+8  different, length same at 104; different word(s): (LORD, - Lord,)
+9  different, length same at 96; different word(s): (LORD's - Lord's)
+10  different, length same at 184; different word(s): (LORD, - Lord,)
 11 -
-12  different, length same at 172; different word(s): (Lord, - LORD,)
-13  different, length same at 159; different word(s): (Lord, - LORD,)
+12  different, length same at 172; different word(s): (LORD, - Lord,)
+13  different, length same at 159; different word(s): (LORD, - Lord,)
 14 -
 15 -
 16 -
 17 -
-18  different, length same at 215; different word(s): (Lord, - LORD,)
+18  different, length same at 215; different word(s): (LORD, - Lord,)
 19 -
 20 -
 21 -
@@ -29,8 +29,8 @@ Leviticus 16
 27 -
 28 -
 29 -
-30  different, length same at 132; different word(s): (Lord. - LORD.)
+30  different, length same at 132; different word(s): (LORD. - Lord.)
 31 -
 32 -
 33 -
-34  different, length same at 170; different word(s): (Lord - LORD)
+34  different, length same at 170; different word(s): (LORD - Lord)

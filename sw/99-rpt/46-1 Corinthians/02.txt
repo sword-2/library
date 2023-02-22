@@ -15,4 +15,4 @@
 13 -
 14 -
 15 -
-16  different, length same at 98; different word(s): (but - But)
+16  different, length same at 98; different word(s): (But - but)

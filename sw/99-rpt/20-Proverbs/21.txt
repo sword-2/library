@@ -1,8 +1,8 @@
 Proverbs 21
 
-1  different, length same at 105; different word(s): (Lord, - LORD,)
-2  different, length same at 79; different word(s): (Lord - LORD)
-3  different, length same at 73; different word(s): (Lord - LORD)
+1  different, length same at 105; different word(s): (LORD, - Lord,)
+2  different, length same at 79; different word(s): (LORD - Lord)
+3  different, length same at 73; different word(s): (LORD - Lord)
 4 -
 5 -
 6 -
@@ -29,5 +29,5 @@ Proverbs 21
 27 -
 28 -
 29 -
-30  different, length same at 66; different word(s): (Lord. - LORD.)
-31  different, length same at 75; different word(s): (Lord. - LORD.)
+30  different, length same at 66; different word(s): (LORD. - Lord.)
+31  different, length same at 75; different word(s): (LORD. - Lord.)

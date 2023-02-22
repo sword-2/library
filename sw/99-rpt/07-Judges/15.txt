@@ -13,10 +13,10 @@ Judges 15
 11 -
 12 -
 13 -
-14  different, length same at 235; different word(s): (Lord - LORD)
+14  different, length same at 235; different word(s): (LORD - Lord)
 15 -
 16 -
 17 -
-18  different, length same at 204; different word(s): (Lord, - LORD,)
+18  different, length same at 204; different word(s): (LORD, - Lord,)
 19 -
 20 -

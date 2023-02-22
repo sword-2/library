@@ -5,8 +5,8 @@
 3 -
 4 -
 5 -
-6  different, length same at 175; different word(s): (Lord, - LORD,)
-7  different, length same at 173; different word(s): (Lord; - LORD;)
+6  different, length same at 175; different word(s): (LORD, - Lord,)
+7  different, length same at 173; different word(s): (LORD; - Lord;)
 8 -
 9 -
 10 -

@@ -1,18 +1,18 @@
 Exodus 06
 
-1  different, length same at 181; different word(s): (Lord - LORD)
-2  different, length same at 59; different word(s): (Lord: - LORD:)
-3  different, length same at 133; different word(s): (Jehovah - JEHOVAH)
+1  different, length same at 181; different word(s): (LORD - Lord)
+2  different, length same at 59; different word(s): (LORD: - Lord:)
+3  different, length same at 133; different word(s): (JEHOVAH - Jehovah)
 4 -
 5 -
-6  different, length same at 238; different word(s): (Lord, - LORD,)
-7  different, length same at 178; different word(s): (Lord - LORD)
-8  different, length same at 173; different word(s): (Lord. - LORD.)
+6  different, length same at 238; different word(s): (LORD, - Lord,)
+7  different, length same at 178; different word(s): (LORD - Lord)
+8  different, length same at 173; different word(s): (LORD. - Lord.)
 9 -
-10  different, length same at 38; different word(s): (Lord - LORD)
+10  different, length same at 38; different word(s): (LORD - Lord)
 11 -
-12  different, length same at 161; different word(s): (Lord, - LORD,)
-13  different, length same at 187; different word(s): (Lord - LORD)
+12  different, length same at 161; different word(s): (LORD, - Lord,)
+13  different, length same at 187; different word(s): (LORD - Lord)
 14 -
 15 -
 16 -
@@ -25,8 +25,8 @@ Exodus 06
 23 -
 24 -
 25 -
-26  different, length same at 137; different word(s): (Lord - LORD)
+26  different, length same at 137; different word(s): (LORD - Lord)
 27 -
-28  different, length same at 83; different word(s): (Lord - LORD)
-29  different, length same at 118; different word(s): (Lord - LORD) (Lord: - LORD:)
-30  different, length same at 106; different word(s): (Lord, - LORD,)
+28  different, length same at 83; different word(s): (LORD - Lord)
+29  different, length same at 118; different word(s): (LORD - Lord) (LORD: - Lord:)
+30  different, length same at 106; different word(s): (LORD, - Lord,)

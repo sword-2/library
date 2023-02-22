@@ -7,21 +7,21 @@ Exodus 30
 5 -
 6 -
 7 -
-8  different, length same at 138; different word(s): (Lord - LORD)
+8  different, length same at 138; different word(s): (LORD - Lord)
 9 -
-10  different, length same at 228; different word(s): (Lord. - LORD.)
-11  different, length same at 38; different word(s): (Lord - LORD)
-12  different, length same at 226; different word(s): (Lord, - LORD,)
-13  different, length same at 202; different word(s): (Lord. - LORD.)
-14  different, length same at 123; different word(s): (Lord. - LORD.)
-15  different, length same at 161; different word(s): (Lord, - LORD,)
-16  different, length same at 250; different word(s): (Lord, - LORD,)
-17  different, length same at 38; different word(s): (Lord - LORD)
+10  different, length same at 228; different word(s): (LORD. - Lord.)
+11  different, length same at 38; different word(s): (LORD - Lord)
+12  different, length same at 226; different word(s): (LORD, - Lord,)
+13  different, length same at 202; different word(s): (LORD. - Lord.)
+14  different, length same at 123; different word(s): (LORD. - Lord.)
+15  different, length same at 161; different word(s): (LORD, - Lord,)
+16  different, length same at 250; different word(s): (LORD, - Lord,)
+17  different, length same at 38; different word(s): (LORD - Lord)
 18 -
 19 -
-20  different, length same at 194; different word(s): (Lord: - LORD:)
+20  different, length same at 194; different word(s): (LORD: - Lord:)
 21 -
-22  different, length same at 43; different word(s): (Lord - LORD)
+22  different, length same at 43; different word(s): (LORD - Lord)
 23 -
 24 -
 25 -
@@ -33,8 +33,8 @@ Exodus 30
 31 -
 32 -
 33 -
-34  different, length same at 173; different word(s): (Lord - LORD)
+34  different, length same at 173; different word(s): (LORD - Lord)
 35 -
 36 -
-37  different, length same at 156; different word(s): (Lord. - LORD.)
+37  different, length same at 156; different word(s): (LORD. - Lord.)
 38 -

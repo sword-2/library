@@ -25,20 +25,20 @@
 23 -
 24 -
 25 -
-26  different, length same at 250; different word(s): (Lord - LORD) (Lord - LORD)
+26  different, length same at 250; different word(s): (LORD - Lord) (LORD - Lord)
 27 -
-28  different, length same at 208; different word(s): (Lord - LORD) (Lord, - LORD,)
-29  different, length same at 230; different word(s): (Lord - LORD)
-30  different, length same at 179; different word(s): (Lord - LORD)
-31  different, length same at 239; different word(s): (Lord - LORD)
-32  different, length same at 98; different word(s): (Lord - LORD)
+28  different, length same at 208; different word(s): (LORD - Lord) (LORD, - Lord,)
+29  different, length same at 230; different word(s): (LORD - Lord)
+30  different, length same at 179; different word(s): (LORD - Lord)
+31  different, length same at 239; different word(s): (LORD - Lord)
+32  different, length same at 98; different word(s): (LORD - Lord)
 33 -
-34  different, length same at 238; different word(s): (Lord - LORD)
+34  different, length same at 238; different word(s): (LORD - Lord)
 35 -
 36 -
 37 -
-38  different, length same at 82; different word(s): (Lord - LORD)
-39  different, length same at 315; different word(s): (Lord, - LORD,) (Lord - LORD)
+38  different, length same at 82; different word(s): (LORD - Lord)
+39  different, length same at 315; different word(s): (LORD, - Lord,) (LORD - Lord)
 40 -
 41 -
 42 -

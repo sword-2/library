@@ -10,6 +10,6 @@
 8 -
 9 -
 10 -
-11  different, length same at 213, unknown difference:  Gutenberg (length=213): But now I have written unto you not to keep company, if any man that is called a brother be a fornicator, or covetous, or an idolator, or a railer, or a drunkard, or an extortioner; with such an one no not to eat.; Biblegateway (length=213): But now I have written unto you not to keep company, if any man that is called a brother be a fornicator, or covetous, or an idolater, or a railer, or a drunkard, or an extortioner; with such an one no not to eat.
+11  different, length same at 213, unknown difference:  Gutenberg (length=213): But now I have written unto you not to keep company, if any man that is called a brother be a fornicator, or covetous, or an idolater, or a railer, or a drunkard, or an extortioner; with such an one no not to eat.; Biblegateway (length=213): But now I have written unto you not to keep company, if any man that is called a brother be a fornicator, or covetous, or an idolator, or a railer, or a drunkard, or an extortioner; with such an one no not to eat.
 12 -
 13 -

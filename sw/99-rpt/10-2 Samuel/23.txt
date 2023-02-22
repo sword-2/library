@@ -1,7 +1,7 @@
 2 Samuel 23
 
 1 -
-2  different, length same at 66; different word(s): (Lord - LORD)
+2  different, length same at 66; different word(s): (LORD - Lord)
 3 -
 4 -
 5 -
@@ -9,14 +9,14 @@
 7 -
 8 -
 9 -
-10  different, length same at 192; different word(s): (Lord - LORD)
+10  different, length same at 192; different word(s): (LORD - Lord)
 11 -
-12  different, length same at 121; different word(s): (Lord - LORD)
+12  different, length same at 121; different word(s): (LORD - Lord)
 13 -
 14 -
 15 -
-16  different, length same at 246; different word(s): (Lord. - LORD.)
-17  different, length same at 207; different word(s): (Lord, - LORD,)
+16  different, length same at 246; different word(s): (LORD. - Lord.)
+17  different, length same at 207; different word(s): (LORD, - Lord,)
 18 -
 19 -
 20 -

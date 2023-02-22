@@ -7,7 +7,7 @@
 5 -
 6 -
 7 -
-8  different, length same at 89; different word(s): (it - It)
+8  different, length same at 89; different word(s): (It - it)
 9 -
 10 -
 11 -

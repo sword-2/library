@@ -1,9 +1,9 @@
 2 Chronicles 11
 
 1 -
-2  different, length same at 65; different word(s): (Lord - LORD)
+2  different, length same at 65; different word(s): (LORD - Lord)
 3 -
-4  different, length same at 215; different word(s): (Lord, - LORD,) (Lord, - LORD,)
+4  different, length same at 215; different word(s): (LORD, - Lord,) (LORD, - Lord,)
 5 -
 6 -
 7 -
@@ -13,9 +13,9 @@
 11 -
 12 -
 13 -
-14  different, length same at 183; different word(s): (Lord: - LORD:)
+14  different, length same at 183; different word(s): (LORD: - Lord:)
 15 -
-16  different, length same at 170; different word(s): (Lord - LORD) (Lord - LORD)
+16  different, length same at 170; different word(s): (LORD - Lord) (LORD - Lord)
 17 -
 18 -
 19 -

@@ -9,6 +9,6 @@ Hosea 11
 7 -
 8 -
 9 -
-10  different, length same at 125; different word(s): (Lord: - LORD:)
-11  different, length same at 139; different word(s): (Lord. - LORD.)
+10  different, length same at 125; different word(s): (LORD: - Lord:)
+11  different, length same at 139; different word(s): (LORD. - Lord.)
 12 -

@@ -8,4 +8,4 @@ Chapter: 02
 Chapter: 03
 
 Chapter: 04
-	6 different, lengths different;  Gutenberg (length=108): Let your speech be always with grace, seasoned with salt, that ye may know how ye ought to answer every man.; Biblegateway (length=107): Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.
+	6 different, lengths different;  Gutenberg (length=107): Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.; Biblegateway (length=108): Let your speech be always with grace, seasoned with salt, that ye may know how ye ought to answer every man.

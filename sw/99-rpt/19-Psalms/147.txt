@@ -1,17 +1,17 @@
 Psalms 147
 
-1  different, length same at 106; different word(s): (Lord: - LORD:)
-2  different, length same at 79; different word(s): (Lord - LORD)
+1  different, length same at 106; different word(s): (LORD: - Lord:)
+2  different, length same at 79; different word(s): (LORD - Lord)
 3 -
 4 -
 5 -
-6  different, length same at 71; different word(s): (Lord - LORD)
-7  different, length same at 77; different word(s): (Lord - LORD)
+6  different, length same at 71; different word(s): (LORD - Lord)
+7  different, length same at 77; different word(s): (LORD - Lord)
 8 -
 9 -
 10 -
-11  different, length same at 80; different word(s): (Lord - LORD)
-12  different, length same at 53; different word(s): (Lord, - LORD,)
+11  different, length same at 80; different word(s): (LORD - Lord)
+12  different, length same at 53; different word(s): (LORD, - Lord,)
 13 -
 14 -
 15 -
@@ -19,4 +19,4 @@ Psalms 147
 17 -
 18 -
 19 -
-20  different, length same at 109; different word(s): (Lord. - LORD.)
+20  different, length same at 109; different word(s): (LORD. - Lord.)

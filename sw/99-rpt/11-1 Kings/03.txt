@@ -1,20 +1,20 @@
 1 Kings 03
 
-1  different, length same at 240; different word(s): (Lord, - LORD,)
-2  different, length same at 120; different word(s): (Lord, - LORD,)
-3  different, length same at 125; different word(s): (Lord, - LORD,)
+1  different, length same at 240; different word(s): (LORD, - Lord,)
+2  different, length same at 120; different word(s): (LORD, - Lord,)
+3  different, length same at 125; different word(s): (LORD, - Lord,)
 4 -
-5  different, length same at 101; different word(s): (Lord - LORD)
+5  different, length same at 101; different word(s): (LORD - Lord)
 6 -
-7  different, length same at 149; different word(s): (Lord - LORD)
+7  different, length same at 149; different word(s): (LORD - Lord)
 8 -
 9 -
-10  different, length same at 67; different word(s): (Lord, - LORD,)
+10  different, length same at 67; different word(s): (LORD, - Lord,)
 11 -
 12 -
 13 -
 14 -
-15  different, length same at 226; different word(s): (Lord, - LORD,)
+15  different, length same at 226; different word(s): (LORD, - Lord,)
 16 -
 17 -
 18 -

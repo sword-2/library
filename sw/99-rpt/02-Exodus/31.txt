@@ -1,6 +1,6 @@
 Exodus 31
 
-1  different, length same at 38; different word(s): (Lord - LORD)
+1  different, length same at 38; different word(s): (LORD - Lord)
 2 -
 3 -
 4 -
@@ -11,10 +11,10 @@ Exodus 31
 9 -
 10 -
 11 -
-12  different, length same at 38; different word(s): (Lord - LORD)
-13  different, length same at 211; different word(s): (Lord - LORD)
+12  different, length same at 38; different word(s): (LORD - Lord)
+13  different, length same at 211; different word(s): (LORD - Lord)
 14 -
-15  different, length same at 165; different word(s): (Lord: - LORD:)
+15  different, length same at 165; different word(s): (LORD: - Lord:)
 16 -
-17  different, length same at 161; different word(s): (Lord - LORD)
+17  different, length same at 161; different word(s): (LORD - Lord)
 18 -

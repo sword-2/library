@@ -4,14 +4,14 @@ Ezra 09
 2 -
 3 -
 4 -
-5  different, length same at 168; different word(s): (Lord - LORD)
+5  different, length same at 168; different word(s): (LORD - Lord)
 6 -
 7 -
-8  different, length same at 227; different word(s): (Lord - LORD)
+8  different, length same at 227; different word(s): (LORD - Lord)
 9 -
 10 -
 11 -
 12 -
 13 -
 14 -
-15  different, length same at 182; different word(s): (Lord - LORD)
+15  different, length same at 182; different word(s): (LORD - Lord)

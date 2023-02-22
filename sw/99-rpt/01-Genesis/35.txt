@@ -7,7 +7,7 @@ Genesis 35
 5 -
 6 -
 7 -
-8  different, lengths different;  Gutenberg (length=126): But Deborah, Rebekah's nurse died, and she was buried beneath Bethel under an oak: and the name of it was called Allonbachuth.; Biblegateway (length=125): But Deborah Rebekah's nurse died, and she was buried beneath Bethel under an oak: and the name of it was called Allonbachuth.
+8  different, lengths different;  Gutenberg (length=125): But Deborah Rebekah's nurse died, and she was buried beneath Bethel under an oak: and the name of it was called Allonbachuth.; Biblegateway (length=126): But Deborah, Rebekah's nurse died, and she was buried beneath Bethel under an oak: and the name of it was called Allonbachuth.
 9 -
 10 -
 11 -

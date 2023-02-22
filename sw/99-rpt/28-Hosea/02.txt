@@ -12,14 +12,14 @@ Hosea 02
 10 -
 11 -
 12 -
-13  different, length same at 200; different word(s): (Lord. - LORD.)
+13  different, length same at 200; different word(s): (LORD. - Lord.)
 14 -
 15 -
-16  different, length same at 107; different word(s): (Lord, - LORD,)
+16  different, length same at 107; different word(s): (LORD, - Lord,)
 17 -
 18 -
 19 -
-20  different, length same at 79; different word(s): (Lord. - LORD.)
-21  different, length same at 123; different word(s): (Lord, - LORD,)
+20  different, length same at 79; different word(s): (LORD. - Lord.)
+21  different, length same at 123; different word(s): (LORD, - Lord,)
 22 -
 23 -

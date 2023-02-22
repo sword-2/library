@@ -1,20 +1,20 @@
 2 Chronicles 25
 
 1 -
-2  different, length same at 87; different word(s): (Lord, - LORD,)
+2  different, length same at 87; different word(s): (LORD, - Lord,)
 3 -
-4  different, length same at 256; different word(s): (Lord - LORD)
+4  different, length same at 256; different word(s): (LORD - Lord)
 5 -
 6 -
-7  different, length same at 167; different word(s): (Lord - LORD)
+7  different, length same at 167; different word(s): (LORD - Lord)
 8 -
-9  different, length same at 202; different word(s): (Lord - LORD)
+9  different, length same at 202; different word(s): (LORD - Lord)
 10 -
 11 -
 12 -
 13 -
 14 -
-15  different, length same at 224; different word(s): (Lord - LORD)
+15  different, length same at 224; different word(s): (LORD - Lord)
 16 -
 17 -
 18 -
@@ -26,5 +26,5 @@
 24 -
 25 -
 26 -
-27  different, length same at 198; different word(s): (Lord - LORD)
+27  different, length same at 198; different word(s): (LORD - Lord)
 28 -

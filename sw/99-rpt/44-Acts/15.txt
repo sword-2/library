@@ -10,7 +10,7 @@ Acts 15
 8 -
 9 -
 10 -
-11  different, length same at 95; different word(s): (Lord - LORD)
+11  different, length same at 95; different word(s): (LORD - Lord)
 12 -
 13 -
 14 -
@@ -35,7 +35,7 @@ Acts 15
 33 -
 34 -
 35 -
-36  different, length same at 163; different word(s): (Lord, - LORD,)
+36  different, length same at 163; different word(s): (LORD, - Lord,)
 37 -
 38 -
 39 -

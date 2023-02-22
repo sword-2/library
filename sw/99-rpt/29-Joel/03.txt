@@ -7,17 +7,17 @@ Joel 03
 5 -
 6 -
 7 -
-8  different, length same at 175; different word(s): (Lord - LORD)
+8  different, length same at 175; different word(s): (LORD - Lord)
 9 -
 10 -
-11  different, length same at 142; different word(s): (Lord. - LORD.)
+11  different, length same at 142; different word(s): (LORD. - Lord.)
 12 -
 13 -
-14  different, length same at 108; different word(s): (Lord - LORD)
+14  different, length same at 108; different word(s): (LORD - Lord)
 15 -
-16  different, length same at 205; different word(s): (Lord - LORD) (Lord - LORD)
-17  different, length same at 166; different word(s): (Lord - LORD)
-18  different, length same at 272; different word(s): (Lord, - LORD,)
+16  different, length same at 205; different word(s): (LORD - Lord) (LORD - Lord)
+17  different, length same at 166; different word(s): (LORD - Lord)
+18  different, length same at 272; different word(s): (LORD, - Lord,)
 19 -
 20 -
-21  different, length same at 87; different word(s): (Lord - LORD)
+21  different, length same at 87; different word(s): (LORD - Lord)

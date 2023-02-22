@@ -1,19 +1,19 @@
 1 Samuel 07
 
-1  different, length same at 185; different word(s): (Lord, - LORD,) (Lord. - LORD.)
-2  different, length same at 160; different word(s): (Lord. - LORD.)
-3  different, length same at 286; different word(s): (Lord - LORD) (Lord, - LORD,)
-4  different, length same at 88; different word(s): (Lord - LORD)
-5  different, length same at 84; different word(s): (Lord. - LORD.)
-6  different, length same at 213; different word(s): (Lord, - LORD,) (Lord. - LORD.)
+1  different, length same at 185; different word(s): (LORD, - Lord,) (LORD. - Lord.)
+2  different, length same at 160; different word(s): (LORD. - Lord.)
+3  different, length same at 286; different word(s): (LORD - Lord) (LORD, - Lord,)
+4  different, length same at 88; different word(s): (LORD - Lord)
+5  different, length same at 84; different word(s): (LORD. - Lord.)
+6  different, length same at 213; different word(s): (LORD, - Lord,) (LORD. - Lord.)
 7 -
-8  different, length same at 146; different word(s): (Lord - LORD)
-9  different, length same at 156; different word(s): (Lord: - LORD:) (Lord - LORD) (Lord - LORD)
-10  different, length same at 238; different word(s): (Lord - LORD)
+8  different, length same at 146; different word(s): (LORD - Lord)
+9  different, length same at 156; different word(s): (LORD: - Lord:) (LORD - Lord) (LORD - Lord)
+10  different, length same at 238; different word(s): (LORD - Lord)
 11 -
-12  different, length same at 139; different word(s): (Lord - LORD)
-13  different, length same at 157; different word(s): (Lord - LORD)
+12  different, length same at 139; different word(s): (LORD - Lord)
+13  different, length same at 157; different word(s): (LORD - Lord)
 14 -
 15 -
 16 -
-17  different, length same at 124; different word(s): (Lord. - LORD.)
+17  different, length same at 124; different word(s): (LORD. - Lord.)

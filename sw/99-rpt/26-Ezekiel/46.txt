@@ -1,21 +1,21 @@
 Ezekiel 46
 
-1  different, length same at 207; different word(s): (God; - GOD;)
+1  different, length same at 207; different word(s): (GOD; - God;)
 2 -
-3  different, length same at 124; different word(s): (Lord - LORD)
-4  different, length same at 146; different word(s): (Lord - LORD)
+3  different, length same at 124; different word(s): (LORD - Lord)
+4  different, length same at 146; different word(s): (LORD - Lord)
 5 -
 6 -
 7 -
 8 -
-9  different, length same at 377; different word(s): (Lord - LORD)
+9  different, length same at 377; different word(s): (LORD - Lord)
 10 -
 11 -
-12  different, length same at 339; different word(s): (Lord, - LORD,)
-13  different, length same at 137; different word(s): (Lord - LORD)
-14  different, length same at 224; different word(s): (Lord. - LORD.)
+12  different, length same at 339; different word(s): (LORD, - Lord,)
+13  different, length same at 137; different word(s): (LORD - Lord)
+14  different, length same at 224; different word(s): (LORD. - Lord.)
 15 -
-16  different, length same at 161; different word(s): (God; - GOD;)
+16  different, length same at 161; different word(s): (GOD; - God;)
 17 -
 18 -
 19 -

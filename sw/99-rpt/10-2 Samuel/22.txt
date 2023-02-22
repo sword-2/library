@@ -1,37 +1,37 @@
 2 Samuel 22
 
-1  different, length same at 160; different word(s): (Lord - LORD) (Lord - LORD)
-2  different, length same at 68; different word(s): (Lord - LORD)
+1  different, length same at 160; different word(s): (LORD - Lord) (LORD - Lord)
+2  different, length same at 68; different word(s): (LORD - Lord)
 3 -
-4  different, length same at 92; different word(s): (Lord, - LORD,)
+4  different, length same at 92; different word(s): (LORD, - Lord,)
 5 -
 6 -
-7  different, length same at 139; different word(s): (Lord, - LORD,)
+7  different, length same at 139; different word(s): (LORD, - Lord,)
 8 -
 9 -
 10 -
 11 -
 12 -
 13 -
-14  different, length same at 68; different word(s): (Lord - LORD)
+14  different, length same at 68; different word(s): (LORD - Lord)
 15 -
-16  different, length same at 156; different word(s): (Lord, - LORD,)
+16  different, length same at 156; different word(s): (LORD, - Lord,)
 17 -
 18 -
-19  different, length same at 70; different word(s): (Lord - LORD)
+19  different, length same at 70; different word(s): (LORD - Lord)
 20 -
-21  different, length same at 114; different word(s): (Lord - LORD)
-22  different, length same at 81; different word(s): (Lord, - LORD,)
+21  different, length same at 114; different word(s): (LORD - Lord)
+22  different, length same at 81; different word(s): (LORD, - Lord,)
 23 -
 24 -
-25  different, length same at 113; different word(s): (Lord - LORD)
+25  different, length same at 113; different word(s): (LORD - Lord)
 26 -
 27 -
 28 -
-29  different, length same at 68; different word(s): (Lord: - LORD:) (Lord - LORD)
+29  different, length same at 68; different word(s): (LORD: - Lord:) (LORD - Lord)
 30 -
-31  different, length same at 109; different word(s): (Lord - LORD)
-32  different, length same at 63; different word(s): (Lord? - LORD?)
+31  different, length same at 109; different word(s): (LORD - Lord)
+32  different, length same at 63; different word(s): (LORD? - Lord?)
 33 -
 34 -
 35 -
@@ -41,13 +41,13 @@
 39 -
 40 -
 41 -
-42  different, length same at 86; different word(s): (Lord, - LORD,)
+42  different, length same at 86; different word(s): (LORD, - Lord,)
 43 -
 44 -
 45 -
 46 -
-47  different, length same at 92; different word(s): (Lord - LORD)
+47  different, length same at 92; different word(s): (LORD - Lord)
 48 -
 49 -
-50  different, length same at 105; different word(s): (Lord, - LORD,)
+50  different, length same at 105; different word(s): (LORD, - Lord,)
 51 -

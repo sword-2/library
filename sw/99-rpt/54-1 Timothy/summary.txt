@@ -6,11 +6,11 @@ Chapter: 01
 Chapter: 02
 
 Chapter: 03
-	1 different, length same at 87; different word(s): (if - If)
+	1 different, length same at 87; different word(s): (If - if)
 
 Chapter: 04
 
 Chapter: 05
-	18 different, length same at 124; different word(s): (thou - Thou)
+	18 different, length same at 124; different word(s): (Thou - thou)
 
 Chapter: 06

@@ -1,19 +1,19 @@
 Joshua 13
 
-1  different, length same at 161; different word(s): (Lord - LORD)
+1  different, length same at 161; different word(s): (LORD - Lord)
 2 -
 3 -
 4 -
 5 -
 6 -
 7 -
-8  different, length same at 169; different word(s): (Lord - LORD)
+8  different, length same at 169; different word(s): (LORD - Lord)
 9 -
 10 -
 11 -
 12 -
 13 -
-14  different, length same at 153; different word(s): (Lord - LORD)
+14  different, length same at 153; different word(s): (LORD - Lord)
 15 -
 16 -
 17 -
@@ -32,4 +32,4 @@ Joshua 13
 30 -
 31 -
 32 -
-33  different, length same at 126; different word(s): (Lord - LORD)
+33  different, length same at 126; different word(s): (LORD - Lord)

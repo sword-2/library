@@ -1,12 +1,12 @@
 Ezra 01
 
-1  different, length same at 265; different word(s): (Lord - LORD) (Lord - LORD)
-2  different, length same at 178; different word(s): (Lord - LORD)
-3  different, length same at 200; different word(s): (Lord - LORD)
+1  different, length same at 265; different word(s): (LORD - Lord) (LORD - Lord)
+2  different, length same at 178; different word(s): (LORD - Lord)
+3  different, length same at 200; different word(s): (LORD - Lord)
 4 -
-5  different, length same at 200; different word(s): (Lord - LORD)
+5  different, length same at 200; different word(s): (LORD - Lord)
 6 -
-7  different, length same at 171; different word(s): (Lord, - LORD,)
+7  different, length same at 171; different word(s): (LORD, - Lord,)
 8 -
 9 -
 10 -

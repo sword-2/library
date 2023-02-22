@@ -1,18 +1,18 @@
 Numbers 12
 
 1 -
-2  different, length same at 111; different word(s): (Lord - LORD) (Lord - LORD)
+2  different, length same at 111; different word(s): (LORD - Lord) (LORD - Lord)
 3 -
-4  different, length same at 156; different word(s): (Lord - LORD)
-5  different, length same at 146; different word(s): (Lord - LORD)
-6  different, length same at 156; different word(s): (Lord - LORD)
+4  different, length same at 156; different word(s): (LORD - Lord)
+5  different, length same at 146; different word(s): (LORD - Lord)
+6  different, length same at 156; different word(s): (LORD - Lord)
 7 -
-8  different, length same at 197; different word(s): (Lord - LORD)
-9  different, length same at 68; different word(s): (Lord - LORD)
+8  different, length same at 197; different word(s): (LORD - Lord)
+9  different, length same at 68; different word(s): (LORD - Lord)
 10 -
 11 -
 12 -
-13  different, length same at 75; different word(s): (Lord, - LORD,)
-14  different, length same at 198; different word(s): (Lord - LORD)
+13  different, length same at 75; different word(s): (LORD, - Lord,)
+14  different, length same at 198; different word(s): (LORD - Lord)
 15 -
 16 -

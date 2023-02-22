@@ -1,15 +1,15 @@
 Numbers 36
 
 1 -
-2  different, length same at 219; different word(s): (Lord - LORD) (Lord - LORD)
+2  different, length same at 219; different word(s): (LORD - Lord) (LORD - Lord)
 3 -
 4 -
-5  different, length same at 133; different word(s): (Lord, - LORD,)
-6  different, length same at 199; different word(s): (Lord - LORD)
+5  different, length same at 133; different word(s): (LORD, - Lord,)
+6  different, length same at 199; different word(s): (LORD - Lord)
 7 -
 8 -
 9 -
-10  different, length same at 69; different word(s): (Lord - LORD)
-11  different, lengths different;  Gutenberg (length=130): For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their fathers brothers' sons:; Biblegateway (length=131): For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father's brothers' sons:
+10  different, length same at 69; different word(s): (LORD - Lord)
+11  different, lengths different;  Gutenberg (length=131): For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father's brothers' sons:; Biblegateway (length=130): For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their fathers brothers' sons:
 12 -
-13  different, length same at 165; different word(s): (Lord - LORD)
+13  different, length same at 165; different word(s): (LORD - Lord)

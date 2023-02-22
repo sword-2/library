@@ -1,20 +1,20 @@
 Ezekiel 44
 
 1 -
-2  different, length same at 197; different word(s): (Lord - LORD) (Lord, - LORD,)
-3  different, length same at 176; different word(s): (Lord; - LORD;)
-4  different, length same at 166; different word(s): (Lord - LORD) (Lord: - LORD:)
-5  different, length same at 294; different word(s): (Lord - LORD) (Lord, - LORD,)
-6  different, length same at 158; different word(s): (God; - GOD;)
+2  different, length same at 197; different word(s): (LORD - Lord) (LORD, - Lord,)
+3  different, length same at 176; different word(s): (LORD; - Lord;)
+4  different, length same at 166; different word(s): (LORD - Lord) (LORD: - Lord:)
+5  different, length same at 294; different word(s): (LORD - Lord) (LORD, - Lord,)
+6  different, length same at 158; different word(s): (GOD; - God;)
 7 -
 8 -
-9  different, length same at 174; different word(s): (God; - GOD;)
+9  different, length same at 174; different word(s): (GOD; - God;)
 10 -
 11 -
-12  different, length same at 214; different word(s): (God, - GOD,)
+12  different, length same at 214; different word(s): (GOD, - God,)
 13 -
 14 -
-15  different, length same at 272; different word(s): (God: - GOD:)
+15  different, length same at 272; different word(s): (GOD: - God:)
 16 -
 17 -
 18 -
@@ -26,7 +26,7 @@ Ezekiel 44
 24 -
 25 -
 26 -
-27  different, length same at 153; different word(s): (God. - GOD.)
+27  different, length same at 153; different word(s): (GOD. - God.)
 28 -
 29 -
 30 -

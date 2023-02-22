@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['named_5fpipe_10',['named_pipe',['../group__VerseCompare.html#ga61601ad30447595b6882ab38cb4db84e',1,'VC.cpp']]],
-  ['nl_11',['nl',['../group__VerseCompare.html#gac86ea55663b7267e3f051899144fbb21',1,'VC.cpp']]]
+  ['mainpage_20_2d_20comparison_20of_20gutenberg_20and_20biblegateway_8',['mainpage - comparison of Gutenberg and BibleGateway',['../index.html',1,'']]],
+  ['main_9',['main',['../group__BibleGatewayParse.html#gae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;BGp.cpp'],['../group__VerseCompare.html#ga3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;VC.cpp']]],
+  ['mainpage_2edox_10',['mainpage.dox',['../mainpage_8dox.html',1,'']]],
+  ['msg_11',['msg',['../group__VerseCompare.html#ga30c3e2a6148eb3534efc9e78020a8da8',1,'VC.cpp']]]
 ];

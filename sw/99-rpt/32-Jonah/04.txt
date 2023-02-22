@@ -1,13 +1,13 @@
 Jonah 04
 
 1 -
-2  different, length same at 277; different word(s): (Lord, - LORD,) (Lord, - LORD,)
-3  different, length same at 106; different word(s): (Lord, - LORD,)
-4  different, length same at 48; different word(s): (Lord, - LORD,)
+2  different, length same at 277; different word(s): (LORD, - Lord,) (LORD, - Lord,)
+3  different, length same at 106; different word(s): (LORD, - Lord,)
+4  different, length same at 48; different word(s): (LORD, - Lord,)
 5 -
-6  different, length same at 183; different word(s): (Lord - LORD)
+6  different, length same at 183; different word(s): (LORD - Lord)
 7 -
 8 -
 9 -
-10  different, length same at 165; different word(s): (Lord, - LORD,)
-11  different, length same at 184, unknown difference:  Gutenberg (length=184): And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?; Biblegateway (length=184): And should not I spare Nineveh, that great city, wherein are more then sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?
+10  different, length same at 165; different word(s): (LORD, - Lord,)
+11  different, length same at 184, unknown difference:  Gutenberg (length=184): And should not I spare Nineveh, that great city, wherein are more then sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?; Biblegateway (length=184): And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?

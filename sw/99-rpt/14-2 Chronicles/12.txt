@@ -1,18 +1,18 @@
 2 Chronicles 12
 
-1  different, length same at 150; different word(s): (Lord, - LORD,)
-2  different, length same at 157; different word(s): (Lord, - LORD,)
+1  different, length same at 150; different word(s): (LORD, - Lord,)
+2  different, length same at 157; different word(s): (LORD, - Lord,)
 3 -
 4 -
-5  different, length same at 254; different word(s): (Lord, - LORD,)
-6  different, length same at 102; different word(s): (Lord - LORD)
-7  different, length same at 279; different word(s): (Lord - LORD) (Lord - LORD)
+5  different, length same at 254; different word(s): (LORD, - Lord,)
+6  different, length same at 102; different word(s): (LORD - Lord)
+7  different, length same at 279; different word(s): (LORD - Lord) (LORD - Lord)
 8 -
-9  different, length same at 222; different word(s): (Lord, - LORD,)
+9  different, length same at 222; different word(s): (LORD, - Lord,)
 10 -
-11  different, length same at 133; different word(s): (Lord, - LORD,)
-12  different, length same at 145; different word(s): (Lord - LORD)
-13  different, length same at 313; different word(s): (Lord - LORD)
-14  different, length same at 68; different word(s): (Lord. - LORD.)
+11  different, length same at 133; different word(s): (LORD, - Lord,)
+12  different, length same at 145; different word(s): (LORD - Lord)
+13  different, length same at 313; different word(s): (LORD - Lord)
+14  different, length same at 68; different word(s): (LORD. - Lord.)
 15 -
 16 -

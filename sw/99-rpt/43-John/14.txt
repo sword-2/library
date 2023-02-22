@@ -7,8 +7,8 @@ John 14
 5 -
 6 -
 7 -
-8  different, length same at 69, unknown difference:  Gutenberg (length=69): Philip saith unto him, Lord, show us the Father, and it sufficeth us.; Biblegateway (length=69): Philip saith unto him, Lord, shew us the Father, and it sufficeth us.
-9  different, length same at 185, unknown difference:  Gutenberg (length=185): Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Show us the Father?; Biblegateway (length=185): Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Shew us the Father?
+8  different, length same at 69, unknown difference:  Gutenberg (length=69): Philip saith unto him, Lord, shew us the Father, and it sufficeth us.; Biblegateway (length=69): Philip saith unto him, Lord, show us the Father, and it sufficeth us.
+9  different, length same at 185, unknown difference:  Gutenberg (length=185): Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Shew us the Father?; Biblegateway (length=185): Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Show us the Father?
 10 -
 11 -
 12 -

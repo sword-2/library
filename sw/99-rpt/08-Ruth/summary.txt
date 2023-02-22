@@ -2,24 +2,24 @@ Ruth Summary of differences by chapter
 
 
 Chapter: 01
-	6 different, length same at 193; different word(s): (Lord - LORD)
-	8 different, length same at 160; different word(s): (Lord - LORD)
-	9 different, length same at 146; different word(s): (Lord - LORD)
-	13 different, length same at 198; different word(s): (Lord - LORD)
-	17 different, length same at 131; different word(s): (Lord - LORD)
-	21 different, length same at 168; different word(s): (Lord - LORD) (Lord - LORD)
+	6 different, length same at 193; different word(s): (LORD - Lord)
+	8 different, length same at 160; different word(s): (LORD - Lord)
+	9 different, length same at 146; different word(s): (LORD - Lord)
+	13 different, length same at 198; different word(s): (LORD - Lord)
+	17 different, length same at 131; different word(s): (LORD - Lord)
+	21 different, length same at 168; different word(s): (LORD - Lord) (LORD - Lord)
 
 Chapter: 02
-	4 different, length same at 131; different word(s): (Lord - LORD) (Lord - LORD)
-	12 different, length same at 130; different word(s): (Lord - LORD) (Lord - LORD)
-	20 different, length same at 215; different word(s): (Lord, - LORD,)
+	4 different, length same at 131; different word(s): (LORD - Lord) (LORD - Lord)
+	12 different, length same at 130; different word(s): (LORD - Lord) (LORD - Lord)
+	20 different, length same at 215; different word(s): (LORD, - Lord,)
 
 Chapter: 03
-	10 different, length same at 195; different word(s): (Lord, - LORD,)
-	13 different, length same at 290; different word(s): (Lord - LORD)
+	10 different, length same at 195; different word(s): (LORD, - Lord,)
+	13 different, length same at 290; different word(s): (LORD - Lord)
 
 Chapter: 04
-	11 different, length same at 265; different word(s): (Lord - LORD)
-	12 different, length same at 138; different word(s): (Lord - LORD)
-	13 different, length same at 120; different word(s): (Lord - LORD)
-	14 different, length same at 143; different word(s): (Lord, - LORD,)
+	11 different, length same at 265; different word(s): (LORD - Lord)
+	12 different, length same at 138; different word(s): (LORD - Lord)
+	13 different, length same at 120; different word(s): (LORD - Lord)
+	14 different, length same at 143; different word(s): (LORD, - Lord,)

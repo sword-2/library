@@ -12,9 +12,9 @@
 10 -
 11 -
 12 -
-13  different, length same at 142, unknown difference:  Gutenberg (length=142): And not as Moses, which put a veil over his face, that the children of Israel could not stedfastly look to the end of that which is abolished:; Biblegateway (length=142): And not as Moses, which put a vail over his face, that the children of Israel could not stedfastly look to the end of that which is abolished:
+13  different, length same at 142, unknown difference:  Gutenberg (length=142): And not as Moses, which put a vail over his face, that the children of Israel could not stedfastly look to the end of that which is abolished:; Biblegateway (length=142): And not as Moses, which put a veil over his face, that the children of Israel could not stedfastly look to the end of that which is abolished:
 14 -
 15 -
 16 -
 17 -
-18  different, length same at 161; different word(s): (Lord. - LORD.)
+18  different, length same at 161; different word(s): (LORD. - Lord.)

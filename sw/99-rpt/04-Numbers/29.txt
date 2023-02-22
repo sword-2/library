@@ -1,18 +1,18 @@
 Numbers 29
 
 1 -
-2  different, length same at 148; different word(s): (Lord; - LORD;)
+2  different, length same at 148; different word(s): (LORD; - Lord;)
 3 -
 4 -
 5 -
-6  different, length same at 231; different word(s): (Lord. - LORD.)
+6  different, length same at 231; different word(s): (LORD. - Lord.)
 7 -
-8  different, length same at 172; different word(s): (Lord - LORD)
+8  different, length same at 172; different word(s): (LORD - Lord)
 9 -
 10 -
 11 -
-12  different, length same at 161; different word(s): (Lord - LORD)
-13  different, length same at 199; different word(s): (Lord; - LORD;)
+12  different, length same at 161; different word(s): (LORD - Lord)
+13  different, length same at 199; different word(s): (LORD; - Lord;)
 14 -
 15 -
 16 -
@@ -35,8 +35,8 @@ Numbers 29
 33 -
 34 -
 35 -
-36  different, length same at 164; different word(s): (Lord: - LORD:)
+36  different, length same at 164; different word(s): (LORD: - Lord:)
 37 -
 38 -
-39  different, length same at 220; different word(s): (Lord - LORD)
-40  different, length same at 85; different word(s): (Lord - LORD)
+39  different, length same at 220; different word(s): (LORD - Lord)
+40  different, length same at 85; different word(s): (LORD - Lord)

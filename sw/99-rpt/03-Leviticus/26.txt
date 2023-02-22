@@ -1,7 +1,7 @@
 Leviticus 26
 
-1  different, length same at 188; different word(s): (Lord - LORD)
-2  different, length same at 69; different word(s): (Lord. - LORD.)
+1  different, length same at 188; different word(s): (LORD - Lord)
+2  different, length same at 69; different word(s): (LORD. - Lord.)
 3 -
 4 -
 5 -
@@ -12,7 +12,7 @@ Leviticus 26
 10 -
 11 -
 12 -
-13  different, length same at 177; different word(s): (Lord - LORD)
+13  different, length same at 177; different word(s): (LORD - Lord)
 14 -
 15 -
 16 -
@@ -43,6 +43,6 @@ Leviticus 26
 41 -
 42 -
 43 -
-44  different, length same at 208; different word(s): (Lord - LORD)
-45  different, length same at 185; different word(s): (Lord. - LORD.)
-46  different, length same at 142; different word(s): (Lord - LORD)
+44  different, length same at 208; different word(s): (LORD - Lord)
+45  different, length same at 185; different word(s): (LORD. - Lord.)
+46  different, length same at 142; different word(s): (LORD - Lord)

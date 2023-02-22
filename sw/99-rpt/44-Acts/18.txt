@@ -27,4 +27,4 @@ Acts 18
 25 -
 26 -
 27 -
-28  different, lengths different;  Gutenberg (length=103): For he mightily convinced the Jews, and that publicly, shewing by the scriptures that Jesus was Christ.; Biblegateway (length=104): For he mightily convinced the Jews, and that publickly, shewing by the scriptures that Jesus was Christ.
+28  different, lengths different;  Gutenberg (length=104): For he mightily convinced the Jews, and that publickly, shewing by the scriptures that Jesus was Christ.; Biblegateway (length=103): For he mightily convinced the Jews, and that publicly, shewing by the scriptures that Jesus was Christ.

@@ -1,14 +1,14 @@
 Numbers 26
 
-1  different, length same at 122; different word(s): (Lord - LORD)
+1  different, length same at 122; different word(s): (LORD - Lord)
 2 -
 3 -
-4  different, length same at 160; different word(s): (Lord - LORD)
+4  different, length same at 160; different word(s): (LORD - Lord)
 5 -
 6 -
 7 -
 8 -
-9  different, length same at 228; different word(s): (Lord: - LORD:)
+9  different, length same at 228; different word(s): (LORD: - Lord:)
 10 -
 11 -
 12 -
@@ -39,7 +39,7 @@ Numbers 26
 37 -
 38 -
 39 -
-40  different, length same at 119; different word(s): (ard - Ard)
+40  different, length same at 119; different word(s): (Ard - ard)
 41 -
 42 -
 43 -
@@ -51,7 +51,7 @@ Numbers 26
 49 -
 50 -
 51 -
-52  different, length same at 38; different word(s): (Lord - LORD)
+52  different, length same at 38; different word(s): (LORD - Lord)
 53 -
 54 -
 55 -
@@ -60,8 +60,8 @@ Numbers 26
 58 -
 59 -
 60 -
-61  different, length same at 73; different word(s): (Lord. - LORD.)
+61  different, length same at 73; different word(s): (LORD. - Lord.)
 62 -
 63 -
 64 -
-65  different, length same at 169; different word(s): (Lord - LORD)
+65  different, length same at 169; different word(s): (LORD - Lord)

@@ -1,18 +1,18 @@
 Isaiah 40
 
 1 -
-2  different, length same at 183; different word(s): (Lord's - LORD's)
-3  different, length same at 130; different word(s): (Lord, - LORD,)
+2  different, length same at 183; different word(s): (LORD's - Lord's)
+3  different, length same at 130; different word(s): (LORD, - Lord,)
 4 -
-5  different, length same at 123; different word(s): (Lord - LORD) (Lord - LORD)
+5  different, length same at 123; different word(s): (LORD - Lord) (LORD - Lord)
 6 -
-7  different, length same at 115; different word(s): (Lord - LORD)
+7  different, length same at 115; different word(s): (LORD - Lord)
 8 -
 9 -
-10  different, length same at 137; different word(s): (God - GOD)
+10  different, length same at 137; different word(s): (GOD - God)
 11 -
 12 -
-13  different, length same at 82; different word(s): (Lord, - LORD,)
+13  different, length same at 82; different word(s): (LORD, - Lord,)
 14 -
 15 -
 16 -
@@ -26,8 +26,8 @@ Isaiah 40
 24 -
 25 -
 26 -
-27  different, length same at 122; different word(s): (Lord, - LORD,)
-28  different, length same at 191; different word(s): (Lord, - LORD,)
+27  different, length same at 122; different word(s): (LORD, - Lord,)
+28  different, length same at 191; different word(s): (LORD, - Lord,)
 29 -
 30 -
-31  different, length same at 172; different word(s): (Lord - LORD)
+31  different, length same at 172; different word(s): (LORD - Lord)

@@ -1,6 +1,6 @@
 Genesis 08
 
-1  different, length same at 166, unknown difference:  Gutenberg (length=166): And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters assuaged;; Biblegateway (length=166): And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters asswaged;
+1  different, length same at 166, unknown difference:  Gutenberg (length=166): And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters asswaged;; Biblegateway (length=166): And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters assuaged;
 2 -
 3 -
 4 -
@@ -19,6 +19,6 @@ Genesis 08
 17 -
 18 -
 19 -
-20  different, length same at 138; different word(s): (Lord; - LORD;)
-21  different, length same at 258; different word(s): (Lord - LORD) (Lord - LORD)
+20  different, length same at 138; different word(s): (LORD; - Lord;)
+21  different, length same at 258; different word(s): (LORD - Lord) (LORD - Lord)
 22 -

@@ -27,4 +27,4 @@ Job 28
 25 -
 26 -
 27 -
-28  different, length same at 109; different word(s): (Lord, - LORD,)
+28  different, length same at 109; different word(s): (LORD, - Lord,)

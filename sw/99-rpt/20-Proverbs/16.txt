@@ -1,16 +1,16 @@
 Proverbs 16
 
-1  different, length same at 85; different word(s): (Lord. - LORD.)
-2  different, length same at 83; different word(s): (Lord - LORD)
-3  different, length same at 70; different word(s): (Lord, - LORD,)
-4  different, length same at 84; different word(s): (Lord - LORD)
-5  different, length same at 117; different word(s): (Lord: - LORD:)
-6  different, length same at 88; different word(s): (Lord - LORD)
-7  different, length same at 86; different word(s): (Lord, - LORD,)
+1  different, length same at 85; different word(s): (LORD. - Lord.)
+2  different, length same at 83; different word(s): (LORD - Lord)
+3  different, length same at 70; different word(s): (LORD, - Lord,)
+4  different, length same at 84; different word(s): (LORD - Lord)
+5  different, length same at 117; different word(s): (LORD: - Lord:)
+6  different, length same at 88; different word(s): (LORD - Lord)
+7  different, length same at 86; different word(s): (LORD, - Lord,)
 8 -
-9  different, length same at 65; different word(s): (Lord - LORD)
+9  different, length same at 65; different word(s): (LORD - Lord)
 10 -
-11  different, length same at 82; different word(s): (Lord's: - LORD's:)
+11  different, length same at 82; different word(s): (LORD's: - Lord's:)
 12 -
 13 -
 14 -
@@ -19,7 +19,7 @@ Proverbs 16
 17 -
 18 -
 19 -
-20  different, length same at 94; different word(s): (Lord, - LORD,)
+20  different, length same at 94; different word(s): (LORD, - Lord,)
 21 -
 22 -
 23 -
@@ -32,4 +32,4 @@ Proverbs 16
 30 -
 31 -
 32 -
-33  different, length same at 77; different word(s): (Lord. - LORD.)
+33  different, length same at 77; different word(s): (LORD. - Lord.)

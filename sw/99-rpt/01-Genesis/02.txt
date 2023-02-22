@@ -3,25 +3,25 @@ Genesis 02
 1 -
 2 -
 3 -
-4  different, length same at 142; different word(s): (Lord - LORD)
-5  different, length same at 203; different word(s): (Lord - LORD)
+4  different, length same at 142; different word(s): (LORD - Lord)
+5  different, length same at 203; different word(s): (LORD - Lord)
 6 -
-7  different, length same at 135; different word(s): (Lord - LORD)
-8  different, length same at 96; different word(s): (Lord - LORD)
-9  different, length same at 202; different word(s): (Lord - LORD)
+7  different, length same at 135; different word(s): (LORD - Lord)
+8  different, length same at 96; different word(s): (LORD - Lord)
+9  different, length same at 202; different word(s): (LORD - Lord)
 10 -
 11 -
 12 -
 13 -
 14 -
-15  different, length same at 94; different word(s): (Lord - LORD)
-16  different, length same at 95; different word(s): (Lord - LORD)
+15  different, length same at 94; different word(s): (LORD - Lord)
+16  different, length same at 95; different word(s): (LORD - Lord)
 17 -
-18  different, length same at 105; different word(s): (Lord - LORD)
-19  different, length same at 230; different word(s): (Lord - LORD)
+18  different, length same at 105; different word(s): (LORD - Lord)
+19  different, length same at 230; different word(s): (LORD - Lord)
 20 -
-21  different, length same at 139; different word(s): (Lord - LORD)
-22  different, length same at 98; different word(s): (Lord - LORD)
+21  different, length same at 139; different word(s): (LORD - Lord)
+22  different, length same at 98; different word(s): (LORD - Lord)
 23 -
 24 -
 25 -

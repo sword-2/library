@@ -28,13 +28,13 @@ Nehemiah 10
 26 -
 27 -
 28 -
-29  different, length same at 255; different word(s): (Lord - LORD)
+29  different, length same at 255; different word(s): (LORD - Lord)
 30 -
 31 -
 32 -
 33 -
-34  different, length same at 269; different word(s): (Lord - LORD)
-35  different, length same at 132; different word(s): (Lord: - LORD:)
+34  different, length same at 269; different word(s): (LORD - Lord)
+35  different, length same at 132; different word(s): (LORD: - Lord:)
 36 -
 37 -
 38 -

@@ -11,7 +11,7 @@ Exodus 28
 9 -
 10 -
 11 -
-12  different, length same at 205; different word(s): (Lord - LORD)
+12  different, length same at 205; different word(s): (LORD - Lord)
 13 -
 14 -
 15 -
@@ -28,16 +28,16 @@ Exodus 28
 26 -
 27 -
 28 -
-29  different, length same at 185; different word(s): (Lord - LORD)
-30  different, length same at 251; different word(s): (Lord: - LORD:) (Lord - LORD)
+29  different, length same at 185; different word(s): (LORD - Lord)
+30  different, length same at 251; different word(s): (LORD: - Lord:) (LORD - Lord)
 31 -
 32 -
 33 -
 34 -
-35  different, length same at 163; different word(s): (Lord, - LORD,)
-36  different, length same at 115; different word(s): (Holiness - HOLINESS) (To - TO) (The - THE) (Lord. - LORD.)
+35  different, length same at 163; different word(s): (LORD, - Lord,)
+36  different, length same at 115; different word(s): (HOLINESS - Holiness) (TO - To) (THE - The) (LORD. - Lord.)
 37 -
-38  different, length same at 243; different word(s): (Lord. - LORD.)
+38  different, length same at 243; different word(s): (LORD. - Lord.)
 39 -
 40 -
 41 -

@@ -2,18 +2,18 @@ Joshua 03
 
 1 -
 2 -
-3  different, length same at 191; different word(s): (Lord - LORD)
+3  different, length same at 191; different word(s): (LORD - Lord)
 4 -
-5  different, length same at 103; different word(s): (Lord - LORD)
+5  different, length same at 103; different word(s): (LORD - Lord)
 6 -
-7  different, length same at 166; different word(s): (Lord - LORD)
+7  different, length same at 166; different word(s): (LORD - Lord)
 8 -
-9  different, length same at 98; different word(s): (Lord - LORD)
+9  different, length same at 98; different word(s): (LORD - Lord)
 10 -
-11  different, length same at 97; different word(s): (Lord - LORD)
+11  different, length same at 97; different word(s): (LORD - Lord)
 12 -
-13  different, length same at 289; different word(s): (Lord, - LORD,) (Lord - LORD)
+13  different, length same at 289; different word(s): (LORD, - Lord,) (LORD - Lord)
 14 -
 15 -
 16 -
-17  different, length same at 212; different word(s): (Lord - LORD)
+17  different, length same at 212; different word(s): (LORD - Lord)

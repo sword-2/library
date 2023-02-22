@@ -8,7 +8,7 @@ Chapter: 02
 Chapter: 03
 
 Chapter: 04
-	1 different, length same at 111; different word(s): (Lord - LORD)
+	1 different, length same at 111; different word(s): (LORD - Lord)
 
 Chapter: 05
 
@@ -29,8 +29,8 @@ Chapter: 12
 Chapter: 13
 
 Chapter: 14
-	8 different, length same at 69, unknown difference:  Gutenberg (length=69): Philip saith unto him, Lord, show us the Father, and it sufficeth us.; Biblegateway (length=69): Philip saith unto him, Lord, shew us the Father, and it sufficeth us.
-	9 different, length same at 185, unknown difference:  Gutenberg (length=185): Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Show us the Father?; Biblegateway (length=185): Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Shew us the Father?
+	8 different, length same at 69, unknown difference:  Gutenberg (length=69): Philip saith unto him, Lord, shew us the Father, and it sufficeth us.; Biblegateway (length=69): Philip saith unto him, Lord, show us the Father, and it sufficeth us.
+	9 different, length same at 185, unknown difference:  Gutenberg (length=185): Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Shew us the Father?; Biblegateway (length=185): Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Show us the Father?
 
 Chapter: 15
 
@@ -41,14 +41,14 @@ Chapter: 17
 Chapter: 18
 
 Chapter: 19
-	19 different, length same at 110; different word(s): (Jesus - JESUS) (Of - OF) (Nazareth - NAZARETH) (The - THE) (King - KING) (Of - OF) (The - THE) (Jews. - JEWS.)
+	19 different, length same at 110; different word(s): (JESUS - Jesus) (OF - Of) (NAZARETH - Nazareth) (THE - The) (KING - King) (OF - Of) (THE - The) (JEWS. - Jews.)
 
 Chapter: 20
-	2 different, length same at 204; different word(s): (Lord - LORD)
-	13 different, length same at 147; different word(s): (Lord, - LORD,)
-	18 different, length same at 116; different word(s): (Lord, - LORD,)
-	20 different, length same at 122; different word(s): (Lord. - LORD.)
-	25 different, length same at 247; different word(s): (Lord. - LORD.)
-	28 different, length same at 58; different word(s): (Lord - LORD)
+	2 different, length same at 204; different word(s): (LORD - Lord)
+	13 different, length same at 147; different word(s): (LORD, - Lord,)
+	18 different, length same at 116; different word(s): (LORD, - Lord,)
+	20 different, length same at 122; different word(s): (LORD. - Lord.)
+	25 different, length same at 247; different word(s): (LORD. - Lord.)
+	28 different, length same at 58; different word(s): (LORD - Lord)
 
 Chapter: 21

@@ -5,12 +5,12 @@ Ezra 07
 3 -
 4 -
 5 -
-6  different, length same at 212; different word(s): (Lord - LORD) (Lord - LORD)
+6  different, length same at 212; different word(s): (LORD - Lord) (LORD - Lord)
 7 -
 8 -
 9 -
-10  different, length same at 121; different word(s): (Lord, - LORD,)
-11  different, length same at 189; different word(s): (Lord, - LORD,)
+10  different, length same at 121; different word(s): (LORD, - Lord,)
+11  different, length same at 189; different word(s): (LORD, - Lord,)
 12 -
 13 -
 14 -
@@ -26,5 +26,5 @@ Ezra 07
 24 -
 25 -
 26 -
-27  different, length same at 153; different word(s): (Lord - LORD) (Lord - LORD)
-28  different, length same at 244; different word(s): (Lord - LORD)
+27  different, length same at 153; different word(s): (LORD - Lord) (LORD - Lord)
+28  different, length same at 244; different word(s): (LORD - Lord)

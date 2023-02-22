@@ -1,19 +1,19 @@
 Amos 07
 
-1  different, length same at 192; different word(s): (God - GOD)
-2  different, length same at 178; different word(s): (God, - GOD,)
-3  different, length same at 60; different word(s): (Lord - LORD) (Lord. - LORD.)
-4  different, length same at 146; different word(s): (God - GOD) (God - GOD)
-5  different, length same at 91; different word(s): (God, - GOD,)
-6  different, length same at 71; different word(s): (Lord - LORD) (God. - GOD.)
-7  different, length same at 109; different word(s): (Lord - LORD)
-8  different, length same at 199; different word(s): (Lord - LORD) (Lord, - LORD,)
+1  different, length same at 192; different word(s): (GOD - God)
+2  different, length same at 178; different word(s): (GOD, - God,)
+3  different, length same at 60; different word(s): (LORD - Lord) (LORD. - Lord.)
+4  different, length same at 146; different word(s): (GOD - God) (GOD - God)
+5  different, length same at 91; different word(s): (GOD, - God,)
+6  different, length same at 71; different word(s): (LORD - Lord) (GOD. - God.)
+7  different, length same at 109; different word(s): (LORD - Lord)
+8  different, length same at 199; different word(s): (LORD - Lord) (LORD, - Lord,)
 9 -
 10 -
 11 -
 12 -
 13 -
 14 -
-15  different, length same at 108; different word(s): (Lord - LORD) (Lord - LORD)
-16  different, length same at 137; different word(s): (Lord: - LORD:)
-17  different, length same at 266; different word(s): (Lord; - LORD;)
+15  different, length same at 108; different word(s): (LORD - Lord) (LORD - Lord)
+16  different, length same at 137; different word(s): (LORD: - Lord:)
+17  different, length same at 266; different word(s): (LORD; - Lord;)

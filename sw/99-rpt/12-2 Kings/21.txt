@@ -1,27 +1,27 @@
 2 Kings 21
 
 1 -
-2  different, length same at 149; different word(s): (Lord, - LORD,) (Lord - LORD)
+2  different, length same at 149; different word(s): (LORD, - Lord,) (LORD - Lord)
 3 -
-4  different, length same at 102; different word(s): (Lord, - LORD,) (Lord - LORD)
-5  different, length same at 90; different word(s): (Lord. - LORD.)
-6  different, length same at 208; different word(s): (Lord, - LORD,)
-7  different, length same at 237; different word(s): (Lord - LORD)
+4  different, length same at 102; different word(s): (LORD, - Lord,) (LORD - Lord)
+5  different, length same at 90; different word(s): (LORD. - Lord.)
+6  different, length same at 208; different word(s): (LORD, - Lord,)
+7  different, length same at 237; different word(s): (LORD - Lord)
 8 -
-9  different, length same at 141; different word(s): (Lord - LORD)
-10  different, length same at 56; different word(s): (Lord - LORD)
+9  different, length same at 141; different word(s): (LORD - Lord)
+10  different, length same at 56; different word(s): (LORD - Lord)
 11 -
-12  different, length same at 160; different word(s): (Lord - LORD)
+12  different, length same at 160; different word(s): (LORD - Lord)
 13 -
 14 -
 15 -
-16  different, length same at 204; different word(s): (Lord. - LORD.)
+16  different, length same at 204; different word(s): (LORD. - Lord.)
 17 -
 18 -
 19 -
-20  different, length same at 84; different word(s): (Lord, - LORD,)
+20  different, length same at 84; different word(s): (LORD, - Lord,)
 21 -
-22  different, length same at 82; different word(s): (Lord - LORD) (Lord. - LORD.)
+22  different, length same at 82; different word(s): (LORD - Lord) (LORD. - Lord.)
 23 -
 24 -
 25 -

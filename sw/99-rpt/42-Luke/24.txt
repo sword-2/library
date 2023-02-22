@@ -45,7 +45,7 @@ Luke 24
 43 -
 44 -
 45 -
-46  different, lengths different;  Gutenberg (length=119): And said unto them, Thus it is written, and thus it behooved Christ to suffer, and to rise from the dead the third day:; Biblegateway (length=118): And said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:
+46  different, lengths different;  Gutenberg (length=118): And said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:; Biblegateway (length=119): And said unto them, Thus it is written, and thus it behooved Christ to suffer, and to rise from the dead the third day:
 47 -
 48 -
 49 -

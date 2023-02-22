@@ -1,11 +1,11 @@
 2 Samuel 02
 
-1  different, length same at 219; different word(s): (Lord, - LORD,) (Lord - LORD)
+1  different, length same at 219; different word(s): (LORD, - Lord,) (LORD - Lord)
 2 -
 3 -
 4 -
-5  different, length same at 189; different word(s): (Lord, - LORD,)
-6  different, length same at 126; different word(s): (Lord - LORD)
+5  different, length same at 189; different word(s): (LORD, - Lord,)
+6  different, length same at 126; different word(s): (LORD - Lord)
 7 -
 8 -
 9 -

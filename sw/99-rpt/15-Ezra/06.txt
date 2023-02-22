@@ -20,5 +20,5 @@ Ezra 06
 18 -
 19 -
 20 -
-21  different, length same at 207; different word(s): (Lord - LORD)
-22  different, length same at 227; different word(s): (Lord - LORD)
+21  different, length same at 207; different word(s): (LORD - Lord)
+22  different, length same at 227; different word(s): (LORD - Lord)

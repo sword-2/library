@@ -1,8 +1,8 @@
 Deuteronomy 03
 
 1 -
-2  different, length same at 211; different word(s): (Lord - LORD)
-3  different, length same at 148; different word(s): (Lord - LORD)
+2  different, length same at 211; different word(s): (LORD - Lord)
+3  different, length same at 148; different word(s): (LORD - Lord)
 4 -
 5 -
 6 -
@@ -17,15 +17,15 @@ Deuteronomy 03
 15 -
 16 -
 17 -
-18  different, length same at 200; different word(s): (Lord - LORD)
+18  different, length same at 200; different word(s): (LORD - Lord)
 19 -
-20  different, length same at 243; different word(s): (Lord - LORD) (Lord - LORD)
-21  different, length same at 189; different word(s): (Lord - LORD) (Lord - LORD)
-22  different, length same at 69; different word(s): (Lord - LORD)
-23  different, length same at 45; different word(s): (Lord - LORD)
-24  different, length same at 192; different word(s): (God, - GOD,)
+20  different, length same at 243; different word(s): (LORD - Lord) (LORD - Lord)
+21  different, length same at 189; different word(s): (LORD - Lord) (LORD - Lord)
+22  different, length same at 69; different word(s): (LORD - Lord)
+23  different, length same at 45; different word(s): (LORD - Lord)
+24  different, length same at 192; different word(s): (GOD, - God,)
 25 -
-26  different, length same at 155; different word(s): (Lord - LORD) (Lord - LORD)
+26  different, length same at 155; different word(s): (LORD - Lord) (LORD - Lord)
 27 -
 28 -
 29 -

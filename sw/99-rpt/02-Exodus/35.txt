@@ -1,15 +1,15 @@
 Exodus 35
 
-1  different, length same at 170; different word(s): (Lord - LORD)
-2  different, length same at 169; different word(s): (Lord: - LORD:)
+1  different, length same at 170; different word(s): (LORD - Lord)
+2  different, length same at 169; different word(s): (LORD: - Lord:)
 3 -
-4  different, length same at 128; different word(s): (Lord - LORD)
-5  different, length same at 154; different word(s): (Lord: - LORD:) (Lord; - LORD;)
+4  different, length same at 128; different word(s): (LORD - Lord)
+5  different, length same at 154; different word(s): (LORD: - Lord:) (LORD; - Lord;)
 6 -
 7 -
 8 -
 9 -
-10  different, length same at 87; different word(s): (Lord - LORD)
+10  different, length same at 87; different word(s): (LORD - Lord)
 11 -
 12 -
 13 -
@@ -20,16 +20,16 @@ Exodus 35
 18 -
 19 -
 20 -
-21  different, length same at 236; different word(s): (Lord's - LORD's)
-22  different, length same at 218; different word(s): (Lord. - LORD.)
+21  different, length same at 236; different word(s): (LORD's - Lord's)
+22  different, length same at 218; different word(s): (LORD. - Lord.)
 23 -
-24  different, length same at 174; different word(s): (Lord's - LORD's)
+24  different, length same at 174; different word(s): (LORD's - Lord's)
 25 -
 26 -
 27 -
 28 -
-29  different, length same at 210; different word(s): (Lord, - LORD,) (Lord - LORD)
-30  different, length same at 141; different word(s): (Lord - LORD)
+29  different, length same at 210; different word(s): (LORD, - Lord,) (LORD - Lord)
+30  different, length same at 141; different word(s): (LORD - Lord)
 31 -
 32 -
 33 -

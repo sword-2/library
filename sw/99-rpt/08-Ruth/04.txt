@@ -10,10 +10,10 @@ Ruth 04
 8 -
 9 -
 10 -
-11  different, length same at 265; different word(s): (Lord - LORD)
-12  different, length same at 138; different word(s): (Lord - LORD)
-13  different, length same at 120; different word(s): (Lord - LORD)
-14  different, length same at 143; different word(s): (Lord, - LORD,)
+11  different, length same at 265; different word(s): (LORD - Lord)
+12  different, length same at 138; different word(s): (LORD - Lord)
+13  different, length same at 120; different word(s): (LORD - Lord)
+14  different, length same at 143; different word(s): (LORD, - Lord,)
 15 -
 16 -
 17 -

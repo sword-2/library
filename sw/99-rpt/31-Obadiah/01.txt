@@ -1,23 +1,23 @@
 Obadiah 01
 
-1  different, length same at 198; different word(s): (God - GOD) (Lord, - LORD,)
+1  different, length same at 198; different word(s): (GOD - God) (LORD, - Lord,)
 2 -
 3 -
-4  different, length same at 132; different word(s): (Lord. - LORD.)
+4  different, length same at 132; different word(s): (LORD. - Lord.)
 5 -
 6 -
-7  different, length same at 243, unknown difference:  Gutenberg (length=243): All the men of thy confederacy have brought thee even to the border: the men that were at peace with thee have deceived thee, and prevailed against thee; they that eat thy bread have laid a wound under thee: there is none understanding in him.; Biblegateway (length=243): All the men of thy confederacy have brought thee even to the border: the men that were at peace with thee have deceived thee, and prevailed against thee; that they eat thy bread have laid a wound under thee: there is none understanding in him.
-8  different, length same at 123; different word(s): (Lord, - LORD,)
+7  different, length same at 243, unknown difference:  Gutenberg (length=243): All the men of thy confederacy have brought thee even to the border: the men that were at peace with thee have deceived thee, and prevailed against thee; that they eat thy bread have laid a wound under thee: there is none understanding in him.; Biblegateway (length=243): All the men of thy confederacy have brought thee even to the border: the men that were at peace with thee have deceived thee, and prevailed against thee; they that eat thy bread have laid a wound under thee: there is none understanding in him.
+8  different, length same at 123; different word(s): (LORD, - Lord,)
 9 -
 10 -
 11 -
 12 -
 13 -
 14 -
-15  different, length same at 145; different word(s): (Lord - LORD)
+15  different, length same at 145; different word(s): (LORD - Lord)
 16 -
 17 -
-18  different, length same at 243; different word(s): (Lord - LORD)
+18  different, length same at 243; different word(s): (LORD - Lord)
 19 -
 20 -
-21  different, length same at 105; different word(s): (Lord's. - LORD's.)
+21  different, length same at 105; different word(s): (LORD's. - Lord's.)

@@ -1,6 +1,6 @@
 1 Peter 02
 
-1  different, lengths different;  Gutenberg (length=102): Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,; Biblegateway (length=98): Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, all evil speakings,
+1  different, lengths different;  Gutenberg (length=98): Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, all evil speakings,; Biblegateway (length=102): Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,
 2 -
 3 -
 4 -

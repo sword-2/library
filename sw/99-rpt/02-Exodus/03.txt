@@ -1,23 +1,23 @@
 Exodus 03
 
 1 -
-2  different, length same at 176; different word(s): (Lord - LORD)
+2  different, length same at 176; different word(s): (LORD - Lord)
 3 -
-4  different, length same at 148; different word(s): (Lord - LORD)
+4  different, length same at 148; different word(s): (LORD - Lord)
 5 -
 6 -
-7  different, length same at 168; different word(s): (Lord - LORD)
+7  different, length same at 168; different word(s): (LORD - Lord)
 8 -
 9 -
 10 -
 11 -
 12 -
 13 -
-14  different, length same at 130; different word(s): (Am - AM) (That - THAT) (Am: - AM:) (Am - AM)
-15  different, length same at 267; different word(s): (Lord - LORD)
-16  different, length same at 236; different word(s): (Lord - LORD)
+14  different, length same at 130; different word(s): (AM - Am) (THAT - That) (AM: - Am:) (AM - Am)
+15  different, length same at 267; different word(s): (LORD - Lord)
+16  different, length same at 236; different word(s): (LORD - Lord)
 17 -
-18  different, length same at 305; different word(s): (Lord - LORD) (Lord - LORD)
+18  different, length same at 305; different word(s): (LORD - Lord) (LORD - Lord)
 19 -
 20 -
 21 -

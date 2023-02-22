@@ -15,8 +15,8 @@ Matthew 02
 13 -
 14 -
 15 -
-16  different, length same at 279, unknown difference:  Gutenberg (length=279): Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently inquired of the wise men.; Biblegateway (length=279): Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men.
-17  different, lengths different;  Gutenberg (length=73): Then was fulfilled that which was spoken by Jeremiah the prophet, saying,; Biblegateway (length=71): Then was fulfilled that which was spoken by Jeremy the prophet, saying,
+16  different, length same at 279, unknown difference:  Gutenberg (length=279): Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men.; Biblegateway (length=279): Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently inquired of the wise men.
+17  different, lengths different;  Gutenberg (length=71): Then was fulfilled that which was spoken by Jeremy the prophet, saying,; Biblegateway (length=73): Then was fulfilled that which was spoken by Jeremiah the prophet, saying,
 18 -
 19 -
 20 -

@@ -1,6 +1,6 @@
 Leviticus 15
 
-1  different, length same at 51; different word(s): (Lord - LORD)
+1  different, length same at 51; different word(s): (LORD - Lord)
 2 -
 3 -
 4 -
@@ -13,8 +13,8 @@ Leviticus 15
 11 -
 12 -
 13 -
-14  different, length same at 190; different word(s): (Lord - LORD)
-15  different, length same at 174; different word(s): (Lord - LORD)
+14  different, length same at 190; different word(s): (LORD - Lord)
+15  different, length same at 174; different word(s): (LORD - Lord)
 16 -
 17 -
 18 -
@@ -29,7 +29,7 @@ Leviticus 15
 27 -
 28 -
 29 -
-30  different, length same at 187; different word(s): (Lord - LORD)
+30  different, length same at 187; different word(s): (LORD - Lord)
 31 -
 32 -
 33 -

@@ -1,8 +1,8 @@
 Isaiah 27
 
-1  different, length same at 192; different word(s): (Lord - LORD)
+1  different, length same at 192; different word(s): (LORD - Lord)
 2 -
-3  different, length same at 100; different word(s): (Lord - LORD)
+3  different, length same at 100; different word(s): (LORD - Lord)
 4 -
 5 -
 6 -
@@ -11,5 +11,5 @@ Isaiah 27
 9 -
 10 -
 11 -
-12  different, length same at 185; different word(s): (Lord - LORD)
-13  different, length same at 246; different word(s): (Lord - LORD)
+12  different, length same at 185; different word(s): (LORD - Lord)
+13  different, length same at 246; different word(s): (LORD - Lord)

@@ -3,9 +3,9 @@ Judges 14
 1 -
 2 -
 3 -
-4  different, length same at 174; different word(s): (Lord, - LORD,)
+4  different, length same at 174; different word(s): (LORD, - Lord,)
 5 -
-6  different, length same at 186; different word(s): (Lord - LORD)
+6  different, length same at 186; different word(s): (LORD - Lord)
 7 -
 8 -
 9 -
@@ -18,5 +18,5 @@ Judges 14
 16 -
 17 -
 18 -
-19  different, length same at 253; different word(s): (Lord - LORD)
+19  different, length same at 253; different word(s): (LORD - Lord)
 20 -

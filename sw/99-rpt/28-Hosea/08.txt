@@ -1,6 +1,6 @@
 Hosea 08
 
-1  different, length same at 161; different word(s): (Lord, - LORD,)
+1  different, length same at 161; different word(s): (LORD, - Lord,)
 2 -
 3 -
 4 -
@@ -12,5 +12,5 @@ Hosea 08
 10 -
 11 -
 12 -
-13  different, length same at 190; different word(s): (Lord - LORD)
+13  different, length same at 190; different word(s): (LORD - Lord)
 14 -

@@ -8,12 +8,12 @@ Joshua 02
 6 -
 7 -
 8 -
-9  different, length same at 175; different word(s): (Lord - LORD)
-10  different, length same at 229; different word(s): (Lord - LORD)
-11  different, length same at 204; different word(s): (Lord - LORD)
-12  different, length same at 169; different word(s): (Lord, - LORD,)
+9  different, length same at 175; different word(s): (LORD - Lord)
+10  different, length same at 229; different word(s): (LORD - Lord)
+11  different, length same at 204; different word(s): (LORD - Lord)
+12  different, length same at 169; different word(s): (LORD, - Lord,)
 13 -
-14  different, length same at 181; different word(s): (Lord - LORD)
+14  different, length same at 181; different word(s): (LORD - Lord)
 15 -
 16 -
 17 -
@@ -23,4 +23,4 @@ Joshua 02
 21 -
 22 -
 23 -
-24  different, length same at 153; different word(s): (Lord - LORD)
+24  different, length same at 153; different word(s): (LORD - Lord)

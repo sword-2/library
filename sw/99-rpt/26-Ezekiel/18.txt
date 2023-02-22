@@ -1,14 +1,14 @@
 Ezekiel 18
 
-1  different, length same at 48; different word(s): (Lord - LORD)
+1  different, length same at 48; different word(s): (LORD - Lord)
 2 -
-3  different, length same at 97; different word(s): (God, - GOD,)
+3  different, length same at 97; different word(s): (GOD, - God,)
 4 -
 5 -
 6 -
 7 -
 8 -
-9  different, length same at 124; different word(s): (God. - GOD.)
+9  different, length same at 124; different word(s): (GOD. - God.)
 10 -
 11 -
 12 -
@@ -22,13 +22,13 @@ Ezekiel 18
 20 -
 21 -
 22 -
-23  different, length same at 129; different word(s): (God: - GOD:)
+23  different, length same at 129; different word(s): (GOD: - God:)
 24 -
-25  different, length same at 122; different word(s): (Lord - LORD)
+25  different, length same at 122; different word(s): (LORD - Lord)
 26 -
 27 -
 28 -
-29  different, length same at 133; different word(s): (Lord - LORD)
-30  different, length same at 193; different word(s): (God. - GOD.)
+29  different, length same at 133; different word(s): (LORD - Lord)
+30  different, length same at 193; different word(s): (GOD. - God.)
 31 -
-32  different, length same at 114; different word(s): (God: - GOD:)
+32  different, length same at 114; different word(s): (GOD: - God:)

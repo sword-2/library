@@ -1,22 +1,22 @@
 Jeremiah 04
 
-1  different, length same at 152; different word(s): (Lord, - LORD,)
-2  different, length same at 159; different word(s): (Lord - LORD)
-3  different, length same at 113; different word(s): (Lord - LORD)
-4  different, length same at 228; different word(s): (Lord, - LORD,)
+1  different, length same at 152; different word(s): (LORD, - Lord,)
+2  different, length same at 159; different word(s): (LORD - Lord)
+3  different, length same at 113; different word(s): (LORD - Lord)
+4  different, length same at 228; different word(s): (LORD, - Lord,)
 5 -
 6 -
 7 -
-8  different, length same at 111; different word(s): (Lord - LORD)
-9  different, length same at 193; different word(s): (Lord, - LORD,)
-10  different, length same at 158; different word(s): (God! - GOD!)
+8  different, length same at 111; different word(s): (LORD - Lord)
+9  different, length same at 193; different word(s): (LORD, - Lord,)
+10  different, length same at 158; different word(s): (GOD! - God!)
 11 -
 12 -
 13 -
 14 -
 15 -
 16 -
-17  different, length same at 117; different word(s): (Lord. - LORD.)
+17  different, length same at 117; different word(s): (LORD. - Lord.)
 18 -
 19 -
 20 -
@@ -25,8 +25,8 @@ Jeremiah 04
 23 -
 24 -
 25 -
-26  different, length same at 153; different word(s): (Lord, - LORD,)
-27  different, length same at 94; different word(s): (Lord - LORD)
+26  different, length same at 153; different word(s): (LORD, - Lord,)
+27  different, length same at 94; different word(s): (LORD - Lord)
 28 -
 29 -
 30 -

@@ -1,15 +1,15 @@
 Isaiah 33
 
 1 -
-2  different, length same at 129; different word(s): (Lord, - LORD,)
+2  different, length same at 129; different word(s): (LORD, - Lord,)
 3 -
 4 -
-5  different, length same at 98; different word(s): (Lord - LORD)
-6  different, length same at 126; different word(s): (Lord - LORD)
+5  different, length same at 98; different word(s): (LORD - Lord)
+6  different, length same at 126; different word(s): (LORD - Lord)
 7 -
 8 -
 9 -
-10  different, length same at 82; different word(s): (Lord; - LORD;)
+10  different, length same at 82; different word(s): (LORD; - Lord;)
 11 -
 12 -
 13 -
@@ -20,7 +20,7 @@ Isaiah 33
 18 -
 19 -
 20 -
-21  different, length same at 159; different word(s): (Lord - LORD)
-22  different, length same at 91; different word(s): (Lord - LORD) (Lord - LORD) (Lord - LORD)
+21  different, length same at 159; different word(s): (LORD - Lord)
+22  different, length same at 91; different word(s): (LORD - Lord) (LORD - Lord) (LORD - Lord)
 23 -
 24 -

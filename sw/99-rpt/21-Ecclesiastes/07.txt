@@ -15,7 +15,7 @@ Ecclesiastes 07
 13 -
 14 -
 15 -
-16  different, lengths different;  Gutenberg (length=96): Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself ?; Biblegateway (length=95): Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself?
+16  different, lengths different;  Gutenberg (length=95): Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself?; Biblegateway (length=96): Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself ?
 17 -
 18 -
 19 -

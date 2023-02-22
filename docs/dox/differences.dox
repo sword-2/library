@@ -1,22 +1,346 @@
-Genesis
-	8:1 different spelling  assuaged (Gutenberg), asswaged (BibleGateway).
-	35:8 an extra comma was observed in Gutenberg, which was not observed in BibleGteway.
+/*! \page differences Differences
 
-Exodus
-	3:13 different case (Am - AM) (That - THAT)
-	6:3 different case (Jehovah - JEHOVAH)
-	23:17 different words (times - items)
-	28:36 different case (Holiness - HOLINESS)
-	39:30 different case (Holiness - HOLINESS)
+Names of many bible books from Gutenberg were shortened. For example, Genesis was used instead of "The First Book of Moses:  Called Genesis". Names remembered from Gutenbert included ...
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The First Book of Moses:  Called Genesis
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Second Book of Moses:  Called Exodus
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Third Book of Moses:  Called Leviticus
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Fourth Book of Moses:  Called Numbers
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Fifth Book of Moses:  Called Deuteronomy
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Book of Joshua
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Book of Judges
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Book of Ruth
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The First Book of Samuel Otherwise Called: The First Book of the Kings
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Second Book of Samuel Otherwise Called: The Second Book of the Kings
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The First Book of the Kings Commonly Called: The Third Book of the Kings
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Second Book of the Kings Commonly Called: The Fourth Book of the Kings
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The First Book of the Chronicles
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Second Book of the Chronicles
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ezra
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Book of Nehemiah
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Book of Esther
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Book of Job
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Book of Psalms
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Proverbs
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ecclesiastes or The Preacher
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Song of Solomon
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Book of the Prophet Isaiah
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Book of the Prophet Jeremiah
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Lamentations of Jeremiah
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Book of the Prophet Ezekiel
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Book of Daniel
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hosea
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joel
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Amos
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obadiah
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jonah
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Micah
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nahum
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Habakkuk
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zephaniah
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Haggai
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zechariah
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Malachi
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The New Testament of the King James Bible
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Gospel According to Saint Matthew
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Gospel According to Saint Mark
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Gospel According to Saint Luke
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Gospel According to Saint John
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Acts of the Apostles
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Epistle of Paul the Apostle to the Romans
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The First Epistle of Paul the Apostle to the Corinthians 
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Second Epistle of Paul the Apostle to the Corinthians
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Epistle of Paul the Apostle to the Galatians
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Epistle of Paul the Apostle to the Ephesians
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Epistle of Paul the Apostle to the Philippians
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Epistle of Paul the Apostle to the Colossians
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The First Epistle of Paul the Apostle to the Thessalonians
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Second Epistle of Paul the Apostle to the Thessalonians
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The First Epistle of Paul the Apostle to Timothy
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Second Epistle of Paul the Apostle to Timothy
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Epistle of Paul the Apostle to Titus
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Epistle of Paul the Apostle to Philemon
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Epistle of Paul the Apostle to the Hebrews
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The General Epistle of James
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The First Epistle General of Peter
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Second General Epistle of Peter
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The First Epistle General of John
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Second Epistle General of John
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Third Epistle General of John
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The General Epistle of Jude
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Revelation of Saint John the Devine
 
-Leviticus:
+
+
+Differences reported from the script included ...
+
+
+Genesis:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8:1 different spelling: asswaged (Gutenberg); assuaged (BibleGateway).
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;35:8 an extra comma was observed in BibleGateway after Deborah, which was not observed in Gutenberg.
+
+Exodus:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3:14 different case (AM - Am) (THAT - Than)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6:3 different case (JEHOVAH - Jehovah)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;23:17 different words: Gutenberg had the word "items" whereas BibleGateway had the word "times".
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28:36 different cases: (HOLINESS - Holiness) (TO - To) (THE The)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;39:30 different cases: (HOLINESS - Holiness) (TO - To) (THE - The)
+
+Leviticus: -
 
 Numbers:
-	18:9 different spelling multiple times (their's - theirs)
-	21:33 different case (og - Og) (bashan - Bashan) (edrei - Edrei)
-	23:28 different case (jeshimon - Jeshimon)
-	26:40 different case (ard - Ard)
-	32:10 different case (Lord'S - LORD's)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11:23 BibleGateway capatilized the S in Lord'S. 
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11:29 BibleGateway capatilized the S in Lord'S.
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15:39 BibleGateway had an extra space after the word them and a semicolon (them ;) - This was not present in Gutenberg
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18:9 different spelling multiple times: Gutenberg (theirs) - BibleGateway (their's).
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18:28 BibleGateway capatilized the S in Lord'S.
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21:28 different case (Ar - ar)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21:33 different cases (Og - og) (Bashan - bashan) (Edrei - edrei)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;22:30 different case (And - and)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;23:28 different case (Jeshimon - jeshimon)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;26:40 different case (Ard - ard)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;31:37-41 BibleGateway capatilized the S in Lord'S.
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;32:10,13 BibleGateway capatilized the S in Lord'S.
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;32:32 different spelling (ours - our's).
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;33:8 BibleGateway didn't have a space between 2 words (days'journey)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;36:11 different spelling (father's - fathers)
+
+Deuteronomy:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3:24 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:26 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28:58 different case (The - The) (THY - Thy) (GOD - God)
+
+Joshua: -
+
+Judges: -
+
+Ruth: -
+
+1 Samuel:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15:33 different words (the - thy)
+
+2 Samuel:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7:18-20, 28 different case (GOD - God)
+
+1 Kings:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;22:22 different spelling (persude - persuade)
+
+2 Kings:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25:12 Gutenberg had an extra phrase "of the door" not observed in BibleGateway
+
+1 Chronicles: -
+
+2 Chronicles: -
+
+Ezra: -
+
+Nehemiah: -
+
+Esther: -
+
+Job: -
+
+Pslams:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:18 different spelling (alway - always)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;38:1 different case (lord - Lord)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;108:1 different case (god - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;119:24 different spelling (counsellors - counselors)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;119:97 reversed words (I love - love I)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;140:7 different case (GOD - God)
+
+Proverbs: -
+
+Ecclesiastes:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7:16 BibleGateway had an extra space before punctuation (thyself? - thyself ?) 
 
 
+Song of Solomon: -
 
+Isaiah:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7:7 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10:23, 24 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12:2 different case (JEHOVAH - Jehovah)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;22:5, 12, 14, 15 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;26:4 different case (JEHOVAH - Jehovah)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28:22 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40:10 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;48:16 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;49:22 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;50:4, 5, 7, 9 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;52:12 different words (rereward - reward)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;56:8 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;58:8 multiple differences so whole verses were copied below:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Gutenberg (length=183):    Then shall thy light break forth as the morning, and thine health shall spring forth speedily: and thy righteousness shall go before thee; the glory of the LORD shall be thy rereward.
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Biblegateway (length=181): Then shall thy light break forth as the morning, and thine health shall spring forth speedily: and thy righteousness shall go before thee; the glory of the Lord shall be thy reward.
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;61:1 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;65:13, 15 different case (GOD - God)
+
+Jeremiah:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1:6 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2:19, 22 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4:10 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7:20 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14:13 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;23:6 different case (THE - The) (OUR - Our) (RIGHTEOUSNESS - Righteousness)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;32:17, 25 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;39:3 different spelling (shew - show)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;34:16 different words (ye - he)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;44:26 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;46:10 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;49:05 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;50:25, 31 different case (GOD - God)
+
+Lamentations:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3:1 different case (AM - Am)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3:27 different words (of - in)
+
+Ezekiel:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a bunch of verses with different case (GOD - God)
+
+Daniel:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3:9 different spelling (astonied - astonished)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5:25-28 different cases (MENE - Mene) (TEKEL - Tekel) (UPHARSIN - Upharsin) (PERES - Peres)
+
+Hosea: -
+
+Joel: -
+
+Amos:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A bunch of different cases (GOD - God)
+
+Obadiah:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1:1 different case (GOD - God)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1:7 reversed words (that they - they that)
+
+Jonah:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1:15 different words (look - took)
+
+Micah:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1:2 different case (GOD - God)
+
+Nahum: -
+
+Habakkuk: -
+
+Zephaniah:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1:7 different case (GOD - God)
+
+Haggai: -
+
+Zechariah:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3:8 different case (BRANCH - Branch)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6:12 different case (BRANCH - Branch)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14:20 different cases (HOLINESS - Holiness) (UNTO - Unto) (THE - The)
+
+Malachi: -
+
+Matthew:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1:19 different spelling (publick - public)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1:21 different case (JESUS - Jesus)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2:16 different spelling (enquired - inquired)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2:17 different spelling (Jeremy - Jeremiah) 
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4:1 different case (spirit - Spirit)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5:21 different words (by - of)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;24:37 different spelling (Noe - Noah)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;27:37 different case (THIS - This) (IS - Is) (JESUS - Jesus) (THE - The) (KING - King) (OF - Of) (THE - The) (JEWS. - Jews.)
+
+Mark:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12:7 different spelling (our's - ours')
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15:26 different case (THE - The) (KING - King) (OF - Of) (THE - The) (JEWS. - Jews.)
+
+Luke:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1:5 different case (THERE - There)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1:31 different case (JESUS - Jesus)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1:54 different spelling (holpen - helped)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2:21 different case (JESUS, - Jesus,)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17:27 different spelling (Noe - Noah)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;23:38 different cases (THIS - This) (IS - Is) (THE - The) (KING - King) (OF - Of) (THE - The) (JEWS. - Jews.)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;23:43 different spelling (To day - Today)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;24:46 different spelling (behoved - behooved)
+
+John:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14:8 different spelling (shew - show)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14:9 different spelling (Shew - Show) 
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;19:19 different case (JESUS - Jesus) (OF - Of) (NAZARETH - Nazareth) (THE - The) (KING - King) (OF - Of) (THE - The) (JEWS. - Jews.)
+
+Acts:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17:23 different, length same at 168; different word(s): (TO - To) (THE - The) (UNKNOWN - Unknown) (GOD. - God.)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20:20 different spelling (publickly - publicly)
+
+Romans:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11:17 different spelling (graffed - grafted)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11:19 different spelling (graffed - grafted)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11:23 different words (graffed - grafted) (graff - graft)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11:24 (grafed - grafted) (graffed - grafted)
+
+1 Corinthians:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5:11 different spelling (idolater - idolator)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7:8 different case (It - it)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:1 different phrase (no an - am not)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:9 different case (Thou - thou)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10:11 different spelling (ensamples - examples)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10:28 different case (This - this)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11:22 different case (What - what)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11:23 different case (That - that)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11:25 different case (This - this)
+
+2 Corinthians:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1:13 different words (than - that)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3:13 different spelling (vail - veil)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4:11 different spelling (alway - always)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6:6 different spelling (longsuffering - long suffering)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10:7 different case (If - if)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11:16 different case (Let - let)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11:32 different case (Damascenes - damascenes)
+
+Galatians:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2:20 different spelling (neverthless - nevertheless)
+
+Ephesians: -
+
+Philippians:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4:4 different spelling (alway - always)
+
+Colossians:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4:6 different spelling (alway - always)
+
+1 Thessalonians: -
+
+2 Thessalonians: -
+
+1 Timothy:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3:1 different case (If - if)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5:18 different case (Thou - thou)
+
+2 Timothy:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2:19 different case (Let - let)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4:2 different spelling (longsuffering - long suffering)
+
+Titus:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1:12 different case (The - the)
+
+Philemon: -
+
+Hebrews: -
+
+James: -
+
+1 Peter:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2:1 different words (all evil - and all evil)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5:3 different words (ensamples - examples)
+
+2 Peter: -
+
+1 John:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2:2 different spelling (our's - ours)
+
+2 John: -
+
+3 John: -
+
+Revelation:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5:5 different spelling (Juda - Judah)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17:5 different cases (MYSTERY, - Mystery,) (BABYLON - Babylon) (THE - The) (GREAT, - Great,) (THE - The) (MOTHER - Mother) (OF - Of) (HARLOTS - Harlots) (AND - And) (ABOMINATIONS - Abominations) (OF - Of) (THE - The) (EARTH. - Earth.)
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;19:16 different cases (KING - King) (OF - Of) (KINGS, - Kings,) (AND - And) (LORD - Lord) (OF - Of) (LORDS. - Lords.)
+
+*/

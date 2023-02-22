@@ -27,12 +27,12 @@ Ezra 08
 25 -
 26 -
 27 -
-28  different, length same at 162; different word(s): (Lord; - LORD;) (Lord - LORD)
-29  different, length same at 185; different word(s): (Lord. - LORD.)
+28  different, length same at 162; different word(s): (LORD; - Lord;) (LORD - Lord)
+29  different, length same at 185; different word(s): (LORD. - Lord.)
 30 -
 31 -
 32 -
 33 -
 34 -
-35  different, length same at 299; different word(s): (Lord. - LORD.)
+35  different, length same at 299; different word(s): (LORD. - Lord.)
 36 -

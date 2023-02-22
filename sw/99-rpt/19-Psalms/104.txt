@@ -1,6 +1,6 @@
 Psalms 104
 
-1  different, length same at 104; different word(s): (Lord, - LORD,) (Lord - LORD)
+1  different, length same at 104; different word(s): (LORD, - Lord,) (LORD - Lord)
 2 -
 3 -
 4 -
@@ -15,7 +15,7 @@ Psalms 104
 13 -
 14 -
 15 -
-16  different, length same at 84; different word(s): (Lord - LORD)
+16  different, length same at 84; different word(s): (LORD - Lord)
 17 -
 18 -
 19 -
@@ -23,15 +23,15 @@ Psalms 104
 21 -
 22 -
 23 -
-24  different, length same at 103; different word(s): (Lord, - LORD,)
+24  different, length same at 103; different word(s): (LORD, - Lord,)
 25 -
 26 -
 27 -
 28 -
 29 -
 30 -
-31  different, length same at 81; different word(s): (Lord - LORD) (Lord - LORD)
+31  different, length same at 81; different word(s): (LORD - Lord) (LORD - Lord)
 32 -
-33  different, length same at 96; different word(s): (Lord - LORD)
-34  different, length same at 64; different word(s): (Lord. - LORD.)
-35  different, length same at 128; different word(s): (Lord, - LORD,) (Lord. - LORD.)
+33  different, length same at 96; different word(s): (LORD - Lord)
+34  different, length same at 64; different word(s): (LORD. - Lord.)
+35  different, length same at 128; different word(s): (LORD, - Lord,) (LORD. - Lord.)

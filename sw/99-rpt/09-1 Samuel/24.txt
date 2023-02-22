@@ -3,22 +3,22 @@
 1 -
 2 -
 3 -
-4  different, length same at 260; different word(s): (Lord - LORD)
+4  different, length same at 260; different word(s): (LORD - Lord)
 5 -
-6  different, length same at 185; different word(s): (Lord - LORD) (Lord's - LORD's) (Lord. - LORD.)
+6  different, length same at 185; different word(s): (LORD - Lord) (LORD's - Lord's) (LORD. - Lord.)
 7 -
 8 -
 9 -
-10  different, length same at 254; different word(s): (Lord - LORD) (Lord's - LORD's)
+10  different, length same at 254; different word(s): (LORD - Lord) (LORD's - Lord's)
 11 -
-12  different, length same at 105; different word(s): (Lord - LORD) (Lord - LORD)
+12  different, length same at 105; different word(s): (LORD - Lord) (LORD - Lord)
 13 -
 14 -
-15  different, length same at 122; different word(s): (Lord - LORD)
+15  different, length same at 122; different word(s): (LORD - Lord)
 16 -
 17 -
-18  different, length same at 151; different word(s): (Lord - LORD)
-19  different, length same at 136; different word(s): (Lord - LORD)
+18  different, length same at 151; different word(s): (LORD - Lord)
+19  different, length same at 136; different word(s): (LORD - Lord)
 20 -
-21  different, length same at 150; different word(s): (Lord, - LORD,)
+21  different, length same at 150; different word(s): (LORD, - Lord,)
 22 -

@@ -1,9 +1,9 @@
 Proverbs 22
 
-1  different, length same at 100; different word(s): (good - GOOD)
-2  different, length same at 67; different word(s): (Lord - LORD)
+1  different, length same at 100; different word(s): (GOOD - good)
+2  different, length same at 67; different word(s): (LORD - Lord)
 3 -
-4  different, length same at 70; different word(s): (Lord - LORD)
+4  different, length same at 70; different word(s): (LORD - Lord)
 5 -
 6 -
 7 -
@@ -11,18 +11,18 @@ Proverbs 22
 9 -
 10 -
 11 -
-12  different, length same at 91; different word(s): (Lord - LORD)
+12  different, length same at 91; different word(s): (LORD - Lord)
 13 -
-14  different, length same at 93; different word(s): (Lord - LORD)
+14  different, length same at 93; different word(s): (LORD - Lord)
 15 -
 16 -
 17 -
 18 -
-19  different, length same at 84; different word(s): (Lord, - LORD,)
+19  different, length same at 84; different word(s): (LORD, - Lord,)
 20 -
 21 -
 22 -
-23  different, length same at 83; different word(s): (Lord - LORD)
+23  different, length same at 83; different word(s): (LORD - Lord)
 24 -
 25 -
 26 -

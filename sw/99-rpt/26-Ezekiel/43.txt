@@ -3,8 +3,8 @@ Ezekiel 43
 1 -
 2 -
 3 -
-4  different, length same at 103; different word(s): (Lord - LORD)
-5  different, length same at 115; different word(s): (Lord - LORD)
+4  different, length same at 103; different word(s): (LORD - Lord)
+5  different, length same at 115; different word(s): (LORD - Lord)
 6 -
 7 -
 8 -
@@ -17,13 +17,13 @@ Ezekiel 43
 15 -
 16 -
 17 -
-18  different, length same at 196; different word(s): (God; - GOD;)
-19  different, length same at 177; different word(s): (God, - GOD,)
+18  different, length same at 196; different word(s): (GOD; - God;)
+19  different, length same at 177; different word(s): (GOD, - God,)
 20 -
 21 -
 22 -
 23 -
-24  different, length same at 150; different word(s): (Lord, - LORD,) (Lord. - LORD.)
+24  different, length same at 150; different word(s): (LORD, - Lord,) (LORD. - Lord.)
 25 -
 26 -
-27  different, length same at 216; different word(s): (God. - GOD.)
+27  different, length same at 216; different word(s): (GOD. - God.)

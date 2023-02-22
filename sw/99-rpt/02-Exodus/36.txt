@@ -1,10 +1,10 @@
 Exodus 36
 
-1  different, length same at 227; different word(s): (Lord - LORD) (Lord - LORD)
-2  different, length same at 180; different word(s): (Lord - LORD)
+1  different, length same at 227; different word(s): (LORD - Lord) (LORD - Lord)
+2  different, length same at 180; different word(s): (LORD - Lord)
 3 -
 4 -
-5  different, length same at 136; different word(s): (Lord - LORD)
+5  different, length same at 136; different word(s): (LORD - Lord)
 6 -
 7 -
 8 -

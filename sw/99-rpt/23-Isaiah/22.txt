@@ -4,19 +4,19 @@ Isaiah 22
 2 -
 3 -
 4 -
-5  different, length same at 174; different word(s): (God - GOD)
+5  different, length same at 174; different word(s): (GOD - God)
 6 -
 7 -
 8 -
 9 -
 10 -
 11 -
-12  different, length same at 123; different word(s): (God - GOD)
+12  different, length same at 123; different word(s): (GOD - God)
 13 -
-14  different, length same at 146; different word(s): (Lord - LORD) (God - GOD)
-15  different, length same at 119; different word(s): (God - GOD)
+14  different, length same at 146; different word(s): (LORD - Lord) (GOD - God)
+15  different, length same at 119; different word(s): (GOD - God)
 16 -
-17  different, length same at 90; different word(s): (Lord - LORD)
+17  different, length same at 90; different word(s): (LORD - Lord)
 18 -
 19 -
 20 -
@@ -24,4 +24,4 @@ Isaiah 22
 22 -
 23 -
 24 -
-25  different, length same at 205; different word(s): (Lord - LORD) (Lord - LORD)
+25  different, length same at 205; different word(s): (LORD - Lord) (LORD - Lord)

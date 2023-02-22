@@ -1,6 +1,6 @@
 Joel 01
 
-1  different, length same at 58; different word(s): (Lord - LORD)
+1  different, length same at 58; different word(s): (LORD - Lord)
 2 -
 3 -
 4 -
@@ -8,15 +8,15 @@ Joel 01
 6 -
 7 -
 8 -
-9  different, length same at 121; different word(s): (Lord; - LORD;) (Lord's - LORD's)
+9  different, length same at 121; different word(s): (LORD; - Lord;) (LORD's - Lord's)
 10 -
 11 -
 12 -
 13 -
-14  different, length same at 157; different word(s): (Lord - LORD) (Lord, - LORD,)
-15  different, length same at 107; different word(s): (Lord - LORD)
+14  different, length same at 157; different word(s): (LORD - Lord) (LORD, - Lord,)
+15  different, length same at 107; different word(s): (LORD - Lord)
 16 -
 17 -
 18 -
-19  different, length same at 140; different word(s): (Lord, - LORD,)
+19  different, length same at 140; different word(s): (LORD, - Lord,)
 20 -

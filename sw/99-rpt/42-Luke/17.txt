@@ -26,7 +26,7 @@ Luke 17
 24 -
 25 -
 26 -
-27  different, lengths different;  Gutenberg (length=164): They did eat, they drank, they married wives, they were given in marriage, until the day that Noah entered into the ark, and the flood came, and destroyed them all.; Biblegateway (length=163): They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all.
+27  different, lengths different;  Gutenberg (length=163): They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all.; Biblegateway (length=164): They did eat, they drank, they married wives, they were given in marriage, until the day that Noah entered into the ark, and the flood came, and destroyed them all.
 28 -
 29 -
 30 -

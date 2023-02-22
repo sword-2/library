@@ -1,21 +1,21 @@
 Genesis 04
 
-1  different, length same at 106; different word(s): (Lord. - LORD.)
+1  different, length same at 106; different word(s): (LORD. - Lord.)
 2 -
-3  different, length same at 111; different word(s): (Lord. - LORD.)
-4  different, length same at 136; different word(s): (Lord - LORD)
+3  different, length same at 111; different word(s): (LORD. - Lord.)
+4  different, length same at 136; different word(s): (LORD - Lord)
 5 -
-6  different, length same at 83; different word(s): (Lord - LORD)
+6  different, length same at 83; different word(s): (LORD - Lord)
 7 -
 8 -
-9  different, length same at 106; different word(s): (Lord - LORD)
+9  different, length same at 106; different word(s): (LORD - Lord)
 10 -
 11 -
 12 -
-13  different, length same at 70; different word(s): (Lord, - LORD,)
+13  different, length same at 70; different word(s): (LORD, - Lord,)
 14 -
-15  different, length same at 177; different word(s): (Lord - LORD) (Lord - LORD)
-16  different, length same at 99; different word(s): (Lord, - LORD,)
+15  different, length same at 177; different word(s): (LORD - Lord) (LORD - Lord)
+16  different, length same at 99; different word(s): (LORD, - Lord,)
 17 -
 18 -
 19 -
@@ -25,4 +25,4 @@ Genesis 04
 23 -
 24 -
 25 -
-26  different, length same at 125; different word(s): (Lord. - LORD.)
+26  different, length same at 125; different word(s): (LORD. - Lord.)

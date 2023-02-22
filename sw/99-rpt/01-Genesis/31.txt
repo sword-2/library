@@ -2,7 +2,7 @@ Genesis 31
 
 1 -
 2 -
-3  different, length same at 111; different word(s): (Lord - LORD)
+3  different, length same at 111; different word(s): (LORD - Lord)
 4 -
 5 -
 6 -
@@ -48,7 +48,7 @@ Genesis 31
 46 -
 47 -
 48 -
-49  different, length same at 97; different word(s): (Lord - LORD)
+49  different, length same at 97; different word(s): (LORD - Lord)
 50 -
 51 -
 52 -

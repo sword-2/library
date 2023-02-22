@@ -1,12 +1,12 @@
 Exodus 39
 
-1  different, length same at 170; different word(s): (Lord - LORD)
+1  different, length same at 170; different word(s): (LORD - Lord)
 2 -
 3 -
 4 -
-5  different, length same at 194; different word(s): (Lord - LORD)
+5  different, length same at 194; different word(s): (LORD - Lord)
 6 -
-7  different, length same at 144; different word(s): (Lord - LORD)
+7  different, length same at 144; different word(s): (LORD - Lord)
 8 -
 9 -
 10 -
@@ -20,18 +20,18 @@ Exodus 39
 18 -
 19 -
 20 -
-21  different, length same at 241; different word(s): (Lord - LORD)
+21  different, length same at 241; different word(s): (LORD - Lord)
 22 -
 23 -
 24 -
 25 -
-26  different, length same at 128; different word(s): (Lord - LORD)
+26  different, length same at 128; different word(s): (LORD - Lord)
 27 -
 28 -
-29  different, length same at 113; different word(s): (Lord - LORD)
-30  different, length same at 142; different word(s): (Holiness - HOLINESS) (To - TO) (The - THE) (Lord. - LORD.)
-31  different, length same at 103; different word(s): (Lord - LORD)
-32  different, length same at 173; different word(s): (Lord - LORD)
+29  different, length same at 113; different word(s): (LORD - Lord)
+30  different, length same at 142; different word(s): (HOLINESS - Holiness) (TO - To) (THE - The) (LORD. - Lord.)
+31  different, length same at 103; different word(s): (LORD - Lord)
+32  different, length same at 173; different word(s): (LORD - Lord)
 33 -
 34 -
 35 -
@@ -41,5 +41,5 @@ Exodus 39
 39 -
 40 -
 41 -
-42  different, length same at 92; different word(s): (Lord - LORD)
-43  different, length same at 144; different word(s): (Lord - LORD)
+42  different, length same at 92; different word(s): (LORD - Lord)
+43  different, length same at 144; different word(s): (LORD - Lord)

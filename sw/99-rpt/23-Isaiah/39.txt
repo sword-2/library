@@ -4,7 +4,7 @@ Isaiah 39
 2 -
 3 -
 4 -
-5  different, length same at 65; different word(s): (Lord - LORD)
-6  different, length same at 188; different word(s): (Lord. - LORD.)
+5  different, length same at 65; different word(s): (LORD - Lord)
+6  different, length same at 188; different word(s): (LORD. - Lord.)
 7 -
-8  different, length same at 147; different word(s): (Lord - LORD)
+8  different, length same at 147; different word(s): (LORD - Lord)

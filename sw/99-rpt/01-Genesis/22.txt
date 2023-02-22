@@ -10,12 +10,12 @@ Genesis 22
 8 -
 9 -
 10 -
-11  different, length same at 108; different word(s): (Lord - LORD)
+11  different, length same at 108; different word(s): (LORD - Lord)
 12 -
 13 -
-14  different, length same at 125; different word(s): (Lord - LORD)
-15  different, length same at 76; different word(s): (Lord - LORD)
-16  different, length same at 135; different word(s): (Lord, - LORD,)
+14  different, length same at 125; different word(s): (LORD - Lord)
+15  different, length same at 76; different word(s): (LORD - Lord)
+16  different, length same at 135; different word(s): (LORD, - Lord,)
 17 -
 18 -
 19 -

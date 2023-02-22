@@ -1,10 +1,10 @@
 Genesis 07
 
-1  different, length same at 131; different word(s): (Lord - LORD)
+1  different, length same at 131; different word(s): (LORD - Lord)
 2 -
 3 -
 4 -
-5  different, length same at 60; different word(s): (Lord - LORD)
+5  different, length same at 60; different word(s): (LORD - Lord)
 6 -
 7 -
 8 -
@@ -15,7 +15,7 @@ Genesis 07
 13 -
 14 -
 15 -
-16  different, length same at 112; different word(s): (Lord - LORD)
+16  different, length same at 112; different word(s): (LORD - Lord)
 17 -
 18 -
 19 -

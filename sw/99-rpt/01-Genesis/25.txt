@@ -20,9 +20,9 @@ Genesis 25
 18 -
 19 -
 20 -
-21  different, length same at 133; different word(s): (Lord - LORD) (Lord - LORD)
-22  different, length same at 126; different word(s): (Lord. - LORD.)
-23  different, length same at 216; different word(s): (Lord - LORD)
+21  different, length same at 133; different word(s): (LORD - Lord) (LORD - Lord)
+22  different, length same at 126; different word(s): (LORD. - Lord.)
+23  different, length same at 216; different word(s): (LORD - Lord)
 24 -
 25 -
 26 -

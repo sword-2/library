@@ -3,16 +3,16 @@ Isaiah 13
 1 -
 2 -
 3 -
-4  different, length same at 186; different word(s): (Lord - LORD)
-5  different, length same at 131; different word(s): (Lord, - LORD,)
-6  different, length same at 94; different word(s): (Lord - LORD)
+4  different, length same at 186; different word(s): (LORD - Lord)
+5  different, length same at 131; different word(s): (LORD, - Lord,)
+6  different, length same at 94; different word(s): (LORD - Lord)
 7 -
 8 -
-9  different, length same at 153; different word(s): (Lord - LORD)
+9  different, length same at 153; different word(s): (LORD - Lord)
 10 -
 11 -
 12 -
-13  different, length same at 151; different word(s): (Lord - LORD)
+13  different, length same at 151; different word(s): (LORD - Lord)
 14 -
 15 -
 16 -

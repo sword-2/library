@@ -1,30 +1,30 @@
 2 Samuel 12
 
-1  different, length same at 143; different word(s): (Lord - LORD)
+1  different, length same at 143; different word(s): (LORD - Lord)
 2 -
 3 -
 4 -
-5  different, length same at 149; different word(s): (Lord - LORD)
+5  different, length same at 149; different word(s): (LORD - Lord)
 6 -
-7  different, length same at 158; different word(s): (Lord - LORD)
+7  different, length same at 158; different word(s): (LORD - Lord)
 8 -
-9  different, length same at 233; different word(s): (Lord, - LORD,)
+9  different, length same at 233; different word(s): (LORD, - Lord,)
 10 -
-11  different, length same at 223; different word(s): (Lord, - LORD,)
+11  different, length same at 223; different word(s): (LORD, - Lord,)
 12 -
-13  different, length same at 144; different word(s): (Lord. - LORD.) (Lord - LORD)
-14  different, length same at 157; different word(s): (Lord - LORD)
-15  different, length same at 122; different word(s): (Lord - LORD)
+13  different, length same at 144; different word(s): (LORD. - Lord.) (LORD - Lord)
+14  different, length same at 157; different word(s): (LORD - Lord)
+15  different, length same at 122; different word(s): (LORD - Lord)
 16 -
 17 -
 18 -
 19 -
-20  different, length same at 240; different word(s): (Lord, - LORD,)
+20  different, length same at 240; different word(s): (LORD, - Lord,)
 21 -
-22  different, length same at 148; different word(s): (God - GOD)
+22  different, length same at 148; different word(s): (GOD - God)
 23 -
-24  different, length same at 155; different word(s): (Lord - LORD)
-25  different, length same at 100; different word(s): (Lord. - LORD.)
+24  different, length same at 155; different word(s): (LORD - Lord)
+25  different, length same at 100; different word(s): (LORD. - Lord.)
 26 -
 27 -
 28 -

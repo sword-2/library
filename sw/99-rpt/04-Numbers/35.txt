@@ -1,6 +1,6 @@
 Numbers 35
 
-1  different, length same at 83; different word(s): (Lord - LORD)
+1  different, length same at 83; different word(s): (LORD - Lord)
 2 -
 3 -
 4 -
@@ -8,7 +8,7 @@ Numbers 35
 6 -
 7 -
 8 -
-9  different, length same at 38; different word(s): (Lord - LORD)
+9  different, length same at 38; different word(s): (LORD - Lord)
 10 -
 11 -
 12 -
@@ -33,4 +33,4 @@ Numbers 35
 31 -
 32 -
 33 -
-34  different, length same at 121; different word(s): (Lord - LORD)
+34  different, length same at 121; different word(s): (LORD - Lord)

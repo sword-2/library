@@ -1,6 +1,6 @@
 Psalms 119
 
-1  different, length same at 70; different word(s): (Lord. - LORD.)
+1  different, length same at 70; different word(s): (LORD. - Lord.)
 2 -
 3 -
 4 -
@@ -11,7 +11,7 @@ Psalms 119
 9 -
 10 -
 11 -
-12  different, length same at 48; different word(s): (Lord: - LORD:)
+12  different, length same at 48; different word(s): (LORD: - Lord:)
 13 -
 14 -
 15 -
@@ -23,16 +23,16 @@ Psalms 119
 21 -
 22 -
 23 -
-24  different, lengths different;  Gutenberg (length=54): Thy testimonies also are my delight and my counselors.; Biblegateway (length=55): Thy testimonies also are my delight and my counsellors.
+24  different, lengths different;  Gutenberg (length=55): Thy testimonies also are my delight and my counsellors.; Biblegateway (length=54): Thy testimonies also are my delight and my counselors.
 25 -
 26 -
 27 -
 28 -
 29 -
 30 -
-31  different, length same at 63; different word(s): (Lord, - LORD,)
+31  different, length same at 63; different word(s): (LORD, - Lord,)
 32 -
-33  different, length same at 76; different word(s): (Lord, - LORD,)
+33  different, length same at 76; different word(s): (LORD, - Lord,)
 34 -
 35 -
 36 -
@@ -40,7 +40,7 @@ Psalms 119
 38 -
 39 -
 40 -
-41  different, length same at 85; different word(s): (Lord, - LORD,)
+41  different, length same at 85; different word(s): (LORD, - Lord,)
 42 -
 43 -
 44 -
@@ -51,20 +51,20 @@ Psalms 119
 49 -
 50 -
 51 -
-52  different, length same at 69; different word(s): (Lord; - LORD;)
+52  different, length same at 69; different word(s): (LORD; - Lord;)
 53 -
 54 -
-55  different, length same at 72; different word(s): (Lord, - LORD,)
+55  different, length same at 72; different word(s): (LORD, - Lord,)
 56 -
-57  different, length same at 69; different word(s): (Lord: - LORD:)
+57  different, length same at 69; different word(s): (LORD: - Lord:)
 58 -
 59 -
 60 -
 61 -
 62 -
 63 -
-64  different, length same at 63; different word(s): (Lord, - LORD,)
-65  different, length same at 71; different word(s): (Lord, - LORD,)
+64  different, length same at 63; different word(s): (LORD, - Lord,)
+65  different, length same at 71; different word(s): (LORD, - Lord,)
 66 -
 67 -
 68 -
@@ -74,7 +74,7 @@ Psalms 119
 72 -
 73 -
 74 -
-75  different, length same at 94; different word(s): (Lord, - LORD,)
+75  different, length same at 94; different word(s): (LORD, - Lord,)
 76 -
 77 -
 78 -
@@ -88,7 +88,7 @@ Psalms 119
 86 -
 87 -
 88 -
-89  different, length same at 48; different word(s): (Lord, - LORD,)
+89  different, length same at 48; different word(s): (LORD, - Lord,)
 90 -
 91 -
 92 -
@@ -96,7 +96,7 @@ Psalms 119
 94 -
 95 -
 96 -
-97  different, length same at 54, unknown difference:  Gutenberg (length=54): O how love I thy law! it is my meditation all the day.; Biblegateway (length=54): O how I love thy law! it is my meditation all the day.
+97  different, length same at 54, unknown difference:  Gutenberg (length=54): O how I love thy law! it is my meditation all the day.; Biblegateway (length=54): O how love I thy law! it is my meditation all the day.
 98 -
 99 -
 100 -
@@ -106,8 +106,8 @@ Psalms 119
 104 -
 105 -
 106 -
-107  different, length same at 70; different word(s): (Lord, - LORD,)
-108  different, length same at 95; different word(s): (Lord, - LORD,)
+107  different, length same at 70; different word(s): (LORD, - Lord,)
+108  different, length same at 95; different word(s): (LORD, - Lord,)
 109 -
 110 -
 111 -
@@ -125,7 +125,7 @@ Psalms 119
 123 -
 124 -
 125 -
-126  different, length same at 68; different word(s): (Lord, - LORD,)
+126  different, length same at 68; different word(s): (LORD, - Lord,)
 127 -
 128 -
 129 -
@@ -136,7 +136,7 @@ Psalms 119
 134 -
 135 -
 136 -
-137  different, length same at 58; different word(s): (Lord, - LORD,)
+137  different, length same at 58; different word(s): (LORD, - Lord,)
 138 -
 139 -
 140 -
@@ -144,35 +144,35 @@ Psalms 119
 142 -
 143 -
 144 -
-145  different, length same at 71; different word(s): (Lord: - LORD:)
+145  different, length same at 71; different word(s): (LORD: - Lord:)
 146 -
 147 -
 148 -
-149  different, length same at 94; different word(s): (Lord, - LORD,)
+149  different, length same at 94; different word(s): (LORD, - Lord,)
 150 -
-151  different, length same at 58; different word(s): (Lord; - LORD;)
+151  different, length same at 58; different word(s): (LORD; - Lord;)
 152 -
 153 -
 154 -
 155 -
-156  different, length same at 76; different word(s): (Lord: - LORD:)
+156  different, length same at 76; different word(s): (LORD: - Lord:)
 157 -
 158 -
-159  different, length same at 86; different word(s): (Lord, - LORD,)
+159  different, length same at 86; different word(s): (LORD, - Lord,)
 160 -
 161 -
 162 -
 163 -
 164 -
 165 -
-166  different, length same at 64; different word(s): (Lord, - LORD,)
+166  different, length same at 64; different word(s): (LORD, - Lord,)
 167 -
 168 -
-169  different, length same at 86; different word(s): (Lord: - LORD:)
+169  different, length same at 86; different word(s): (LORD: - Lord:)
 170 -
 171 -
 172 -
 173 -
-174  different, length same at 67; different word(s): (Lord; - LORD;)
+174  different, length same at 67; different word(s): (LORD; - Lord;)
 175 -
 176 -

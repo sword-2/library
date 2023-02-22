@@ -6,17 +6,17 @@ Micah 07
 4 -
 5 -
 6 -
-7  different, length same at 98; different word(s): (Lord; - LORD;)
-8  different, length same at 124; different word(s): (Lord - LORD)
-9  different, length same at 204; different word(s): (Lord, - LORD,)
-10  different, length same at 200; different word(s): (Lord - LORD)
+7  different, length same at 98; different word(s): (LORD; - Lord;)
+8  different, length same at 124; different word(s): (LORD - Lord)
+9  different, length same at 204; different word(s): (LORD, - Lord,)
+10  different, length same at 200; different word(s): (LORD - Lord)
 11 -
 12 -
 13 -
 14 -
 15 -
 16 -
-17  different, length same at 174; different word(s): (Lord - LORD)
+17  different, length same at 174; different word(s): (LORD - Lord)
 18 -
 19 -
 20 -

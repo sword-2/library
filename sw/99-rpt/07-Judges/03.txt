@@ -1,20 +1,20 @@
 Judges 03
 
-1  different, length same at 135; different word(s): (Lord - LORD)
+1  different, length same at 135; different word(s): (LORD - Lord)
 2 -
 3 -
-4  different, length same at 163; different word(s): (Lord, - LORD,)
+4  different, length same at 163; different word(s): (LORD, - Lord,)
 5 -
 6 -
-7  different, length same at 126; different word(s): (Lord, - LORD,) (Lord - LORD)
-8  different, length same at 193; different word(s): (Lord - LORD)
-9  different, length same at 186; different word(s): (Lord, - LORD,) (Lord - LORD)
-10  different, length same at 210; different word(s): (Lord - LORD) (Lord - LORD)
+7  different, length same at 126; different word(s): (LORD, - Lord,) (LORD - Lord)
+8  different, length same at 193; different word(s): (LORD - Lord)
+9  different, length same at 186; different word(s): (LORD, - Lord,) (LORD - Lord)
+10  different, length same at 210; different word(s): (LORD - Lord) (LORD - Lord)
 11 -
-12  different, length same at 185; different word(s): (Lord: - LORD:) (Lord - LORD) (Lord. - LORD.)
+12  different, length same at 185; different word(s): (LORD: - Lord:) (LORD - Lord) (LORD. - Lord.)
 13 -
 14 -
-15  different, length same at 220; different word(s): (Lord, - LORD,) (Lord - LORD)
+15  different, length same at 220; different word(s): (LORD, - Lord,) (LORD - Lord)
 16 -
 17 -
 18 -
@@ -27,7 +27,7 @@ Judges 03
 25 -
 26 -
 27 -
-28  different, length same at 218; different word(s): (Lord - LORD)
+28  different, length same at 218; different word(s): (LORD - Lord)
 29 -
 30 -
 31 -

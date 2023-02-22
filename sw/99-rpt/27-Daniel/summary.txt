@@ -6,15 +6,15 @@ Chapter: 01
 Chapter: 02
 
 Chapter: 03
-	24 different, lengths different;  Gutenberg (length=220): Then Nebuchadnezzar the king was astonished, and rose up in haste, and spake, and said unto his counsellors, Did not we cast three men bound into the midst of the fire? They answered and said unto the king, True, O king.; Biblegateway (length=218): Then Nebuchadnezzar the king was astonied, and rose up in haste, and spake, and said unto his counsellors, Did not we cast three men bound into the midst of the fire? They answered and said unto the king, True, O king.
+	24 different, lengths different;  Gutenberg (length=218): Then Nebuchadnezzar the king was astonied, and rose up in haste, and spake, and said unto his counsellors, Did not we cast three men bound into the midst of the fire? They answered and said unto the king, True, O king.; Biblegateway (length=220): Then Nebuchadnezzar the king was astonished, and rose up in haste, and spake, and said unto his counsellors, Did not we cast three men bound into the midst of the fire? They answered and said unto the king, True, O king.
 
 Chapter: 04
 
 Chapter: 05
-	25 different, length same at 70; different word(s): (Mene, - MENE,) (Mene, - MENE,) (Tekel, - TEKEL,) (Upharsin. - UPHARSIN.)
-	26 different, length same at 94; different word(s): (Mene; - MENE;)
-	27 different, length same at 63; different word(s): (Tekel; - TEKEL;)
-	28 different, length same at 67; different word(s): (Peres; - PERES;)
+	25 different, length same at 70; different word(s): (MENE, - Mene,) (MENE, - Mene,) (TEKEL, - Tekel,) (UPHARSIN. - Upharsin.)
+	26 different, length same at 94; different word(s): (MENE; - Mene;)
+	27 different, length same at 63; different word(s): (TEKEL; - Tekel;)
+	28 different, length same at 67; different word(s): (PERES; - Peres;)
 
 Chapter: 06
 
@@ -23,14 +23,14 @@ Chapter: 07
 Chapter: 08
 
 Chapter: 09
-	2 different, length same at 215; different word(s): (Lord - LORD)
-	4 different, length same at 198; different word(s): (Lord - LORD)
-	7 different, length same at 329; different word(s): (Lord, - LORD,)
-	10 different, length same at 127; different word(s): (Lord - LORD)
-	13 different, length same at 186; different word(s): (Lord - LORD)
-	14 different, length same at 166; different word(s): (Lord - LORD) (Lord - LORD)
-	16 different, length same at 281; different word(s): (Lord, - LORD,)
-	20 different, length same at 181; different word(s): (Lord - LORD)
+	2 different, length same at 215; different word(s): (LORD - Lord)
+	4 different, length same at 198; different word(s): (LORD - Lord)
+	7 different, length same at 329; different word(s): (LORD, - Lord,)
+	10 different, length same at 127; different word(s): (LORD - Lord)
+	13 different, length same at 186; different word(s): (LORD - Lord)
+	14 different, length same at 166; different word(s): (LORD - Lord) (LORD - Lord)
+	16 different, length same at 281; different word(s): (LORD, - Lord,)
+	20 different, length same at 181; different word(s): (LORD - Lord)
 
 Chapter: 10
 

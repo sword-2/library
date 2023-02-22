@@ -1,6 +1,6 @@
 Psalms 115
 
-1  different, length same at 104; different word(s): (Lord, - LORD,)
+1  different, length same at 104; different word(s): (LORD, - Lord,)
 2 -
 3 -
 4 -
@@ -8,13 +8,13 @@ Psalms 115
 6 -
 7 -
 8 -
-9  different, length same at 68; different word(s): (Lord: - LORD:)
-10  different, length same at 71; different word(s): (Lord: - LORD:)
-11  different, length same at 76; different word(s): (Lord, - LORD,) (Lord: - LORD:)
-12  different, length same at 120; different word(s): (Lord - LORD)
-13  different, length same at 60; different word(s): (Lord, - LORD,)
-14  different, length same at 65; different word(s): (Lord - LORD)
-15  different, length same at 55; different word(s): (Lord - LORD)
-16  different, length same at 97; different word(s): (Lord's: - LORD's:)
-17  different, length same at 68; different word(s): (Lord, - LORD,)
-18  different, length same at 82; different word(s): (Lord - LORD) (Lord. - LORD.)
+9  different, length same at 68; different word(s): (LORD: - Lord:)
+10  different, length same at 71; different word(s): (LORD: - Lord:)
+11  different, length same at 76; different word(s): (LORD, - Lord,) (LORD: - Lord:)
+12  different, length same at 120; different word(s): (LORD - Lord)
+13  different, length same at 60; different word(s): (LORD, - Lord,)
+14  different, length same at 65; different word(s): (LORD - Lord)
+15  different, length same at 55; different word(s): (LORD - Lord)
+16  different, length same at 97; different word(s): (LORD's: - Lord's:)
+17  different, length same at 68; different word(s): (LORD, - Lord,)
+18  different, length same at 82; different word(s): (LORD - Lord) (LORD. - Lord.)

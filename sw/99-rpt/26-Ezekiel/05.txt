@@ -4,16 +4,16 @@ Ezekiel 05
 2 -
 3 -
 4 -
-5  different, length same at 125; different word(s): (God; - GOD;)
+5  different, length same at 125; different word(s): (GOD; - God;)
 6 -
-7  different, length same at 258; different word(s): (God; - GOD;)
-8  different, length same at 147; different word(s): (God; - GOD;)
+7  different, length same at 258; different word(s): (GOD; - God;)
+8  different, length same at 147; different word(s): (GOD; - God;)
 9 -
 10 -
-11  different, length same at 250; different word(s): (God; - GOD;)
+11  different, length same at 250; different word(s): (GOD; - God;)
 12 -
-13  different, length same at 212; different word(s): (Lord - LORD)
+13  different, length same at 212; different word(s): (LORD - Lord)
 14 -
-15  different, length same at 228; different word(s): (Lord - LORD)
+15  different, length same at 228; different word(s): (LORD - Lord)
 16 -
-17  different, length same at 191; different word(s): (Lord - LORD)
+17  different, length same at 191; different word(s): (LORD - Lord)

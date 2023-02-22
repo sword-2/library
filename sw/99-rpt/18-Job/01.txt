@@ -5,13 +5,13 @@ Job 01
 3 -
 4 -
 5 -
-6  different, length same at 116; different word(s): (Lord, - LORD,)
-7  different, length same at 161; different word(s): (Lord - LORD) (Lord, - LORD,)
-8  different, length same at 180; different word(s): (Lord - LORD)
-9  different, length same at 69; different word(s): (Lord, - LORD,)
+6  different, length same at 116; different word(s): (LORD, - Lord,)
+7  different, length same at 161; different word(s): (LORD - Lord) (LORD, - Lord,)
+8  different, length same at 180; different word(s): (LORD - Lord)
+9  different, length same at 69; different word(s): (LORD, - Lord,)
 10 -
 11 -
-12  different, length same at 166; different word(s): (Lord - LORD) (Lord. - LORD.)
+12  different, length same at 166; different word(s): (LORD - Lord) (LORD. - Lord.)
 13 -
 14 -
 15 -
@@ -20,5 +20,5 @@ Job 01
 18 -
 19 -
 20 -
-21  different, length same at 159; different word(s): (Lord - LORD) (Lord - LORD) (Lord. - LORD.)
+21  different, length same at 159; different word(s): (LORD - Lord) (LORD - Lord) (LORD. - Lord.)
 22 -

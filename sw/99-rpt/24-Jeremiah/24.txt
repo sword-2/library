@@ -1,12 +1,12 @@
 Jeremiah 24
 
-1  different, length same at 311; different word(s): (Lord - LORD) (Lord, - LORD,)
+1  different, length same at 311; different word(s): (LORD - Lord) (LORD, - Lord,)
 2 -
-3  different, length same at 163; different word(s): (Lord - LORD)
-4  different, length same at 48; different word(s): (Lord - LORD)
-5  different, length same at 210; different word(s): (Lord, - LORD,)
+3  different, length same at 163; different word(s): (LORD - Lord)
+4  different, length same at 48; different word(s): (LORD - Lord)
+5  different, length same at 210; different word(s): (LORD, - Lord,)
 6 -
-7  different, length same at 169; different word(s): (Lord: - LORD:)
-8  different, length same at 248; different word(s): (Lord, - LORD,)
+7  different, length same at 169; different word(s): (LORD: - Lord:)
+8  different, length same at 248; different word(s): (LORD, - Lord,)
 9 -
 10 -
