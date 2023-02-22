@@ -24,6 +24,10 @@ How to download? In the past, a download button was remembered on github. But re
 
 A [doxygen](https://sword-2.github.io/library/html/html/index.html) file describes the estimated accuracy of these scriptures.
 
+## Software
+
+A little amount of software is present in this repo to check the scriptures as data, to understand and comprehend the configuration. This is a pre-requisite to a bible app used for getting the meaning of scriptures, where the bible app assumes the configuration is good.
+
 ## Other projects
 
 This repo is not the first to attempt to supply bible text. The list below identifies some more supplies, but is not complete. It is possible this repo may make it easier to browse simple text for kjv without installing a new app.

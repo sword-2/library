@@ -18,7 +18,8 @@ A second shell script (sw/1) read all the resuls for a particular book and summa
 <br><br>
 <table border=1><caption>Sub-pages</caption>
 <tr><th>Name / Link</th></tr>
-	<tr><td>\subpage differences-script "Differences from script"</td></tr>
+	<tr><td>\subpage differences-words "Differences in words / phrases"</td></tr>
+	<tr><td>\subpage differences-case "Differences in case"</td></tr>
 	<tr><td>\subpage differences-Names "Differences in book names"</td></tr>
 	<tr><td>\subpage filesystem "files and directory overview"</td></tr>
 	<tr><td>\subpage acronyms "Acronyms"</td></tr>

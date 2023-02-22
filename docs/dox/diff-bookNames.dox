@@ -1,6 +1,12 @@
 /*! \page differences-Names Differences in book names
 
-Names of many bible books from Gutenberg were shortened. For example, Genesis was used instead of "The First Book of Moses:  Called Genesis". Names remembered from Gutenbert which may have been shortened included the following ...
+Names of many bible books from Gutenberg were shortened. For example, Genesis was used instead of "The First Book of Moses:  Called Genesis". Names remembered from Gutenbert which may have been shortened are listed at the end.
+
+Some confusion occurred when doing a text search on one book title "The First Book of the Kings" in the Gutenberg etext since multiple results were observed:
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The First Book of Samuel Otherwise Called: The First Book of the Kings
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The First Book of the Kings Commonly Called: The Third Book of the Kings.
+
+Names remembered from Gutenberg:
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The First Book of Moses:  Called Genesis
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Second Book of Moses:  Called Exodus
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Third Book of Moses:  Called Leviticus
