@@ -23,7 +23,7 @@ for the JavaScript code in this file
 var NAVTREE =
 [
   [ "Software for 'data' that supports the bible", "index.html", [
-    [ "mainpage - comparison of Gutenberg and BibleGateway", "index.html", "index" ],
+    [ "mainpage - comparison of Gutenberg KJV and BibleGateway KJV", "index.html", "index" ],
     [ "Modules", "modules.html", "modules" ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ],

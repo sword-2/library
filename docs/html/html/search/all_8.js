@@ -1,7 +1,9 @@
 var searchData=
 [
-  ['the_20bible_20gateway_20parse_20_28bgp_29_20group_19',['The Bible Gateway parse (BGp) Group',['../group__BibleGatewayParse.html',1,'']]],
-  ['tab_20',['tab',['../group__VerseCompare.html#ga64f498ab6df32cbc4aee8080665e97d3',1,'VC.cpp']]],
-  ['tokenize_21',['tokenize',['../group__VerseCompare.html#ga4d9fe0ebe4b353790cbd9823d04a20e2',1,'VC.cpp']]],
-  ['the_20verse_20compare_20_28vc_29_20group_22',['The Verse Compare (VC) Group',['../group__VerseCompare.html',1,'']]]
+  ['vc_2ecpp_17',['VC.cpp',['../VC_8cpp.html',1,'']]],
+  ['verses_18',['verses',['../group__VerseCompare.html#ga67efd6305b06562bf3ee5ac4b56383de',1,'VC.cpp']]],
+  ['verseslcbg_19',['versesLcBg',['../group__VerseCompare.html#gab427b53dcbf04642c2b047003bd8fc92',1,'VC.cpp']]],
+  ['verseslci_20',['versesLcI',['../group__VerseCompare.html#gaa2607e58a6e46ed6a01c7919e81808d7',1,'VC.cpp']]],
+  ['versesvbg_21',['versesVbg',['../group__VerseCompare.html#ga70c8ddfdccc56191083b1915981cf197',1,'VC.cpp']]],
+  ['versesvi_22',['versesVi',['../group__VerseCompare.html#ga50c3f146b5375aa3f64926ee58914548',1,'VC.cpp']]]
 ];
