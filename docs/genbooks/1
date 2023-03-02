@@ -1,0 +1,16 @@
+#!/bin/sh
+#Script that examined links in the root node for the OSIS example
+
+tutorial=https://wiki.crosswire.org/OSIS_Genbooks
+schemaLoc1=http://www.bibletechnologies.net/2003/OSIS/namespace
+schemaLoc2=http://www.bibletechnologies.net/osisCore.2.1.1.xsd
+xmlns_xsi=http://www.w3.org/2001/XMLSchema-instance
+xmlns=http://www.bibletechnologies.net/2003/OSIS/namespace
+
+#try to open things with browser
+			printf '\nopening tutorial in terminal broswer ...';
+			#w3m $tutorial  
+			w3m $schemaLoc1 #requested url Not found
+			#w3m $schemaLoc2 #requested url Not found
+			#w3m $xmlns_xsi #does a download, but it is binary format
+			#w3m $xmlns #requested url Not found
