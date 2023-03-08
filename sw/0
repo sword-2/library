@@ -1,0 +1,237 @@
+#!/bin/sh
+#This was run from own folder by typing
+	#./0 c to compare verses with biblegateway
+	#./0 md5 to get checksums on each chapter to verify integrity of files
+#There is some incomplete code as it is still a work in progress.
+
+#global variables
+	dirNm='' #longer directory Name from Gnu find
+	baseNm='' #same as above but just last part
+	bkNo='' #number of bible book 1-66
+	bkNm='' #name of book, Genesis, 1 Timothy, etc
+	chNo='' #chapter number 01, 02, etc. Psalms format has 3 digits - 001, 002 ... 150
+	vNo='' #verse number
+	verse='' #verse content from Gutenberg
+	BGverse='' #verse content from biblegatewayextracted
+#directory paths
+	ddir=../kjv #data directory with scriptures
+	sdir=. #software directory and reports in 99-rpt
+
+kjv_main() {
+
+	case $1 in
+		"c") #check books - can be limited by if block below
+			books=$(find $ddir/*  -maxdepth 0 -type d -exec printf '%s|' {} \;)
+			#debugging option
+				#printf '\nbooks=%s' "$books"
+
+			removedLast=${books%?} #remove last of special delimiter from Gnu find - pipe symbol
+			IFS="|" #prepare to split on that delimiter
+			for dirNm in ${removedLast}; do
+				baseNm=${dirNm##*/}
+				bkNo=${baseNm%-*}
+				bkNm=${baseNm#*-}
+				#clear some global variables typically updated in subrouties
+					chNo=''
+					vNo=''
+					verse=''
+					BGverse=''
+
+				#debugging option:
+				#printf '\nbaseNm=%s bkNo=%s bkNm=%s' "${baseNm}" "${bkNo}" "${bkNm}"
+				
+				#if block allows limiting the processing to one or two books or processing all of them
+				if [ $bkNo -ge 01 ] && [ $bkNo -le 66 ]; then
+					bookProcess
+				fi
+			done
+			;;
+		"seq") #Same logic as above, but different subroutines to check that the sequence of verses is continuous and goes up to the expected maximum.
+			books=$(find $ddir/*  -maxdepth 0 -type d -exec printf '%s|' {} \;)
+			#debugging option
+				#printf '\nbooks=%s' "$books"
+
+			removedLast=${books%?} #remove last of special delimiter from Gnu find - pipe symbol
+			IFS="|" #prepare to split on that delimiter
+			for dirNm in ${removedLast}; do
+				baseNm=${dirNm##*/}
+				bkNo=${baseNm%-*}
+				bkNm=${baseNm#*-}
+				#clear some global variables typically updated in subrouties
+					chNo=''
+					vNo=''
+					verse=''
+					BGverse=''
+
+				#debugging option:
+				#printf '\nbaseNm=%s bkNo=%s bkNm=%s' "${baseNm}" "${bkNo}" "${bkNm}"
+				
+				#if block allows limiting the processing to one or two books or processing all of them
+				if [ $bkNo -ge 01 ] && [ $bkNo -le 01 ]; then
+					bookSequence
+				fi
+			done
+		;;
+		"md5") #run md5sum program to get a checksum to verify integrity of the set of scripture files.
+			if [ -f $sdir/checksumfile.md5 ]; then rm $sdir/checksumfile.md5; fi
+
+			temp_file1=$(mktemp)
+			temp_file2=$(mktemp)
+			find "${ddir}/" -type f \( -name '[0-9][0-9].txt' -o -name '[0-1][0-5][0-9].txt' \) -printf '%P\n' > "$temp_file1"
+
+
+			sort "$temp_file1" > "$temp_file2" 
+			\rm "$temp_file1"; 
+
+			while read line
+			do
+				#printf '\ndebug line=%s' "${line}"
+				md5sum "${ddir}/${line}" >> $sdir/checksumfile.md5
+			done <  "$temp_file2"
+			\rm  "$temp_file2"
+		;;
+		"t1") #Optional subroutine to run biblegateway parser using a presaved file when the network down
+			gtest1
+			;;
+		*)
+			printf '\nunexpected argument %s, printing options then exit' "$1"; exit 1
+		;;
+		esac
+	exit 0
+} #end details
+
+
+bookSequence() {
+}
+
+bookProcess() { #process a book (each chapter in the book folder)
+
+	temp_file1=$(mktemp)
+	temp_file2=$(mktemp)
+	find "${ddir}/${baseNm}/" -type f \( -name '[0-9][0-9].txt' -o -name '[0-1][0-5][0-9].txt' \) -printf '%P\n' > "$temp_file1"
+
+
+	sort "$temp_file1" > "$temp_file2" 
+	\rm "$temp_file1"; 
+
+	#delete folder for current book, if it is present in 99-rpt
+	if [ -d ${sdir}/99-rpt/"${baseNm}" ]; then
+		\rm -rf ${sdir}/99-rpt/"${baseNm}"
+	fi
+	mkdir ${sdir}/99-rpt/"${baseNm}"
+
+
+	#loop over list of filenames
+	printf '\n'
+	while read line
+	do
+		chNo="${line%.*}" #chapter number
+		#debugging option: if block to limit processing
+		#if [ $chNo -eq 01 ]; then
+			chapProcess
+		#fi
+	done < "$temp_file2"
+
+	\rm "$temp_file2"
+}
+
+chapProcess() { #operations on each chapter.
+
+	#Another temp file to remove header lines and possile a newline (+3) in scripture file using the tail command.
+	temp_file3=$(mktemp)
+	tail +3 "${ddir}/${baseNm}/${chNo}".txt > $temp_file3
+	#printf '\nshell debug: vNo=%s verse=%s' "$vNo" "$verse"
+	#tmp1=$(cat $temp_file3)
+	#printf '\nshell debug: temp_file3=%s' "$tmp1"
+
+
+	#make header at top of file - book name & chapter number
+	printf '%s %s\n' "${bkNm}" "${chNo}" >> ${sdir}/99-rpt/"${baseNm}"/${chNo}.txt
+
+	while read line
+	do
+		vNo="${line%% *}" #chapter number
+		verse="${line#* }"
+
+		#debugging option to limit processing to one verse
+		#if [ ${vNo} -eq 1 ]; then
+			verseProcess 
+			#printf '\nvNo=%s verse=%s' "$vNo" "$verse"
+		#fi
+	done <  $temp_file3
+	\rm  $temp_file3
+}
+
+verseProcess() {
+	#printf '\nverseProcess() not implemented yet.'
+	#URL to bible gateway for Gen 1:2
+	#https://www.biblegateway.com/passage/?search=Gen+1%3A2&version=KJV				It also took Genesis instead of just Gen
+	urlpfx='https://www.biblegateway.com/passage/?search='
+	urlsfx='&version=KJV'
+	url="${urlpfx}${bkNm}+${chNo}%3A${vNo}${urlsfx}"
+
+	webresult=$(curl "${url}")
+
+	BGverse=$(printf '%s' "$webresult" | ${sdir}/c++/BGp.o)
+
+	#run a program to help compare the 2 verses
+	#When first coding, core dumps happened, make sure any old cores are cleared
+	if [ -f core ]; then
+		printf '\nshell: removing core'
+		\rm core
+	fi
+
+	#a pipe to send verses to an executable
+	if [ -p pipe1 ]; then
+		printf '\nshell: ERROR, pipe1 already exists, deleting it'
+		\rm pipe1
+	fi
+	mkfifo --mode=666 pipe1
+	
+	
+	#printf '\nshell: about to send verses into the pipe. BVverse=%s; verse=%s' "${BGverse}" "${verse}"; exit 0
+	#printf 'This is verse one.\nThis is verse ONE.\n' > pipe1 & #A manual test verse
+	printf '%s\n%s\n' "${verse}" "${BGverse}" > pipe1 &
+	#printf '\nverseProcess: \n\tBGverse: %s \n\t  verse: %s' "$BGverse" "${verse}"
+
+	#printf '\nshell: starting c++/VC.o in background'
+	reply=$(${sdir}/c++/VC.o 'pipe1' &)
+	pid=$!
+	wait $pid; exit_code=$?
+	if [ $exit_code -eq 0 ]; then #successful exit code
+		printf '\n%s %s' "${vNo}" "${reply}" >> ${sdir}/99-rpt/"${baseNm}"/${chNo}.txt
+	else
+		printf '\n%s ERROR, shell received an error from VC.o: %s' "${vNo}" "${reply}" >> ${sdir}/99-rpt/"${baseNm}"/${chNo}.txt
+	fi
+
+	\rm pipe1
+
+}
+
+gtest1() { #This code tests verse extraction from programs when the network is unavailable. There is a preloaded biblegateway webpage for one verse downloaded. This code sends that file to the C++  to extract the verse text.
+	#printf '\nfunction deactivated.'
+		
+	oFile='c++/Gen1-2.html'
+#			
+#	#get a web page, if not already done
+#	#url='https://www.biblegateway.com/passage/?search=Gen+1%3A2&version=KJV'
+#	#if [ -f "$oFile" ]; then \rm "$oFile"; fi
+#	#curl -o "$oFile" "${url}"
+
+	printf '\nshell test to call C++ object file ...'
+	BGverse=$(cat "$oFile" | c++/BGp.o)
+	printf '\nshell test, C++ object file returned: %s' "$BGverse"
+
+}
+
+
+debug() {
+	#printf '\ndebug not implemented yet.'
+	printf '\ndebug() for some common variables'
+	printf '\n\tdirNm=%s, bkNo=%s, bkNm=%s, chNo=%s, vNo=%s' "$dirNm" "$bkNo" "$bkNm" "$chNo" "$vNo"
+	printf '\n\tverse=%s' "$verse"
+}
+
+kjv_main "$@"; exit
+
+
